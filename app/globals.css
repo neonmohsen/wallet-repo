@@ -1,0 +1,11 @@
+/* app/globals.css */
+
+body {
+    font-family: "Roboto", Arial, sans-serif;
+    box-sizing: border-box;
+    background-color: #121212;
+    color: #e0e0e0;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}

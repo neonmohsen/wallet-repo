@@ -1,0 +1,142 @@
+/* app/wallet/[walletAddress]/page.module.css */
+
+.pageWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background: linear-gradient(135deg, #1c1c1c, #323232);
+    padding: 20px;
+    box-sizing: border-box;
+    min-height: 100vh;
+}
+
+.container {
+    padding: 20px;
+    margin: 40px auto;
+    max-width: 90vw; 
+    min-width: 70vw; 
+    background: #1e1e1e;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+    overflow-x: auto; 
+    min-height: calc(100vh - 80px); 
+}
+
+.container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.5);
+}
+
+.header {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #ffeb3b;
+    margin-bottom: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.backLink {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #64b5f6;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.backLink:hover {
+    color: #ffeb3b;
+    text-shadow: 0 0 5px #ffeb3b;
+}
+
+.chartContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    background: #2e2e2e;
+    padding: 30px;
+    border-radius: 15px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #444;
+}
+
+.loader {
+    color: #ffeb3b;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.walletAddress {
+    display: block;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 1rem;
+    color: #64b5f6;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+    margin-top: 10px; 
+}
+
+.walletAddress:hover {
+    color: #ffeb3b;
+    text-shadow: 0 0 5px #ffeb3b;
+}
+
+@media (max-width: 768px) {
+    .header {
+        font-size: 2rem;
+    }
+
+    .chartContainer {
+        padding: 20px;
+    }
+
+    .backLink {
+        font-size: 1rem;
+    }
+
+    .container {
+        padding: 15px;
+        margin: 20px auto;
+        min-height: calc(100vh - 40px); 
+        min-width: 320px; 
+    }
+}
+
+@media (max-width: 480px) {
+    .walletAddress {
+        font-size: 0.85rem;
+        max-width: 90%; 
+    }
+
+    .header {
+        font-size: 1.5rem;
+    }
+
+    .chartContainer {
+        padding: 15px;
+    }
+
+    .container {
+        padding: 15px;
+        margin: 20px;
+        overflow-x: auto;
+        min-height: calc(100vh - 40px); 
+        min-width: 320px; 
+    }
+
+    .backLink {
+        font-size: 0.9rem;
+    }
+}

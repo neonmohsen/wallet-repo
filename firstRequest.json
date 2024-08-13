@@ -1,0 +1,3569 @@
+[
+    {
+        "walletAddress": "0x67ac54c5de335898fc57529388345b26e496497d",
+        "networkId": "eth",
+        "winRate": 97.16981132075472,
+        "netProfit": 3221454.5898578735,
+        "avgHoldingTime": 0.05416666666666667,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1050,
+        "age": 157,
+        "dayActive": 53,
+        "SwapTime": ["2024-04-05T07:07:17.792Z"],
+        "TotalFee": 1531.8939276596423,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 104,
+        "totalNumofFullyOpenedData": 27,
+        "totalTransactions": 994,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 2
+    },
+    {
+        "walletAddress": "0x66dceb2b3f5beb480b743e0889460fc7be54e2f8",
+        "networkId": "eth",
+        "winRate": 37.01550387596899,
+        "netProfit": 775965.7132144351,
+        "avgHoldingTime": 1.88,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 950,
+        "age": 139,
+        "dayActive": 126,
+        "SwapTime": ["2024-06-06T13:07:36.980Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 19,
+        "totalNumofFullyOpenedData": 84,
+        "totalTransactions": 2755,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 20
+    },
+    {
+        "walletAddress": "0x78b1094269465e61b08fe6040db5cb754e85a159",
+        "networkId": "eth",
+        "winRate": 66.25,
+        "netProfit": 198992.5539234651,
+        "avgHoldingTime": 3.42,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 850,
+        "age": 807,
+        "dayActive": 293,
+        "SwapTime": ["2024-03-05T07:29:29.878Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 21,
+        "totalNumofFullyOpenedData": 31,
+        "totalTransactions": 2537,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 32
+    },
+    {
+        "walletAddress": "0xb421507dd578b64bac68e7d6f00686c5c484d7ee",
+        "networkId": "eth",
+        "winRate": 29.166666666666668,
+        "netProfit": 158779.8190374364,
+        "avgHoldingTime": 2.83,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 850,
+        "age": 86,
+        "dayActive": 77,
+        "SwapTime": ["2024-06-30T19:52:54.541Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 4,
+        "totalNumofFullyOpenedData": 12,
+        "totalTransactions": 1482,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 35
+    },
+    {
+        "walletAddress": "2TtcKJBRZPk8W22wTmYmGfmK6qfceYQRmvAfWMGJjkC5",
+        "networkId": "eth",
+        "winRate": 55.55555555555556,
+        "netProfit": 107165.66910864276,
+        "avgHoldingTime": 0.29041666666666666,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1050,
+        "age": 8,
+        "dayActive": 8,
+        "SwapTime": ["2024-08-07T18:40:00.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 0,
+        "totalTransactions": 165,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 3
+    },
+    {
+        "walletAddress": "0x81dd1ab1f25035e7a09a6f36c268292247514074",
+        "networkId": "eth",
+        "winRate": 100,
+        "netProfit": 61495.8635982079,
+        "avgHoldingTime": 0.3020833333333333,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 76,
+        "dayActive": 39,
+        "SwapTime": ["2024-05-29T05:17:41.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 2,
+        "totalTransactions": 202,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 15
+    },
+    {
+        "walletAddress": "0xd448f985cac270c4fac8bf97281bf259a027925a",
+        "networkId": "eth",
+        "winRate": 66.66666666666666,
+        "netProfit": 28157.70019056538,
+        "avgHoldingTime": 3.57,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 479,
+        "dayActive": 72,
+        "SwapTime": ["2024-04-12T22:16:25.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 11,
+        "totalTransactions": 283,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 23
+    },
+    {
+        "walletAddress": "0x63690dc99bea8a6fce5c8106234c49ea9ed27384",
+        "networkId": "eth",
+        "winRate": 100,
+        "netProfit": 4254.611640293693,
+        "avgHoldingTime": 1.58,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 133,
+        "dayActive": 39,
+        "SwapTime": ["2024-04-02T03:27:29.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 25,
+        "totalTransactions": 64,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 28
+    },
+    {
+        "walletAddress": "0x8d3fca21bef3fce0d7be3a2777dd2db9ce0ddcde",
+        "networkId": "eth",
+        "winRate": 39.705882352941174,
+        "netProfit": 4186.16719796052,
+        "avgHoldingTime": 0.16125,
+        "buyAmountLabel": "Medium Size",
+        "totalScore": 950,
+        "age": 152,
+        "dayActive": 96,
+        "SwapTime": ["2024-06-19T06:46:30.058Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 7,
+        "totalNumofFullyOpenedData": 6,
+        "totalTransactions": 1353,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 21
+    },
+    {
+        "walletAddress": "0xfa040a07183a456e9c2210287330cba168e123c8",
+        "networkId": "eth",
+        "winRate": 26.923076923076923,
+        "netProfit": 3641.446641985375,
+        "avgHoldingTime": 109.83,
+        "buyAmountLabel": "Medium Size",
+        "totalScore": 1000,
+        "age": 778,
+        "dayActive": 224,
+        "SwapTime": ["2024-03-16T02:36:07.666Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 11,
+        "totalNumofFullyOpenedData": 7,
+        "totalTransactions": 653,
+        "HotTokenHolders": [
+            {
+                "tokenName": "WWNF",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": 0.045,
+                "Buy Amount (USD)": 153.8165478515625,
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -153.8165478515625,
+                "Entry Price": 4.598263806036398e-9,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-18T05:02:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of WWNF": 0,
+                "Buy Amount of WWNF": 33451005496.822277,
+                "Balance": 33451005496.822277,
+                "Currency Address": "0x2ec6603cff128dd4500e6edc90cf4a25050f37b3",
+                "tokenPrice": 0,
+                "totalReserveInUSD": "17592.874183471048932102557832",
+                "currentValue": 0,
+                "currentProfit": -153.8165478515625
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "WWNF",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": 0.045,
+            "Buy Amount (USD)": 153.8165478515625,
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -153.8165478515625,
+            "Entry Price": 4.598263806036398e-9,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-18T05:02:11Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of WWNF": 0,
+            "Buy Amount of WWNF": 33451005496.822277,
+            "Balance": 33451005496.822277,
+            "Currency Address": "0x2ec6603cff128dd4500e6edc90cf4a25050f37b3",
+            "tokenPrice": 0,
+            "totalReserveInUSD": "17592.874183471048932102557832",
+            "currentValue": 0,
+            "currentProfit": -153.8165478515625
+        },
+        "rank": 6
+    },
+    {
+        "walletAddress": "0x24427faddbea64d32809e894b600906a586ae60e",
+        "networkId": "eth",
+        "winRate": 68.42105263157895,
+        "netProfit": 2441.5792451425873,
+        "avgHoldingTime": 14.77,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 47,
+        "dayActive": 35,
+        "SwapTime": ["2024-07-17T08:27:25.052Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 5,
+        "totalNumofFullyOpenedData": 13,
+        "totalTransactions": 248,
+        "HotTokenHolders": [
+            {
+                "tokenName": "MAGOA",
+                "isPartiallyClosed": true,
+                "balance": 37167059.16789961,
+                "balanceType": "partiallyClosedPositions",
+                "Buy Amount": 0.27,
+                "Buy Amount (USD)": 938.947001953125,
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 948.2395201749121,
+                "Profit": 9.292518221787077,
+                "Entry Price": 0.0000021068949962143715,
+                "Exit Price": 0.0000023213437754955407,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-20T12:34:11Z"
+                    },
+                    {
+                        "time": "2024-07-19T18:07:35Z"
+                    },
+                    {
+                        "time": "2024-07-18T02:46:35Z"
+                    },
+                    {
+                        "time": "2024-07-18T02:45:35Z"
+                    }
+                ],
+                "Sell Times": [
+                    {
+                        "time": "2024-07-20T20:25:23Z"
+                    },
+                    {
+                        "time": "2024-07-20T09:27:47Z"
+                    }
+                ],
+                "Num of Buy Times": 4,
+                "Num of Sell Times": 2,
+                "Sell Amount of MAGOA": 408487329.7030251,
+                "Buy Amount of MAGOA": 445654388.8709247,
+                "Balance": 37167059.16789961,
+                "Currency Address": "0x9f4ac5ea89b1623e35328904d7d61b08b55daa50",
+                "tokenPrice": "0.00000023",
+                "totalReserveInUSD": "23308.516726456347299074082010708276",
+                "currentValue": 8.54842360861691,
+                "currentProfit": 17.840941830403985
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "MAGOA",
+            "isPartiallyClosed": true,
+            "balance": 37167059.16789961,
+            "balanceType": "partiallyClosedPositions",
+            "Buy Amount": 0.27,
+            "Buy Amount (USD)": 938.947001953125,
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 948.2395201749121,
+            "Profit": 9.292518221787077,
+            "Entry Price": 0.0000021068949962143715,
+            "Exit Price": 0.0000023213437754955407,
+            "Buy Times": [
+                {
+                    "time": "2024-07-20T12:34:11Z"
+                },
+                {
+                    "time": "2024-07-19T18:07:35Z"
+                },
+                {
+                    "time": "2024-07-18T02:46:35Z"
+                },
+                {
+                    "time": "2024-07-18T02:45:35Z"
+                }
+            ],
+            "Sell Times": [
+                {
+                    "time": "2024-07-20T20:25:23Z"
+                },
+                {
+                    "time": "2024-07-20T09:27:47Z"
+                }
+            ],
+            "Num of Buy Times": 4,
+            "Num of Sell Times": 2,
+            "Sell Amount of MAGOA": 408487329.7030251,
+            "Buy Amount of MAGOA": 445654388.8709247,
+            "Balance": 37167059.16789961,
+            "Currency Address": "0x9f4ac5ea89b1623e35328904d7d61b08b55daa50",
+            "tokenPrice": "0.00000023",
+            "totalReserveInUSD": "23308.516726456347299074082010708276",
+            "currentValue": 8.54842360861691,
+            "currentProfit": 17.840941830403985
+        },
+        "rank": 22
+    },
+    {
+        "walletAddress": "0x5497147b533b01210e4df79f16b433b725014478",
+        "networkId": "eth",
+        "winRate": 50,
+        "netProfit": 1611.7287783534834,
+        "avgHoldingTime": 0.1575,
+        "buyAmountLabel": "Small Size",
+        "totalScore": 850,
+        "age": 174,
+        "dayActive": 28,
+        "SwapTime": ["2024-06-28T05:20:47.000Z"],
+        "TotalFee": 43.22635231523562,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 3,
+        "totalNumofFullyOpenedData": 3,
+        "totalTransactions": 470,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 33
+    },
+    {
+        "walletAddress": "0x8e323d30ed09e73e95d982808dd4d160bf16b745",
+        "networkId": "eth",
+        "winRate": 100,
+        "netProfit": 1227.2265272075417,
+        "avgHoldingTime": 0.00009722222222222223,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 835,
+        "dayActive": 100,
+        "SwapTime": ["2024-04-17T11:43:53.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 9,
+        "totalTransactions": 323,
+        "HotTokenHolders": [
+            {
+                "tokenName": "SWAG",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.60422186937025720500.65000000000000000000.20206238134188078400.48300000000000000000.36400000000000000000.36000000000000000000.72950887444938993900.84000000000000000000.18000000000000000000.160000000000000000",
+                "Buy Amount (USD)": "001480.222470056067301479.9541503906250640.092185516779601536.244351318359301207.392532226562501205.67120117187502467.808837212571702869.75725585937470629.95346191406250542.953359375",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-07T14:05:23Z"
+                    },
+                    {
+                        "time": "2024-08-05T12:01:47Z"
+                    },
+                    {
+                        "time": "2024-08-01T14:49:11Z"
+                    },
+                    {
+                        "time": "2024-08-01T09:01:23Z"
+                    },
+                    {
+                        "time": "2024-07-31T19:07:11Z"
+                    },
+                    {
+                        "time": "2024-07-30T13:40:23Z"
+                    },
+                    {
+                        "time": "2024-07-24T19:04:23Z"
+                    },
+                    {
+                        "time": "2024-07-24T15:47:47Z"
+                    },
+                    {
+                        "time": "2024-07-21T15:57:47Z"
+                    },
+                    {
+                        "time": "2024-07-19T09:03:23Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 10,
+                "Num of Sell Times": 0,
+                "Sell Amount of SWAG": 0,
+                "Buy Amount of SWAG": "0057360.8149411540106705.446604136021521.019856608051010.563906655024912.754633141020829.346970441024871.813416112026872.96760865906253.76035073606484.515119146",
+                "Balance": null,
+                "Currency Address": "0x36c7188d64c44301272db3293899507eabb8ed43",
+                "tokenPrice": "0.01461385",
+                "totalReserveInUSD": "117800.5099227086086982000916072",
+                "currentValue": 0,
+                "currentProfit": 0
+            }
+        ],
+        "firstTopTokenHolder": "-",
+        "rank": 29
+    },
+    {
+        "walletAddress": "0x0c3ac7995f671cd8e20c65ad20164311871cda34",
+        "networkId": "eth",
+        "winRate": 100,
+        "netProfit": 996.7867475128195,
+        "avgHoldingTime": 0.00025694444444444446,
+        "buyAmountLabel": "Small Size",
+        "totalScore": 1000,
+        "age": 30,
+        "dayActive": 1,
+        "SwapTime": ["2024-07-14T09:06:29.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 1,
+        "totalTransactions": 6,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 17
+    },
+    {
+        "walletAddress": "0x34dd58ba0e9ae25e64b11eef73523c7353b17b77",
+        "networkId": "eth",
+        "winRate": 100,
+        "netProfit": 639.1207346690081,
+        "avgHoldingTime": 1.21,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 131,
+        "dayActive": 8,
+        "SwapTime": ["2024-07-09T20:25:53.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 0,
+        "totalTransactions": 22,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 26
+    },
+    {
+        "walletAddress": "0x3875ba5071d2560206bd563682aa367f9fdddcc4",
+        "networkId": "eth",
+        "winRate": 100,
+        "netProfit": 586.0255888723214,
+        "avgHoldingTime": 0.09749999999999999,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 56,
+        "dayActive": 8,
+        "SwapTime": ["2024-06-17T21:35:29.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 0,
+        "totalTransactions": 45,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 24
+    },
+    {
+        "walletAddress": "0xf163da50778b4adc463c727188dd73724d72dd09",
+        "networkId": "eth",
+        "winRate": 38.88888888888889,
+        "netProfit": 485.53014570618416,
+        "avgHoldingTime": 0.3804166666666667,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1100,
+        "age": 56,
+        "dayActive": 53,
+        "SwapTime": ["2024-07-20T01:21:24.666Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 5,
+        "totalTransactions": 506,
+        "HotTokenHolders": [
+            {
+                "tokenName": "MAGAA",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "0015.000000",
+                "Buy Amount (USD)": "0014.985393583774567",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -14.985393583774567,
+                "Entry Price": 0.00004427976825476521,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-06-28T04:33:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of MAGAA": 0,
+                "Buy Amount of MAGAA": "00338425.293862325027344639",
+                "Balance": 338425.293862325,
+                "Currency Address": "0x9ebb0895bd9c7c9dfab0d8d877c66ba613ac98ea",
+                "tokenPrice": "0.01712300",
+                "totalReserveInUSD": "751320.1135483914236163254701915790536256",
+                "currentValue": 5794.856306804591,
+                "currentProfit": 5779.870913220817
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "MAGAA",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "0015.000000",
+            "Buy Amount (USD)": "0014.985393583774567",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -14.985393583774567,
+            "Entry Price": 0.00004427976825476521,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-06-28T04:33:11Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of MAGAA": 0,
+            "Buy Amount of MAGAA": "00338425.293862325027344639",
+            "Balance": 338425.293862325,
+            "Currency Address": "0x9ebb0895bd9c7c9dfab0d8d877c66ba613ac98ea",
+            "tokenPrice": "0.01712300",
+            "totalReserveInUSD": "751320.1135483914236163254701915790536256",
+            "currentValue": 5794.856306804591,
+            "currentProfit": 5779.870913220817
+        },
+        "rank": 1
+    },
+    {
+        "walletAddress": "0x729606657aff7bd8e78cf5f9da1bb1823cefa876",
+        "networkId": "eth",
+        "winRate": 100,
+        "netProfit": 381.3984863514909,
+        "avgHoldingTime": 2.6,
+        "buyAmountLabel": "Medium Size",
+        "totalScore": 800,
+        "age": 184,
+        "dayActive": 13,
+        "SwapTime": ["2024-06-09T11:11:17.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 3,
+        "totalTransactions": 34,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 47
+    },
+    {
+        "walletAddress": "0x50b16b78058535513451f4430f65020480d7477b",
+        "networkId": "eth",
+        "winRate": 75,
+        "netProfit": 173.85418701514305,
+        "avgHoldingTime": 1.09,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 850,
+        "age": 75,
+        "dayActive": 20,
+        "SwapTime": ["2024-07-01T16:16:42.500Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 6,
+        "totalTransactions": 55,
+        "HotTokenHolders": [
+            {
+                "tokenName": "WWNF",
+                "isPartiallyClosed": true,
+                "balance": 11958050123.735,
+                "balanceType": "partiallyClosedPositions",
+                "Buy Amount": "000.050000000000000000",
+                "Buy Amount (USD)": "00172.0625",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": "00326.8541540146352",
+                "Profit": 154.79165401463518,
+                "Entry Price": 2.0993971884425154e-9,
+                "Exit Price": 4.669345057351931e-9,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-18T07:12:23Z"
+                    }
+                ],
+                "Sell Times": [
+                    {
+                        "time": "2024-07-18T12:47:35Z"
+                    }
+                ],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 1,
+                "Sell Amount of WWNF": "0070000000000.000000000",
+                "Buy Amount of WWNF": "0081958050123.735001653",
+                "Balance": 11958050123.735,
+                "Currency Address": "0x2ec6603cff128dd4500e6edc90cf4a25050f37b3",
+                "currentValue": 0,
+                "currentProfit": 154.79165401463518
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "WWNF",
+            "isPartiallyClosed": true,
+            "balance": 11958050123.735,
+            "balanceType": "partiallyClosedPositions",
+            "Buy Amount": "000.050000000000000000",
+            "Buy Amount (USD)": "00172.0625",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": "00326.8541540146352",
+            "Profit": 154.79165401463518,
+            "Entry Price": 2.0993971884425154e-9,
+            "Exit Price": 4.669345057351931e-9,
+            "Buy Times": [
+                {
+                    "time": "2024-07-18T07:12:23Z"
+                }
+            ],
+            "Sell Times": [
+                {
+                    "time": "2024-07-18T12:47:35Z"
+                }
+            ],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 1,
+            "Sell Amount of WWNF": "0070000000000.000000000",
+            "Buy Amount of WWNF": "0081958050123.735001653",
+            "Balance": 11958050123.735,
+            "Currency Address": "0x2ec6603cff128dd4500e6edc90cf4a25050f37b3",
+            "currentValue": 0,
+            "currentProfit": 154.79165401463518
+        },
+        "rank": 37
+    },
+    {
+        "walletAddress": "0x2aca8dfcf78be0901d7c34448e61326f376c2a5a",
+        "networkId": "eth",
+        "winRate": 42.857142857142854,
+        "netProfit": 156.94654839037176,
+        "avgHoldingTime": 28.419999999999998,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 143,
+        "dayActive": 105,
+        "SwapTime": ["2024-06-25T10:47:06.200Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 2,
+        "totalNumofFullyOpenedData": 158,
+        "totalTransactions": 1629,
+        "HotTokenHolders": [
+            {
+                "tokenName": "BRAT",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.005000000000000000",
+                "Buy Amount (USD)": "0013.11037109375",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -13.11037109375,
+                "Entry Price": 0.000008165323939313452,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-11T15:34:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of BRAT": 0,
+                "Buy Amount of BRAT": "001605615.550734945",
+                "Balance": 1605615.550734945,
+                "Currency Address": "0x69d09be6a5b51241f283937dcbe36e6484bdd48a",
+                "tokenPrice": "0.00000044",
+                "totalReserveInUSD": "32471.801550992058434620585384918792",
+                "currentValue": 0.7064708423233759,
+                "currentProfit": -12.403900251426624
+            },
+            {
+                "tokenName": "MAGAA",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.005000000000000000",
+                "Buy Amount (USD)": "0013.085706787109375",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -13.085706787109375,
+                "Entry Price": 0.024813611224494072,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-10T14:42:59Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of MAGAA": 0,
+                "Buy Amount of MAGAA": "00527.360031102291985441",
+                "Balance": 527.3600311022919,
+                "Currency Address": "0x9ebb0895bd9c7c9dfab0d8d877c66ba613ac98ea",
+                "tokenPrice": "0.02314632",
+                "totalReserveInUSD": "894432.2613704113821481112179740565904792",
+                "currentValue": 12.206444035103603,
+                "currentProfit": -0.8792627520057721
+            },
+            {
+                "tokenName": "ONI",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.007000000000000000",
+                "Buy Amount (USD)": "0016.747816162109377",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -16.747816162109377,
+                "Entry Price": 0.000027067851259577195,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-07T16:45:35Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of ONI": 0,
+                "Buy Amount of ONI": "00618734.601483508407675474",
+                "Balance": 618734.6014835084,
+                "Currency Address": "0x7777cec341e7434126864195adef9b05dcc3489c",
+                "tokenPrice": "0.00000212",
+                "totalReserveInUSD": "86909.23846595388746480134384981326046685275",
+                "currentValue": 1.3117173551450378,
+                "currentProfit": -15.436098806964338
+            },
+            {
+                "tokenName": "KEN",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.010000000000000000",
+                "Buy Amount (USD)": "0032.0653857421875",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -32.0653857421875,
+                "Entry Price": 0.012319405676818908,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-01T02:07:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of KEN": 0,
+                "Buy Amount of KEN": "002602.835443801",
+                "Balance": 2602.835443801,
+                "Currency Address": "0x7316d973b0269863bbfed87302e11334e25ea565",
+                "tokenPrice": "0.00030967",
+                "totalReserveInUSD": "43796.04900044426957583678126835",
+                "currentValue": 0.8060200518818558,
+                "currentProfit": -31.259365690305646
+            },
+            {
+                "tokenName": "WWNF",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.005000000000000000",
+                "Buy Amount (USD)": "0017.389434814453125",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -17.389434814453125,
+                "Entry Price": 5.645303006807803e-9,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-18T13:39:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of WWNF": 0,
+                "Buy Amount of WWNF": "003080336838.161352611",
+                "Balance": 3080336838.1613526,
+                "Currency Address": "0x2ec6603cff128dd4500e6edc90cf4a25050f37b3",
+                "tokenPrice": "0.000000000316817711",
+                "totalReserveInUSD": "26518.877394508086888616346848",
+                "currentValue": 0.9759052661752571,
+                "currentProfit": -16.413529548277868
+            },
+            {
+                "tokenName": "MASOA",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.005000000000000000",
+                "Buy Amount (USD)": "0017.121717529296877",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -17.121717529296877,
+                "Entry Price": 0.00019411540528144425,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-16T12:33:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of MASOA": 0,
+                "Buy Amount of MASOA": "0088203.805898210",
+                "Balance": 88203.80589821,
+                "Currency Address": "0x5afe0017bab23c096772387e4309a41daf87ad66",
+                "tokenPrice": 0,
+                "totalReserveInUSD": "5109.03900868333838586557368175",
+                "currentValue": 0,
+                "currentProfit": -17.121717529296877
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "BRAT",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.005000000000000000",
+            "Buy Amount (USD)": "0013.11037109375",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -13.11037109375,
+            "Entry Price": 0.000008165323939313452,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-11T15:34:47Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of BRAT": 0,
+            "Buy Amount of BRAT": "001605615.550734945",
+            "Balance": 1605615.550734945,
+            "Currency Address": "0x69d09be6a5b51241f283937dcbe36e6484bdd48a",
+            "tokenPrice": "0.00000044",
+            "totalReserveInUSD": "32471.801550992058434620585384918792",
+            "currentValue": 0.7064708423233759,
+            "currentProfit": -12.403900251426624
+        },
+        "rank": 30
+    },
+    {
+        "walletAddress": "0x2098800d101ccef94312bb9dd2f5fdfb433d98fe",
+        "networkId": "eth",
+        "winRate": 33.33333333333333,
+        "netProfit": 67.73203603145471,
+        "avgHoldingTime": 16.52,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 30,
+        "dayActive": 11,
+        "SwapTime": ["2024-07-16T14:55:41.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 11,
+        "totalTransactions": 103,
+        "HotTokenHolders": [
+            {
+                "tokenName": "BAR",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.023800000000000000",
+                "Buy Amount (USD)": "0078.1098103515625",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -78.1098103515625,
+                "Entry Price": 6.218966975248595,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-26T23:15:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of BAR": 0,
+                "Buy Amount of BAR": "0012.559933291564097642",
+                "Balance": 12.559933291564098,
+                "Currency Address": "0x777be1c6075c20184c4fd76344b7b0b7c858fe6b",
+                "tokenPrice": "4.86696371",
+                "totalReserveInUSD": "290783.959089622631746165890439358",
+                "currentValue": 61.12873953006332,
+                "currentProfit": -16.98107082149918
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "BAR",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.023800000000000000",
+            "Buy Amount (USD)": "0078.1098103515625",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -78.1098103515625,
+            "Entry Price": 6.218966975248595,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-26T23:15:47Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of BAR": 0,
+            "Buy Amount of BAR": "0012.559933291564097642",
+            "Balance": 12.559933291564098,
+            "Currency Address": "0x777be1c6075c20184c4fd76344b7b0b7c858fe6b",
+            "tokenPrice": "4.86696371",
+            "totalReserveInUSD": "290783.959089622631746165890439358",
+            "currentValue": 61.12873953006332,
+            "currentProfit": -16.98107082149918
+        },
+        "rank": 27
+    },
+    {
+        "walletAddress": "0x929d0d2821bf9c16e743169279555d6c992f435a",
+        "networkId": "eth",
+        "winRate": 50,
+        "netProfit": 61.53486343932349,
+        "avgHoldingTime": 1.48,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 850,
+        "age": 72,
+        "dayActive": 36,
+        "SwapTime": ["2024-07-24T06:55:20.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 5,
+        "totalTransactions": 217,
+        "HotTokenHolders": [
+            {
+                "tokenName": "Neiro",
+                "isPartiallyClosed": true,
+                "balance": 13456034.139784075,
+                "balanceType": "partiallyClosedPositions",
+                "Buy Amount": "000.098828042399035270",
+                "Buy Amount (USD)": "00294.5326111508854",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": "00379.22273017969104",
+                "Profit": 84.69011902880567,
+                "Entry Price": 0.000006562336239492543,
+                "Exit Price": 0.000012067070767806904,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-03T08:33:59Z"
+                    }
+                ],
+                "Sell Times": [
+                    {
+                        "time": "2024-08-06T07:32:35Z"
+                    }
+                ],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 1,
+                "Sell Amount of Neiro": "0031426245.646242433",
+                "Buy Amount of Neiro": "0044882279.786026510",
+                "Balance": 13456034.139784075,
+                "Currency Address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+                "tokenPrice": "0.00000340",
+                "totalReserveInUSD": "151789.26003269136263011509513038301",
+                "currentValue": 45.75051607526586,
+                "currentProfit": 130.44063510407153
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "Neiro",
+            "isPartiallyClosed": true,
+            "balance": 13456034.139784075,
+            "balanceType": "partiallyClosedPositions",
+            "Buy Amount": "000.098828042399035270",
+            "Buy Amount (USD)": "00294.5326111508854",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": "00379.22273017969104",
+            "Profit": 84.69011902880567,
+            "Entry Price": 0.000006562336239492543,
+            "Exit Price": 0.000012067070767806904,
+            "Buy Times": [
+                {
+                    "time": "2024-08-03T08:33:59Z"
+                }
+            ],
+            "Sell Times": [
+                {
+                    "time": "2024-08-06T07:32:35Z"
+                }
+            ],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 1,
+            "Sell Amount of Neiro": "0031426245.646242433",
+            "Buy Amount of Neiro": "0044882279.786026510",
+            "Balance": 13456034.139784075,
+            "Currency Address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+            "tokenPrice": "0.00000340",
+            "totalReserveInUSD": "151789.26003269136263011509513038301",
+            "currentValue": 45.75051607526586,
+            "currentProfit": 130.44063510407153
+        },
+        "rank": 39
+    },
+    {
+        "walletAddress": "0x8b17c7139124e1e8ac8192a54a637b3bde3f0b14",
+        "networkId": "eth",
+        "winRate": 66.66666666666666,
+        "netProfit": 15.938152551923466,
+        "avgHoldingTime": 0.7420833333333333,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 850,
+        "age": 36,
+        "dayActive": 26,
+        "SwapTime": ["2024-07-29T10:59:01.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 5,
+        "totalTransactions": 148,
+        "HotTokenHolders": [
+            {
+                "tokenName": "BARS",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.020477896460684906",
+                "Buy Amount (USD)": "0066.90145272011011",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -66.90145272011011,
+                "Entry Price": 4.7822853635252285,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-28T17:51:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of BARS": 0,
+                "Buy Amount of BARS": "0013.989431335564250920",
+                "Balance": 13.989431335564252,
+                "Currency Address": "0x777b6d4730a8a890dc64bf202514ce03ab001c02",
+                "tokenPrice": "0.24370698",
+                "totalReserveInUSD": "32551.74301602226286859385247784",
+                "currentValue": 3.40932206270773,
+                "currentProfit": -63.492130657402384
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "BARS",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.020477896460684906",
+            "Buy Amount (USD)": "0066.90145272011011",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -66.90145272011011,
+            "Entry Price": 4.7822853635252285,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-28T17:51:47Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of BARS": 0,
+            "Buy Amount of BARS": "0013.989431335564250920",
+            "Balance": 13.989431335564252,
+            "Currency Address": "0x777b6d4730a8a890dc64bf202514ce03ab001c02",
+            "tokenPrice": "0.24370698",
+            "totalReserveInUSD": "32551.74301602226286859385247784",
+            "currentValue": 3.40932206270773,
+            "currentProfit": -63.492130657402384
+        },
+        "rank": 40
+    },
+    {
+        "walletAddress": "0xeba771b6b11a340cc20bce93de96e60a2ac95ffa",
+        "networkId": "eth",
+        "winRate": 0,
+        "netProfit": -0.4032340871271458,
+        "avgHoldingTime": 0.24958333333333335,
+        "buyAmountLabel": "Small Size",
+        "totalScore": 850,
+        "age": 95,
+        "dayActive": 18,
+        "SwapTime": ["2024-06-24T19:31:23.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 5,
+        "totalTransactions": 48,
+        "HotTokenHolders": [
+            {
+                "tokenName": "PEIPEI",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.030972975264003860",
+                "Buy Amount (USD)": "0095.03254400684136",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -95.03254400684136,
+                "Entry Price": 2.7356678269926017e-7,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-09T21:36:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of PEIPEI": 0,
+                "Buy Amount of PEIPEI": "00347383344.824116968910115558",
+                "Balance": 347383344.82411695,
+                "Currency Address": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
+                "tokenPrice": "0.00000014",
+                "totalReserveInUSD": "1398765.97825716200734660879161952309638764143",
+                "currentValue": 48.63366827537637,
+                "currentProfit": -46.39887573146499
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "PEIPEI",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.030972975264003860",
+            "Buy Amount (USD)": "0095.03254400684136",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -95.03254400684136,
+            "Entry Price": 2.7356678269926017e-7,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-09T21:36:47Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of PEIPEI": 0,
+            "Buy Amount of PEIPEI": "00347383344.824116968910115558",
+            "Balance": 347383344.82411695,
+            "Currency Address": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
+            "tokenPrice": "0.00000014",
+            "totalReserveInUSD": "1398765.97825716200734660879161952309638764143",
+            "currentValue": 48.63366827537637,
+            "currentProfit": -46.39887573146499
+        },
+        "rank": 42
+    },
+    {
+        "walletAddress": "0x74506ff1258aa7b026ab69a80b6048de4c8eb5f7",
+        "networkId": "eth",
+        "winRate": 0,
+        "netProfit": -36.4044402449299,
+        "avgHoldingTime": 0.0001875,
+        "buyAmountLabel": "Medium Size",
+        "totalScore": 800,
+        "age": 266,
+        "dayActive": 17,
+        "SwapTime": ["2023-11-28T04:11:11.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 2,
+        "totalTransactions": 41,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 48
+    },
+    {
+        "walletAddress": "0x90423f455437a5296a07cd321acca631358788df",
+        "networkId": "eth",
+        "winRate": 0,
+        "netProfit": -36.97576807103755,
+        "avgHoldingTime": 0.05583333333333334,
+        "buyAmountLabel": "Small Size",
+        "totalScore": 850,
+        "age": 78,
+        "dayActive": 15,
+        "SwapTime": ["2024-06-17T18:38:11.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 3,
+        "totalTransactions": 67,
+        "HotTokenHolders": [
+            {
+                "tokenName": "RDT",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.02100000000000000000.024000000000000000",
+                "Buy Amount (USD)": "0071.35530834960937081.802875",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-06-18T19:52:59Z"
+                    },
+                    {
+                        "time": "2024-06-18T17:59:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 2,
+                "Num of Sell Times": 0,
+                "Sell Amount of RDT": 0,
+                "Buy Amount of RDT": "00491081626926.4950109030511242975895.684326194",
+                "Balance": null,
+                "Currency Address": "0x33518f3e0bef8f1702d78e12f9c34955c941eb90",
+                "tokenPrice": 0,
+                "totalReserveInUSD": "8084.7466107682226969055574496",
+                "currentValue": 0,
+                "currentProfit": 0
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "RDT",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.02100000000000000000.024000000000000000",
+            "Buy Amount (USD)": "0071.35530834960937081.802875",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": null,
+            "Entry Price": null,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-06-18T19:52:59Z"
+                },
+                {
+                    "time": "2024-06-18T17:59:47Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 2,
+            "Num of Sell Times": 0,
+            "Sell Amount of RDT": 0,
+            "Buy Amount of RDT": "00491081626926.4950109030511242975895.684326194",
+            "Balance": null,
+            "Currency Address": "0x33518f3e0bef8f1702d78e12f9c34955c941eb90",
+            "tokenPrice": 0,
+            "totalReserveInUSD": "8084.7466107682226969055574496",
+            "currentValue": 0,
+            "currentProfit": 0
+        },
+        "rank": 38
+    },
+    {
+        "walletAddress": "0x4796999ceec4e0eacb0e6f358da5b758b722f2bb",
+        "networkId": "eth",
+        "winRate": 0,
+        "netProfit": -146.0559913002877,
+        "avgHoldingTime": 0.5091666666666667,
+        "buyAmountLabel": "Small Size",
+        "totalScore": 850,
+        "age": 533,
+        "dayActive": 88,
+        "SwapTime": ["2024-08-09T03:30:01.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 30,
+        "totalTransactions": 306,
+        "HotTokenHolders": [
+            {
+                "tokenName": "FUKU",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.400000000000000000",
+                "Buy Amount (USD)": "001080.4333984375",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -1080.4333984375,
+                "Entry Price": 0.000025295483976730265,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-08T23:18:59Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of FUKU": 0,
+                "Buy Amount of FUKU": "0042712501.544995487",
+                "Balance": 42712501.54499549,
+                "Currency Address": "0x1001271083c249bd771e1bb76c22d935809a61ee",
+                "tokenPrice": "0.00000678",
+                "totalReserveInUSD": "187040.39870111339933286448486460325",
+                "currentValue": 289.59076047506943,
+                "currentProfit": -790.8426379624307
+            },
+            {
+                "tokenName": "ONI",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.300000000000000000",
+                "Buy Amount (USD)": "00753.354931640625",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -753.354931640625,
+                "Entry Price": 0.00003472656889896913,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-07T02:40:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of ONI": 0,
+                "Buy Amount of ONI": "0021693906.294986388573860945",
+                "Balance": 21693906.29498639,
+                "Currency Address": "0x7777cec341e7434126864195adef9b05dcc3489c",
+                "tokenPrice": "0.00000264",
+                "totalReserveInUSD": "96888.0536794257092153563666222408612723001",
+                "currentValue": 57.27191261876407,
+                "currentProfit": -696.0830190218609
+            },
+            {
+                "tokenName": "BABYNEIRO",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.250000000000000000",
+                "Buy Amount (USD)": "00629.7197265625",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -629.7197265625,
+                "Entry Price": 0.000002572011971144909,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-07T02:34:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of BABYNEIRO": 0,
+                "Buy Amount of BABYNEIRO": "00244835457.076891303",
+                "Balance": 244835457.0768913,
+                "Currency Address": "0xbabe3ce7835665464228df00b03246115c30730a",
+                "tokenPrice": "0.00000078",
+                "totalReserveInUSD": "36567.933238041824375711016373951652",
+                "currentValue": 190.97165651997523,
+                "currentProfit": -438.7480700425248
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "FUKU",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.400000000000000000",
+            "Buy Amount (USD)": "001080.4333984375",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -1080.4333984375,
+            "Entry Price": 0.000025295483976730265,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-08T23:18:59Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of FUKU": 0,
+            "Buy Amount of FUKU": "0042712501.544995487",
+            "Balance": 42712501.54499549,
+            "Currency Address": "0x1001271083c249bd771e1bb76c22d935809a61ee",
+            "tokenPrice": "0.00000678",
+            "totalReserveInUSD": "187040.39870111339933286448486460325",
+            "currentValue": 289.59076047506943,
+            "currentProfit": -790.8426379624307
+        },
+        "rank": 41
+    },
+    {
+        "walletAddress": "0xbb4f7caf79fb8bce42f9126d8939f248351d143c",
+        "networkId": "eth",
+        "winRate": 34.04255319148936,
+        "netProfit": -210.80208133801779,
+        "avgHoldingTime": 0.23916666666666667,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 43,
+        "dayActive": 23,
+        "SwapTime": ["2024-07-27T12:18:59.127Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 24,
+        "totalTransactions": 362,
+        "HotTokenHolders": [
+            {
+                "tokenName": "FUKIFUKI",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.010000000000000000",
+                "Buy Amount (USD)": "0026.072187500000002",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -26.072187500000002,
+                "Entry Price": 2.7684287224911226e-8,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-10T19:34:35Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of FUKIFUKI": 0,
+                "Buy Amount of FUKIFUKI": "00941768422.216750952837412573",
+                "Balance": 941768422.216751,
+                "Currency Address": "0xd585274320ba0539b75fef02886c070cbe0fd30d",
+                "tokenPrice": "0.00000018",
+                "totalReserveInUSD": "20039.851868115190690050166024",
+                "currentValue": 169.5183159990152,
+                "currentProfit": 143.44612849901517
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "FUKIFUKI",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.010000000000000000",
+            "Buy Amount (USD)": "0026.072187500000002",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -26.072187500000002,
+            "Entry Price": 2.7684287224911226e-8,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-10T19:34:35Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of FUKIFUKI": 0,
+            "Buy Amount of FUKIFUKI": "00941768422.216750952837412573",
+            "Balance": 941768422.216751,
+            "Currency Address": "0xd585274320ba0539b75fef02886c070cbe0fd30d",
+            "tokenPrice": "0.00000018",
+            "totalReserveInUSD": "20039.851868115190690050166024",
+            "currentValue": 169.5183159990152,
+            "currentProfit": 143.44612849901517
+        },
+        "rank": 14
+    },
+    {
+        "walletAddress": "0x71ef3afc231f7c33916352e4083edec0464eaa5b",
+        "networkId": "eth",
+        "winRate": 34.78260869565217,
+        "netProfit": -391.6756066117673,
+        "avgHoldingTime": 0.8516666666666667,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 130,
+        "dayActive": 78,
+        "SwapTime": ["2024-06-26T10:58:38.130Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 27,
+        "totalTransactions": 641,
+        "HotTokenHolders": [
+            {
+                "tokenName": "Neiro",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.006027219773000000",
+                "Buy Amount (USD)": "0019.54761866496999",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -19.54761866496999,
+                "Entry Price": 0.000010035164914290492,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-28T03:59:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of Neiro": 0,
+                "Buy Amount of Neiro": "001947912.050466990",
+                "Balance": 1947912.05046699,
+                "Currency Address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+                "tokenPrice": "0.00000294",
+                "totalReserveInUSD": "142075.88530354582244435708357334584",
+                "currentValue": 5.726861428372951,
+                "currentProfit": -13.820757236597037
+            },
+            {
+                "tokenName": "SA",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.01015750227900000000.030248358585000000",
+                "Buy Amount (USD)": "0031.88988758164805095.1508422320552",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-25T15:53:11Z"
+                    },
+                    {
+                        "time": "2024-07-25T15:43:59Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 2,
+                "Num of Sell Times": 0,
+                "Sell Amount of SA": 0,
+                "Buy Amount of SA": "0021480.954908650018648237048304.335180656874805512",
+                "Balance": null,
+                "Currency Address": "0x6b2e5e59d214de99bc7bc8040ec5573479984f8e",
+                "tokenPrice": 0,
+                "totalReserveInUSD": "16012.4990948279754550525751028",
+                "currentValue": 0,
+                "currentProfit": 0
+            },
+            {
+                "tokenName": "WWNF",
+                "isPartiallyClosed": true,
+                "balance": 25529435936.731777,
+                "balanceType": "partiallyClosedPositions",
+                "Buy Amount": "000.030000000000000000",
+                "Buy Amount (USD)": "00102.6134033203125",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": "002.7508857215732423e-9",
+                "Profit": -102.61340331756162,
+                "Entry Price": 4.019415218205147e-9,
+                "Exit Price": 2.7508857215732423e-9,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-18T02:57:23Z"
+                    }
+                ],
+                "Sell Times": [
+                    {
+                        "time": "2024-07-18T15:29:59Z"
+                    }
+                ],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 1,
+                "Sell Amount of WWNF": "001.000000000",
+                "Buy Amount of WWNF": "0025529435937.731775932",
+                "Balance": 25529435936.731777,
+                "Currency Address": "0x2ec6603cff128dd4500e6edc90cf4a25050f37b3",
+                "tokenPrice": 0,
+                "totalReserveInUSD": "17398.952480016238775275342544",
+                "currentValue": 0,
+                "currentProfit": -102.61340331756162
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "Neiro",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.006027219773000000",
+            "Buy Amount (USD)": "0019.54761866496999",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -19.54761866496999,
+            "Entry Price": 0.000010035164914290492,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-28T03:59:11Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of Neiro": 0,
+            "Buy Amount of Neiro": "001947912.050466990",
+            "Balance": 1947912.05046699,
+            "Currency Address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+            "tokenPrice": "0.00000294",
+            "totalReserveInUSD": "142075.88530354582244435708357334584",
+            "currentValue": 5.726861428372951,
+            "currentProfit": -13.820757236597037
+        },
+        "rank": 16
+    },
+    {
+        "walletAddress": "0x8f2685cd36c49445abc8f560273bdf1bf2ef4f2b",
+        "networkId": "eth",
+        "winRate": 29.411764705882355,
+        "netProfit": -554.9320889492616,
+        "avgHoldingTime": 0.2833333333333333,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 494,
+        "dayActive": 60,
+        "SwapTime": ["2024-06-12T22:11:28.647Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 37,
+        "totalTransactions": 505,
+        "HotTokenHolders": [
+            {
+                "tokenName": "FUKU",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.107921882827197586",
+                "Buy Amount (USD)": "00291.44449372122295",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -291.44449372122295,
+                "Entry Price": 0.000025517601965461042,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-08T23:20:23Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of FUKU": 0,
+                "Buy Amount of FUKU": "0011421312.007127596",
+                "Balance": 11421312.007127596,
+                "Currency Address": "0x1001271083c249bd771e1bb76c22d935809a61ee",
+                "tokenPrice": "0.00001056",
+                "totalReserveInUSD": "231664.4855962282948272631887574659",
+                "currentValue": 120.60905479526743,
+                "currentProfit": -170.83543892595554
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "FUKU",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.107921882827197586",
+            "Buy Amount (USD)": "00291.44449372122295",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -291.44449372122295,
+            "Entry Price": 0.000025517601965461042,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-08T23:20:23Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of FUKU": 0,
+            "Buy Amount of FUKU": "0011421312.007127596",
+            "Balance": 11421312.007127596,
+            "Currency Address": "0x1001271083c249bd771e1bb76c22d935809a61ee",
+            "tokenPrice": "0.00001056",
+            "totalReserveInUSD": "231664.4855962282948272631887574659",
+            "currentValue": 120.60905479526743,
+            "currentProfit": -170.83543892595554
+        },
+        "rank": 18
+    },
+    {
+        "walletAddress": "0x416e705a659b9d0c0f30c48259919459f59b84aa",
+        "networkId": "eth",
+        "winRate": 35.714285714285715,
+        "netProfit": -629.6895007980663,
+        "avgHoldingTime": 0.008340277777777778,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 71,
+        "dayActive": 48,
+        "SwapTime": ["2024-07-19T23:01:26.857Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 5,
+        "totalTransactions": 456,
+        "HotTokenHolders": [
+            {
+                "tokenName": "BRAT",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.386305344504129561",
+                "Buy Amount (USD)": "001015.056715446808",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -1015.056715446808,
+                "Entry Price": 0.000010837995894302995,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-11T14:55:23Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of BRAT": 0,
+                "Buy Amount of BRAT": "0093657233.804671741",
+                "Balance": 93657233.80467173,
+                "Currency Address": "0x69d09be6a5b51241f283937dcbe36e6484bdd48a",
+                "tokenPrice": "0.00000043",
+                "totalReserveInUSD": "32082.270569910547772008214514334392",
+                "currentValue": 40.27261053600885,
+                "currentProfit": -974.7841049107991
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "BRAT",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.386305344504129561",
+            "Buy Amount (USD)": "001015.056715446808",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -1015.056715446808,
+            "Entry Price": 0.000010837995894302995,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-11T14:55:23Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of BRAT": 0,
+            "Buy Amount of BRAT": "0093657233.804671741",
+            "Balance": 93657233.80467173,
+            "Currency Address": "0x69d09be6a5b51241f283937dcbe36e6484bdd48a",
+            "tokenPrice": "0.00000043",
+            "totalReserveInUSD": "32082.270569910547772008214514334392",
+            "currentValue": 40.27261053600885,
+            "currentProfit": -974.7841049107991
+        },
+        "rank": 13
+    },
+    {
+        "walletAddress": "0x1f4045a7513bab22bb29422641e380495d8865b7",
+        "networkId": "eth",
+        "winRate": 0,
+        "netProfit": -724.2547768513223,
+        "avgHoldingTime": 1.49,
+        "buyAmountLabel": "Medium Size",
+        "totalScore": 800,
+        "age": 50,
+        "dayActive": 7,
+        "SwapTime": ["2024-06-24T12:36:29.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 2,
+        "totalTransactions": 50,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 44
+    },
+    {
+        "walletAddress": "0x6b9c30615c731e8f213d0b8d24902be7fe69609d",
+        "networkId": "eth",
+        "winRate": 0,
+        "netProfit": -1009.8144843931199,
+        "avgHoldingTime": 0.505,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 210,
+        "dayActive": 87,
+        "SwapTime": ["2024-05-25T13:50:04.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 32,
+        "totalTransactions": 406,
+        "HotTokenHolders": [
+            {
+                "tokenName": "GINNAN",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.200000000000000000",
+                "Buy Amount (USD)": "00655.556884765625",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -655.556884765625,
+                "Entry Price": 0.000003311439338530035,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-30T22:25:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of GINNAN": 0,
+                "Buy Amount of GINNAN": "00197967354.297551473",
+                "Balance": 197967354.29755148,
+                "Currency Address": "0x375e104af98872e5b4fe951919e504a47db1757c",
+                "tokenPrice": "0.00000185",
+                "totalReserveInUSD": "33181.28047553367771155888838479629",
+                "currentValue": 366.23960545047026,
+                "currentProfit": -289.31727931515474
+            },
+            {
+                "tokenName": "NEIRO",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.50000000000000000000.50000000000000000000.30000000000000000000.200000000000000000",
+                "Buy Amount (USD)": "001639.520141601562501661.1369628906250995.86384277343750663.9292968750001",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-30T20:53:59Z"
+                    },
+                    {
+                        "time": "2024-07-30T16:46:47Z"
+                    },
+                    {
+                        "time": "2024-07-30T16:31:23Z"
+                    },
+                    {
+                        "time": "2024-07-30T16:11:59Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 4,
+                "Num of Sell Times": 0,
+                "Sell Amount of NEIRO": 0,
+                "Buy Amount of NEIRO": "0033098.283151013018902.221318197011332.88900191908424.214786376",
+                "Balance": null,
+                "Currency Address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+                "tokenPrice": "0.22726938",
+                "totalReserveInUSD": "3054241.0440083222276895413673330233148466051206",
+                "currentValue": 0,
+                "currentProfit": 0
+            },
+            {
+                "tokenName": "PEIPEI",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.05000000000000000000.050000000000000000",
+                "Buy Amount (USD)": "00190.53552246093750190.02762451171876",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-06-07T14:10:59Z"
+                    },
+                    {
+                        "time": "2024-06-07T13:20:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 2,
+                "Num of Sell Times": 0,
+                "Sell Amount of PEIPEI": 0,
+                "Buy Amount of PEIPEI": "001866880359.36671504661125085001539055932.897372401456740653",
+                "Balance": null,
+                "Currency Address": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
+                "tokenPrice": "0.00000014",
+                "totalReserveInUSD": "1336008.34155119135476979058807338331790253441",
+                "currentValue": 0,
+                "currentProfit": 0
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "NEIRO",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.50000000000000000000.50000000000000000000.30000000000000000000.200000000000000000",
+            "Buy Amount (USD)": "001639.520141601562501661.1369628906250995.86384277343750663.9292968750001",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": null,
+            "Entry Price": null,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-30T20:53:59Z"
+                },
+                {
+                    "time": "2024-07-30T16:46:47Z"
+                },
+                {
+                    "time": "2024-07-30T16:31:23Z"
+                },
+                {
+                    "time": "2024-07-30T16:11:59Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 4,
+            "Num of Sell Times": 0,
+            "Sell Amount of NEIRO": 0,
+            "Buy Amount of NEIRO": "0033098.283151013018902.221318197011332.88900191908424.214786376",
+            "Balance": null,
+            "Currency Address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+            "tokenPrice": "0.22726938",
+            "totalReserveInUSD": "3054241.0440083222276895413673330233148466051206",
+            "currentValue": 0,
+            "currentProfit": 0
+        },
+        "rank": 4
+    },
+    {
+        "walletAddress": "0x3d9a7df9dfd07067ea28c61d6183ff840cd640bb",
+        "networkId": "eth",
+        "winRate": 39.58333333333333,
+        "netProfit": -1062.5817248357757,
+        "avgHoldingTime": 1.63,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 86,
+        "dayActive": 80,
+        "SwapTime": ["2024-06-25T11:34:25.400Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 12,
+        "totalTransactions": 962,
+        "HotTokenHolders": [
+            {
+                "tokenName": "SA",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.050000000000000000",
+                "Buy Amount (USD)": "000",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": 0,
+                "Entry Price": 0,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-12T14:27:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of SA": 0,
+                "Buy Amount of SA": "001510165.355406500866273896",
+                "Balance": 1510165.3554065009,
+                "Currency Address": "0x6b2e5e59d214de99bc7bc8040ec5573479984f8e",
+                "tokenPrice": "0.00010018",
+                "totalReserveInUSD": "20942.3231571557412241961267598",
+                "currentValue": 151.28836530462326,
+                "currentProfit": 151.28836530462326
+            },
+            {
+                "tokenName": "BAR",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.03000000000000000000.100000000000000000",
+                "Buy Amount (USD)": "0074.160417480468750248.36638183593752",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-08T13:15:47Z"
+                    },
+                    {
+                        "time": "2024-08-08T13:04:23Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 2,
+                "Num of Sell Times": 0,
+                "Sell Amount of BAR": 0,
+                "Buy Amount of BAR": "0019.652896106201875317061.994730606486719280",
+                "Balance": null,
+                "Currency Address": "0x777be1c6075c20184c4fd76344b7b0b7c858fe6b",
+                "tokenPrice": "5.45601024",
+                "totalReserveInUSD": "303282.1225032379107637396607473632",
+                "currentValue": 0,
+                "currentProfit": 0
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "SA",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.050000000000000000",
+            "Buy Amount (USD)": "000",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": 0,
+            "Entry Price": 0,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-12T14:27:47Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of SA": 0,
+            "Buy Amount of SA": "001510165.355406500866273896",
+            "Balance": 1510165.3554065009,
+            "Currency Address": "0x6b2e5e59d214de99bc7bc8040ec5573479984f8e",
+            "tokenPrice": "0.00010018",
+            "totalReserveInUSD": "20942.3231571557412241961267598",
+            "currentValue": 151.28836530462326,
+            "currentProfit": 151.28836530462326
+        },
+        "rank": 12
+    },
+    {
+        "walletAddress": "0x8d040553e26bec44d793a8c754df189a543c7e03",
+        "networkId": "eth",
+        "winRate": 46.15384615384615,
+        "netProfit": -1072.9009574807933,
+        "avgHoldingTime": 0.7566666666666667,
+        "buyAmountLabel": "Medium Size",
+        "totalScore": 850,
+        "age": 109,
+        "dayActive": 21,
+        "SwapTime": ["2024-05-16T07:45:21.153Z"],
+        "TotalFee": 11.843901307115212,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 5,
+        "totalTransactions": 92,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 36
+    },
+    {
+        "walletAddress": "0x08250e34c766e807eb22e64119f9ca0d8f911230",
+        "networkId": "eth",
+        "winRate": 25,
+        "netProfit": -1102.2249161822936,
+        "avgHoldingTime": 0.21666666666666667,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 288,
+        "dayActive": 25,
+        "SwapTime": ["2024-06-14T21:56:22.250Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 7,
+        "totalTransactions": 243,
+        "HotTokenHolders": [
+            {
+                "tokenName": "BABYNEIRO",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.060431335562154641",
+                "Buy Amount (USD)": "00200.9273302531885",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -200.9273302531885,
+                "Entry Price": 4.6393844156449285e-7,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-31T07:32:35Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of BABYNEIRO": 0,
+                "Buy Amount of BABYNEIRO": "00433090497.040127796",
+                "Balance": 433090497.0401278,
+                "Currency Address": "0xbabe3ce7835665464228df00b03246115c30730a",
+                "currentValue": 0,
+                "currentProfit": -200.9273302531885
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "BABYNEIRO",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.060431335562154641",
+            "Buy Amount (USD)": "00200.9273302531885",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -200.9273302531885,
+            "Entry Price": 4.6393844156449285e-7,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-31T07:32:35Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of BABYNEIRO": 0,
+            "Buy Amount of BABYNEIRO": "00433090497.040127796",
+            "Balance": 433090497.0401278,
+            "Currency Address": "0xbabe3ce7835665464228df00b03246115c30730a",
+            "currentValue": 0,
+            "currentProfit": -200.9273302531885
+        },
+        "rank": 9
+    },
+    {
+        "walletAddress": "0xe89464bf5b9a5f2945097c7675d5e02a13b245cc",
+        "networkId": "eth",
+        "winRate": 22.22222222222222,
+        "netProfit": -1368.3111810476867,
+        "avgHoldingTime": 4.52,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 281,
+        "dayActive": 107,
+        "SwapTime": ["2024-04-26T23:09:58.333Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 2,
+        "totalNumofFullyOpenedData": 36,
+        "totalTransactions": 857,
+        "HotTokenHolders": [
+            {
+                "tokenName": "Neiro",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.34000000000000000000.30000000000000000000.40000000000000000000.130000000000000000",
+                "Buy Amount (USD)": "00906.52143066406260802.574707031250996.26181640625010318.3096655273438",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-09T09:28:11Z"
+                    },
+                    {
+                        "time": "2024-08-09T06:03:59Z"
+                    },
+                    {
+                        "time": "2024-08-08T12:56:35Z"
+                    },
+                    {
+                        "time": "2024-08-08T11:22:23Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 4,
+                "Num of Sell Times": 0,
+                "Sell Amount of Neiro": 0,
+                "Buy Amount of Neiro": "00190141973.3981519140128502781.080228678072027782.71828324327361003.832775566033175399.269815034",
+                "Balance": null,
+                "Currency Address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+                "tokenPrice": "0.00000267",
+                "totalReserveInUSD": "131115.22203072161562279399416173347",
+                "currentValue": 0,
+                "currentProfit": 0
+            },
+            {
+                "tokenName": "DJT",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.300000000000000000",
+                "Buy Amount (USD)": "00952.2147216796875",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -952.2147216796875,
+                "Entry Price": 8.365786497448707e-7,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-14T04:01:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of DJT": 0,
+                "Buy Amount of DJT": "001138224985.744116406",
+                "Balance": 1138224985.7441163,
+                "Currency Address": "0x123701baec1c5de291e31d4898b367332f9f81f5",
+                "tokenPrice": "0.00000018",
+                "totalReserveInUSD": "35315.537286465995158469827523959551",
+                "currentValue": 204.88049743394095,
+                "currentProfit": -747.3342242457466
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "Neiro",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.34000000000000000000.30000000000000000000.40000000000000000000.130000000000000000",
+            "Buy Amount (USD)": "00906.52143066406260802.574707031250996.26181640625010318.3096655273438",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": null,
+            "Entry Price": null,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-09T09:28:11Z"
+                },
+                {
+                    "time": "2024-08-09T06:03:59Z"
+                },
+                {
+                    "time": "2024-08-08T12:56:35Z"
+                },
+                {
+                    "time": "2024-08-08T11:22:23Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 4,
+            "Num of Sell Times": 0,
+            "Sell Amount of Neiro": 0,
+            "Buy Amount of Neiro": "00190141973.3981519140128502781.080228678072027782.71828324327361003.832775566033175399.269815034",
+            "Balance": null,
+            "Currency Address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+            "tokenPrice": "0.00000267",
+            "totalReserveInUSD": "131115.22203072161562279399416173347",
+            "currentValue": 0,
+            "currentProfit": 0
+        },
+        "rank": 31
+    },
+    {
+        "walletAddress": "0xd2ea958146cdca0c83c23e7fd06139360e1e15cc",
+        "networkId": "eth",
+        "winRate": 0,
+        "netProfit": -1629.9962932913636,
+        "avgHoldingTime": 1,
+        "buyAmountLabel": "Medium Size",
+        "totalScore": 800,
+        "age": 22,
+        "dayActive": 8,
+        "SwapTime": ["2024-07-21T23:55:11.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 2,
+        "totalTransactions": 27,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 46
+    },
+    {
+        "walletAddress": "0xa740c5df7efdbe2008bc4831235c719d2a049b96",
+        "networkId": "eth",
+        "winRate": 31.03448275862069,
+        "netProfit": -1913.2612529343658,
+        "avgHoldingTime": 3.86,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 900,
+        "age": 581,
+        "dayActive": 414,
+        "SwapTime": ["2023-08-08T05:32:27.137Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 4,
+        "totalNumofFullyOpenedData": 171,
+        "totalTransactions": 5126,
+        "HotTokenHolders": [
+            {
+                "tokenName": "TRUMPCOIN",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "001136.586445",
+                "Buy Amount (USD)": "001136.2344376605092",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -1136.2344376605092,
+                "Entry Price": 0.021684915128003218,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-25T11:10:23Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of TRUMPCOIN": 0,
+                "Buy Amount of TRUMPCOIN": "0052397.458369261122037903",
+                "Balance": 52397.45836926112,
+                "Currency Address": "0x03dcee0d21ab39614c768dab67bfc33b0fc0a047",
+                "tokenPrice": "0.00769910",
+                "totalReserveInUSD": "82807.14559332601788249126835547102123448084969372756435348476054784",
+                "currentValue": 403.4132717307783,
+                "currentProfit": -732.8211659297309
+            },
+            {
+                "tokenName": "FIGHT",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "001000.000000",
+                "Buy Amount (USD)": "001000.2950429916382",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -1000.2950429916382,
+                "Entry Price": 0.024354229208424987,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-16T07:27:59Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of FIGHT": 0,
+                "Buy Amount of FIGHT": "0041072.744878561",
+                "Balance": 41072.744878561,
+                "Currency Address": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6",
+                "tokenPrice": "0.00892765",
+                "totalReserveInUSD": "463455.8866956900644139725241894",
+                "currentValue": 366.68309081508517,
+                "currentProfit": -633.611952176553
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "TRUMPCOIN",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "001136.586445",
+            "Buy Amount (USD)": "001136.2344376605092",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -1136.2344376605092,
+            "Entry Price": 0.021684915128003218,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-25T11:10:23Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of TRUMPCOIN": 0,
+            "Buy Amount of TRUMPCOIN": "0052397.458369261122037903",
+            "Balance": 52397.45836926112,
+            "Currency Address": "0x03dcee0d21ab39614c768dab67bfc33b0fc0a047",
+            "tokenPrice": "0.00769910",
+            "totalReserveInUSD": "82807.14559332601788249126835547102123448084969372756435348476054784",
+            "currentValue": 403.4132717307783,
+            "currentProfit": -732.8211659297309
+        },
+        "rank": 25
+    },
+    {
+        "walletAddress": "0x3ea53d287d10f8aa7ec63c2e09482cbb812a9ea5",
+        "networkId": "eth",
+        "winRate": 13.513513513513514,
+        "netProfit": -2905.50759889439,
+        "avgHoldingTime": 29.330000000000002,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 800,
+        "age": 2409,
+        "dayActive": 172,
+        "SwapTime": ["2024-07-04T09:13:33.945Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 16,
+        "totalTransactions": 1001,
+        "HotTokenHolders": [
+            {
+                "tokenName": "MAGOA",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.03000000000000000000.030000000000000000",
+                "Buy Amount (USD)": "00102.409255371093750104.49831298828124",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-17T22:10:59Z"
+                    },
+                    {
+                        "time": "2024-07-17T02:31:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 2,
+                "Num of Sell Times": 0,
+                "Sell Amount of MAGOA": 0,
+                "Buy Amount of MAGOA": "0058592.67247241005598488.400235457",
+                "Balance": null,
+                "Currency Address": "0x9f4ac5ea89b1623e35328904d7d61b08b55daa50",
+                "tokenPrice": "0.00000040",
+                "totalReserveInUSD": "31389.420349213228662177528435266184",
+                "currentValue": 0,
+                "currentProfit": 0
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "MAGOA",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.03000000000000000000.030000000000000000",
+            "Buy Amount (USD)": "00102.409255371093750104.49831298828124",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": null,
+            "Entry Price": null,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-17T22:10:59Z"
+                },
+                {
+                    "time": "2024-07-17T02:31:11Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 2,
+            "Num of Sell Times": 0,
+            "Sell Amount of MAGOA": 0,
+            "Buy Amount of MAGOA": "0058592.67247241005598488.400235457",
+            "Balance": null,
+            "Currency Address": "0x9f4ac5ea89b1623e35328904d7d61b08b55daa50",
+            "tokenPrice": "0.00000040",
+            "totalReserveInUSD": "31389.420349213228662177528435266184",
+            "currentValue": 0,
+            "currentProfit": 0
+        },
+        "rank": 50
+    },
+    {
+        "walletAddress": "0x465c37811e7ef6a003f77789329b47031cc286bd",
+        "networkId": "eth",
+        "winRate": 0,
+        "netProfit": -3213.3407150255116,
+        "avgHoldingTime": 0.48583333333333334,
+        "buyAmountLabel": "Medium Size",
+        "totalScore": 800,
+        "age": 47,
+        "dayActive": 32,
+        "SwapTime": ["2024-08-09T01:48:29.000Z"],
+        "TotalFee": null,
+        "BotActivity": "Not Bot activity",
+        "details": "Not a Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 1,
+        "totalTransactions": 132,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 45
+    },
+    {
+        "walletAddress": "0xff0c3587f64803559b486e1fabb4de4b59020e91",
+        "networkId": "eth",
+        "winRate": 28.333333333333332,
+        "netProfit": -3238.3808889907286,
+        "avgHoldingTime": 1.33,
+        "buyAmountLabel": "Medium Size",
+        "totalScore": 850,
+        "age": 63,
+        "dayActive": 27,
+        "SwapTime": ["2024-06-25T20:59:38.100Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 3,
+        "totalNumofFullyOpenedData": 4,
+        "totalTransactions": 325,
+        "HotTokenHolders": [],
+        "firstTopTokenHolder": "-",
+        "rank": 34
+    },
+    {
+        "walletAddress": "0x2389c90709723060c7da13a7dd2f58cdb933bfe5",
+        "networkId": "eth",
+        "winRate": 6.25,
+        "netProfit": -4264.477593276738,
+        "avgHoldingTime": 0.06458333333333334,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 55,
+        "dayActive": 53,
+        "SwapTime": ["2024-07-24T10:51:54.591Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 1,
+        "totalNumofFullyOpenedData": 8,
+        "totalTransactions": 650,
+        "HotTokenHolders": [
+            {
+                "tokenName": "USA",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.020000000000000000",
+                "Buy Amount (USD)": "0053.4123486328125",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -53.4123486328125,
+                "Entry Price": 0.00006195716304598047,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-12T21:24:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of USA": 0,
+                "Buy Amount of USA": "00862085.124736479960914075",
+                "Balance": 862085.12473648,
+                "Currency Address": "0x4c02adc6165fa1f83556f202225faa87dffa822c",
+                "tokenPrice": 0,
+                "totalReserveInUSD": "6368.3067111785902709307872102",
+                "currentValue": 0,
+                "currentProfit": -53.4123486328125
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "USA",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.020000000000000000",
+            "Buy Amount (USD)": "0053.4123486328125",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -53.4123486328125,
+            "Entry Price": 0.00006195716304598047,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-12T21:24:11Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of USA": 0,
+            "Buy Amount of USA": "00862085.124736479960914075",
+            "Balance": 862085.12473648,
+            "Currency Address": "0x4c02adc6165fa1f83556f202225faa87dffa822c",
+            "tokenPrice": 0,
+            "totalReserveInUSD": "6368.3067111785902709307872102",
+            "currentValue": 0,
+            "currentProfit": -53.4123486328125
+        },
+        "rank": 11
+    },
+    {
+        "walletAddress": "0xd11ad0deada399648c77d54513671a5209dc45f3",
+        "networkId": "eth",
+        "winRate": 13.333333333333334,
+        "netProfit": -5119.80882149958,
+        "avgHoldingTime": 0.11333333333333334,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 36,
+        "dayActive": 33,
+        "SwapTime": ["2024-07-28T01:26:38.466Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 12,
+        "totalTransactions": 760,
+        "HotTokenHolders": [
+            {
+                "tokenName": "JINX",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.12000000000000000000.110000000000000000",
+                "Buy Amount (USD)": "00304.6748730468750279.40491455078126",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-12T03:14:23Z"
+                    },
+                    {
+                        "time": "2024-08-12T02:54:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 2,
+                "Num of Sell Times": 0,
+                "Sell Amount of JINX": 0,
+                "Buy Amount of JINX": "00806997287.1268372330719533009.128353471",
+                "Balance": null,
+                "Currency Address": "0x0fbc43c1f35bd6db0736fb1f02fef32ae627be14",
+                "tokenPrice": 0,
+                "totalReserveInUSD": "3573.72542192980104289020195",
+                "currentValue": 0,
+                "currentProfit": 0
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "JINX",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.12000000000000000000.110000000000000000",
+            "Buy Amount (USD)": "00304.6748730468750279.40491455078126",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": null,
+            "Entry Price": null,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-12T03:14:23Z"
+                },
+                {
+                    "time": "2024-08-12T02:54:47Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 2,
+            "Num of Sell Times": 0,
+            "Sell Amount of JINX": 0,
+            "Buy Amount of JINX": "00806997287.1268372330719533009.128353471",
+            "Balance": null,
+            "Currency Address": "0x0fbc43c1f35bd6db0736fb1f02fef32ae627be14",
+            "tokenPrice": 0,
+            "totalReserveInUSD": "3573.72542192980104289020195",
+            "currentValue": 0,
+            "currentProfit": 0
+        },
+        "rank": 19
+    },
+    {
+        "walletAddress": "0x07cbc5bffee7b95cf72526df4da2e32ac9fd242e",
+        "networkId": "eth",
+        "winRate": 9.836065573770492,
+        "netProfit": -12072.783889051247,
+        "avgHoldingTime": 1.24,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 683,
+        "dayActive": 251,
+        "SwapTime": ["2023-09-25T02:38:32.876Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 11,
+        "totalNumofFullyOpenedData": 34,
+        "totalTransactions": 2103,
+        "HotTokenHolders": [
+            {
+                "tokenName": "BAR",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "001.620000000000000000",
+                "Buy Amount (USD)": "005289.587138671875",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -5289.587138671875,
+                "Entry Price": 28.20315638881958,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-27T18:16:35Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of BAR": 0,
+                "Buy Amount of BAR": "00187.553019447454384777",
+                "Balance": 187.55301944745437,
+                "Currency Address": "0x777be1c6075c20184c4fd76344b7b0b7c858fe6b",
+                "tokenPrice": "5.02597997",
+                "totalReserveInUSD": "291962.1215586926976935266395537138",
+                "currentValue": 942.6377190559261,
+                "currentProfit": -4346.949419615949
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "BAR",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "001.620000000000000000",
+            "Buy Amount (USD)": "005289.587138671875",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -5289.587138671875,
+            "Entry Price": 28.20315638881958,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-27T18:16:35Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of BAR": 0,
+            "Buy Amount of BAR": "00187.553019447454384777",
+            "Balance": 187.55301944745437,
+            "Currency Address": "0x777be1c6075c20184c4fd76344b7b0b7c858fe6b",
+            "tokenPrice": "5.02597997",
+            "totalReserveInUSD": "291962.1215586926976935266395537138",
+            "currentValue": 942.6377190559261,
+            "currentProfit": -4346.949419615949
+        },
+        "rank": 10
+    },
+    {
+        "walletAddress": "0x3c6fe027195b248a4dfc5d6245d3f9002312af92",
+        "networkId": "eth",
+        "winRate": 35.82089552238806,
+        "netProfit": -14249.596345019898,
+        "avgHoldingTime": 7.49,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 800,
+        "age": 163,
+        "dayActive": 82,
+        "SwapTime": ["2024-07-13T00:25:20.402Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 28,
+        "totalNumofFullyOpenedData": 91,
+        "totalTransactions": 841,
+        "HotTokenHolders": [
+            {
+                "tokenName": "NEIRO",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": 0.03176736126002062,
+                "Buy Amount (USD)": 99.94679618468035,
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": -99.94679618468035,
+                "Entry Price": 0.20106931561552832,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-02T08:10:35Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 1,
+                "Num of Sell Times": 0,
+                "Sell Amount of NEIRO": 0,
+                "Buy Amount of NEIRO": 497.076323549,
+                "Balance": 497.076323549,
+                "Currency Address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+                "tokenPrice": "0.22493614",
+                "totalReserveInUSD": "3068214.2007149763880959695887978301309725051884",
+                "currentValue": 111.81042950450316,
+                "currentProfit": 11.86363331982281
+            },
+            {
+                "tokenName": "RINTARO",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.06856039222833700000.068560392228337000",
+                "Buy Amount (USD)": "00178.489783664361570178.48978366436157",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-11T19:38:11Z"
+                    },
+                    {
+                        "time": "2024-08-11T19:37:35Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 2,
+                "Num of Sell Times": 0,
+                "Sell Amount of RINTARO": 0,
+                "Buy Amount of RINTARO": "0053560777.253004858053563455.425776148",
+                "Balance": null,
+                "Currency Address": "0x53229609f907be495704fca99ad0835c5f3abd3a",
+                "currentValue": 0,
+                "currentProfit": 0
+            },
+            {
+                "tokenName": "PEIPEI",
+                "isPartiallyClosed": true,
+                "balance": 3255651056.6704636,
+                "balanceType": "partiallyClosedPositions",
+                "Buy Amount": 0.3212742668365745,
+                "Buy Amount (USD)": 1168.1641729081334,
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 964.8919037223297,
+                "Profit": -203.27226918580368,
+                "Entry Price": 2.4829737689439103e-8,
+                "Exit Price": 2.203385753812882e-8,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-01T22:01:35Z"
+                    },
+                    {
+                        "time": "2024-06-23T22:12:47Z"
+                    },
+                    {
+                        "time": "2024-06-09T14:14:11Z"
+                    },
+                    {
+                        "time": "2024-06-08T16:06:59Z"
+                    },
+                    {
+                        "time": "2024-06-08T13:06:11Z"
+                    },
+                    {
+                        "time": "2024-06-08T07:17:11Z"
+                    },
+                    {
+                        "time": "2024-06-08T04:56:47Z"
+                    }
+                ],
+                "Sell Times": [
+                    {
+                        "time": "2024-07-24T15:29:35Z"
+                    },
+                    {
+                        "time": "2024-07-24T12:12:59Z"
+                    },
+                    {
+                        "time": "2024-07-24T04:33:35Z"
+                    },
+                    {
+                        "time": "2024-07-19T14:42:35Z"
+                    },
+                    {
+                        "time": "2024-07-02T00:38:47Z"
+                    }
+                ],
+                "Num of Buy Times": 7,
+                "Num of Sell Times": 5,
+                "Sell Amount of PEIPEI": 43791328960.56072,
+                "Buy Amount of PEIPEI": 47046980017.231186,
+                "Balance": 3255651056.6704636,
+                "Currency Address": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
+                "currentValue": 0,
+                "currentProfit": -203.27226918580368
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "NEIRO",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": 0.03176736126002062,
+            "Buy Amount (USD)": 99.94679618468035,
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": -99.94679618468035,
+            "Entry Price": 0.20106931561552832,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-02T08:10:35Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 1,
+            "Num of Sell Times": 0,
+            "Sell Amount of NEIRO": 0,
+            "Buy Amount of NEIRO": 497.076323549,
+            "Balance": 497.076323549,
+            "Currency Address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+            "tokenPrice": "0.22493614",
+            "totalReserveInUSD": "3068214.2007149763880959695887978301309725051884",
+            "currentValue": 111.81042950450316,
+            "currentProfit": 11.86363331982281
+        },
+        "rank": 43
+    },
+    {
+        "walletAddress": "0xedc59629d16513c0eb5b90fadd7547bd1ad1a155",
+        "networkId": "eth",
+        "winRate": 30,
+        "netProfit": -21172.134412490846,
+        "avgHoldingTime": 0.025,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 282,
+        "dayActive": 207,
+        "SwapTime": ["2024-04-02T05:45:08.200Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 13,
+        "totalTransactions": 2973,
+        "HotTokenHolders": [
+            {
+                "tokenName": "NEIRO",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "005.22000000000000000001.55000000000000000002.800000000000000000017135.75380904500.00000003020.18521804.98000000000000000006.90000000000000000001.10000000000000012806.34000000000000000006.20000000000000000007.600000000000000000",
+                "Buy Amount (USD)": "0017338.63016601562405146.3784179687509269.56064453125017132.6549708461304499.43003058433503019.8563268184544016554.10724121094022936.4136474609403631.336059570313020932.830317382814020300.197119140626024867.75849609375",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-07-31T07:43:23Z"
+                    },
+                    {
+                        "time": "2024-07-30T16:02:35Z"
+                    },
+                    {
+                        "time": "2024-07-30T15:17:11Z"
+                    },
+                    {
+                        "time": "2024-07-30T14:47:47Z"
+                    },
+                    {
+                        "time": "2024-07-30T14:37:35Z"
+                    },
+                    {
+                        "time": "2024-07-30T14:34:35Z"
+                    },
+                    {
+                        "time": "2024-07-30T14:28:23Z"
+                    },
+                    {
+                        "time": "2024-07-30T14:27:35Z"
+                    },
+                    {
+                        "time": "2024-07-29T17:24:35Z"
+                    },
+                    {
+                        "time": "2024-07-29T17:15:35Z"
+                    },
+                    {
+                        "time": "2024-07-29T17:07:23Z"
+                    },
+                    {
+                        "time": "2024-07-29T17:00:59Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 12,
+                "Num of Sell Times": 0,
+                "Sell Amount of NEIRO": 0,
+                "Buy Amount of NEIRO": "00164703.656342263065221.7458614450119025.9413741080288175.3178082010144704.6648519400431627.7135368210245176.1059026690342714.8358884840145001.2673863090859670.3984374870832426.69982767201074725.067004448",
+                "Balance": null,
+                "Currency Address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+                "tokenPrice": "0.24102890",
+                "totalReserveInUSD": "3274857.3205646208947476885336263003365463851838",
+                "currentValue": 0,
+                "currentProfit": 0
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "NEIRO",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "005.22000000000000000001.55000000000000000002.800000000000000000017135.75380904500.00000003020.18521804.98000000000000000006.90000000000000000001.10000000000000012806.34000000000000000006.20000000000000000007.600000000000000000",
+            "Buy Amount (USD)": "0017338.63016601562405146.3784179687509269.56064453125017132.6549708461304499.43003058433503019.8563268184544016554.10724121094022936.4136474609403631.336059570313020932.830317382814020300.197119140626024867.75849609375",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": null,
+            "Entry Price": null,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-07-31T07:43:23Z"
+                },
+                {
+                    "time": "2024-07-30T16:02:35Z"
+                },
+                {
+                    "time": "2024-07-30T15:17:11Z"
+                },
+                {
+                    "time": "2024-07-30T14:47:47Z"
+                },
+                {
+                    "time": "2024-07-30T14:37:35Z"
+                },
+                {
+                    "time": "2024-07-30T14:34:35Z"
+                },
+                {
+                    "time": "2024-07-30T14:28:23Z"
+                },
+                {
+                    "time": "2024-07-30T14:27:35Z"
+                },
+                {
+                    "time": "2024-07-29T17:24:35Z"
+                },
+                {
+                    "time": "2024-07-29T17:15:35Z"
+                },
+                {
+                    "time": "2024-07-29T17:07:23Z"
+                },
+                {
+                    "time": "2024-07-29T17:00:59Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 12,
+            "Num of Sell Times": 0,
+            "Sell Amount of NEIRO": 0,
+            "Buy Amount of NEIRO": "00164703.656342263065221.7458614450119025.9413741080288175.3178082010144704.6648519400431627.7135368210245176.1059026690342714.8358884840145001.2673863090859670.3984374870832426.69982767201074725.067004448",
+            "Balance": null,
+            "Currency Address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+            "tokenPrice": "0.24102890",
+            "totalReserveInUSD": "3274857.3205646208947476885336263003365463851838",
+            "currentValue": 0,
+            "currentProfit": 0
+        },
+        "rank": 8
+    },
+    {
+        "walletAddress": "0x54aced132adc39c748264688c0b3034b247c7ce3",
+        "networkId": "eth",
+        "winRate": 23.076923076923077,
+        "netProfit": -27882.3501479524,
+        "avgHoldingTime": 0.12208333333333334,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 12,
+        "dayActive": 12,
+        "SwapTime": ["2024-08-05T02:40:44.461Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 4,
+        "totalNumofFullyOpenedData": 0,
+        "totalTransactions": 359,
+        "HotTokenHolders": [
+            {
+                "tokenName": "NEIRO",
+                "isPartiallyClosed": true,
+                "balance": 416271.823592638,
+                "balanceType": "partiallyClosedPositions",
+                "Buy Amount": 28.849999999999998,
+                "Buy Amount (USD)": 84754.88012084962,
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 64875.40057383536,
+                "Profit": -19879.479547014256,
+                "Entry Price": 0.09187516351083291,
+                "Exit Price": 0.12815434880263116,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-08T12:33:35Z"
+                    },
+                    {
+                        "time": "2024-08-08T12:18:23Z"
+                    },
+                    {
+                        "time": "2024-08-08T08:05:23Z"
+                    },
+                    {
+                        "time": "2024-08-08T08:03:11Z"
+                    },
+                    {
+                        "time": "2024-08-05T01:14:47Z"
+                    },
+                    {
+                        "time": "2024-08-05T01:00:23Z"
+                    },
+                    {
+                        "time": "2024-08-05T01:00:11Z"
+                    },
+                    {
+                        "time": "2024-08-03T16:34:35Z"
+                    },
+                    {
+                        "time": "2024-08-02T16:10:23Z"
+                    },
+                    {
+                        "time": "2024-08-02T15:43:35Z"
+                    },
+                    {
+                        "time": "2024-08-02T15:30:23Z"
+                    },
+                    {
+                        "time": "2024-08-02T15:26:35Z"
+                    },
+                    {
+                        "time": "2024-08-01T15:24:23Z"
+                    },
+                    {
+                        "time": "2024-07-30T10:37:35Z"
+                    },
+                    {
+                        "time": "2024-07-30T10:23:35Z"
+                    },
+                    {
+                        "time": "2024-07-30T10:02:35Z"
+                    },
+                    {
+                        "time": "2024-07-30T09:09:35Z"
+                    },
+                    {
+                        "time": "2024-07-30T09:05:23Z"
+                    },
+                    {
+                        "time": "2024-07-30T08:47:47Z"
+                    },
+                    {
+                        "time": "2024-07-30T06:40:23Z"
+                    },
+                    {
+                        "time": "2024-07-30T05:08:59Z"
+                    },
+                    {
+                        "time": "2024-07-30T05:06:47Z"
+                    }
+                ],
+                "Sell Times": [
+                    {
+                        "time": "2024-08-06T15:13:35Z"
+                    },
+                    {
+                        "time": "2024-08-04T10:37:23Z"
+                    },
+                    {
+                        "time": "2024-08-02T15:04:47Z"
+                    },
+                    {
+                        "time": "2024-08-01T15:03:23Z"
+                    },
+                    {
+                        "time": "2024-08-01T14:15:35Z"
+                    },
+                    {
+                        "time": "2024-08-01T05:37:11Z"
+                    },
+                    {
+                        "time": "2024-07-31T11:18:23Z"
+                    },
+                    {
+                        "time": "2024-07-31T04:48:35Z"
+                    }
+                ],
+                "Num of Buy Times": 22,
+                "Num of Sell Times": 8,
+                "Sell Amount of NEIRO": 506228.6311777771,
+                "Buy Amount of NEIRO": 922500.4547704151,
+                "Balance": 416271.823592638,
+                "Currency Address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+                "tokenPrice": "0.22287992",
+                "totalReserveInUSD": "2885970.073015602845779670070572923009898705196",
+                "currentValue": 92778.63074058128,
+                "currentProfit": 72899.15119356703
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "NEIRO",
+            "isPartiallyClosed": true,
+            "balance": 416271.823592638,
+            "balanceType": "partiallyClosedPositions",
+            "Buy Amount": 28.849999999999998,
+            "Buy Amount (USD)": 84754.88012084962,
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 64875.40057383536,
+            "Profit": -19879.479547014256,
+            "Entry Price": 0.09187516351083291,
+            "Exit Price": 0.12815434880263116,
+            "Buy Times": [
+                {
+                    "time": "2024-08-08T12:33:35Z"
+                },
+                {
+                    "time": "2024-08-08T12:18:23Z"
+                },
+                {
+                    "time": "2024-08-08T08:05:23Z"
+                },
+                {
+                    "time": "2024-08-08T08:03:11Z"
+                },
+                {
+                    "time": "2024-08-05T01:14:47Z"
+                },
+                {
+                    "time": "2024-08-05T01:00:23Z"
+                },
+                {
+                    "time": "2024-08-05T01:00:11Z"
+                },
+                {
+                    "time": "2024-08-03T16:34:35Z"
+                },
+                {
+                    "time": "2024-08-02T16:10:23Z"
+                },
+                {
+                    "time": "2024-08-02T15:43:35Z"
+                },
+                {
+                    "time": "2024-08-02T15:30:23Z"
+                },
+                {
+                    "time": "2024-08-02T15:26:35Z"
+                },
+                {
+                    "time": "2024-08-01T15:24:23Z"
+                },
+                {
+                    "time": "2024-07-30T10:37:35Z"
+                },
+                {
+                    "time": "2024-07-30T10:23:35Z"
+                },
+                {
+                    "time": "2024-07-30T10:02:35Z"
+                },
+                {
+                    "time": "2024-07-30T09:09:35Z"
+                },
+                {
+                    "time": "2024-07-30T09:05:23Z"
+                },
+                {
+                    "time": "2024-07-30T08:47:47Z"
+                },
+                {
+                    "time": "2024-07-30T06:40:23Z"
+                },
+                {
+                    "time": "2024-07-30T05:08:59Z"
+                },
+                {
+                    "time": "2024-07-30T05:06:47Z"
+                }
+            ],
+            "Sell Times": [
+                {
+                    "time": "2024-08-06T15:13:35Z"
+                },
+                {
+                    "time": "2024-08-04T10:37:23Z"
+                },
+                {
+                    "time": "2024-08-02T15:04:47Z"
+                },
+                {
+                    "time": "2024-08-01T15:03:23Z"
+                },
+                {
+                    "time": "2024-08-01T14:15:35Z"
+                },
+                {
+                    "time": "2024-08-01T05:37:11Z"
+                },
+                {
+                    "time": "2024-07-31T11:18:23Z"
+                },
+                {
+                    "time": "2024-07-31T04:48:35Z"
+                }
+            ],
+            "Num of Buy Times": 22,
+            "Num of Sell Times": 8,
+            "Sell Amount of NEIRO": 506228.6311777771,
+            "Buy Amount of NEIRO": 922500.4547704151,
+            "Balance": 416271.823592638,
+            "Currency Address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+            "tokenPrice": "0.22287992",
+            "totalReserveInUSD": "2885970.073015602845779670070572923009898705196",
+            "currentValue": 92778.63074058128,
+            "currentProfit": 72899.15119356703
+        },
+        "rank": 5
+    },
+    {
+        "walletAddress": "0x711281c1b26aaed86e40e4caaf76c1962b45e161",
+        "networkId": "eth",
+        "winRate": 16.666666666666664,
+        "netProfit": -55839.32056789241,
+        "avgHoldingTime": 23.52,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 800,
+        "age": 468,
+        "dayActive": 446,
+        "SwapTime": ["2024-01-31T16:04:42.071Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 21,
+        "totalNumofFullyOpenedData": 166,
+        "totalTransactions": 10465,
+        "HotTokenHolders": [
+            {
+                "tokenName": "WWNF",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.15000000000000000000.15000000000000000000.24000000000000000001000.00000001000.00000001000.000000",
+                "Buy Amount (USD)": "00401.528906250401.184191894531240638.7465820312501000.108718872070301000.026822090148901000.0264644622803",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-12T15:52:11Z"
+                    },
+                    {
+                        "time": "2024-08-12T15:45:23Z"
+                    },
+                    {
+                        "time": "2024-08-12T15:37:59Z"
+                    },
+                    {
+                        "time": "2024-07-17T20:53:59Z"
+                    },
+                    {
+                        "time": "2024-07-17T20:44:23Z"
+                    },
+                    {
+                        "time": "2024-07-17T20:36:47Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 6,
+                "Num of Sell Times": 0,
+                "Sell Amount of WWNF": 0,
+                "Buy Amount of WWNF": "00408198836967.0618363280634143319211.31954054601027164293847.2297902940189258183814.0097560010158705858663.9988687950179069868611.031768590",
+                "Balance": null,
+                "Currency Address": "0x2ec6603cff128dd4500e6edc90cf4a25050f37b3",
+                "tokenPrice": "0.000000000620443506",
+                "totalReserveInUSD": "40734.297075126727452602457495",
+                "currentValue": 0,
+                "currentProfit": 0
+            },
+            {
+                "tokenName": "$LAIN",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.15000000000000000000.340000000000000000",
+                "Buy Amount (USD)": "00394.91341552734370895.1370751953126",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-11T18:37:59Z"
+                    },
+                    {
+                        "time": "2024-08-11T18:36:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 2,
+                "Num of Sell Times": 0,
+                "Sell Amount of $LAIN": 0,
+                "Buy Amount of $LAIN": "0011770.010505791328306980018462.646734335639414057",
+                "Balance": null,
+                "Currency Address": "0xeaf18bae9b0206f211e2f2888240e8637d6f54e2",
+                "tokenPrice": 0,
+                "totalReserveInUSD": "14250.3754551221613989055793",
+                "currentValue": 0,
+                "currentProfit": 0
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "WWNF",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.15000000000000000000.15000000000000000000.24000000000000000001000.00000001000.00000001000.000000",
+            "Buy Amount (USD)": "00401.528906250401.184191894531240638.7465820312501000.108718872070301000.026822090148901000.0264644622803",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": null,
+            "Entry Price": null,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-12T15:52:11Z"
+                },
+                {
+                    "time": "2024-08-12T15:45:23Z"
+                },
+                {
+                    "time": "2024-08-12T15:37:59Z"
+                },
+                {
+                    "time": "2024-07-17T20:53:59Z"
+                },
+                {
+                    "time": "2024-07-17T20:44:23Z"
+                },
+                {
+                    "time": "2024-07-17T20:36:47Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 6,
+            "Num of Sell Times": 0,
+            "Sell Amount of WWNF": 0,
+            "Buy Amount of WWNF": "00408198836967.0618363280634143319211.31954054601027164293847.2297902940189258183814.0097560010158705858663.9988687950179069868611.031768590",
+            "Balance": null,
+            "Currency Address": "0x2ec6603cff128dd4500e6edc90cf4a25050f37b3",
+            "tokenPrice": "0.000000000620443506",
+            "totalReserveInUSD": "40734.297075126727452602457495",
+            "currentValue": 0,
+            "currentProfit": 0
+        },
+        "rank": 49
+    },
+    {
+        "walletAddress": "0x980dab6e88a5650a4ac109fa9bf63cad4fc701e1",
+        "networkId": "eth",
+        "winRate": 5.095541401273886,
+        "netProfit": -109814.25163321268,
+        "avgHoldingTime": 0.235,
+        "buyAmountLabel": "Large Size",
+        "totalScore": 1000,
+        "age": 63,
+        "dayActive": 61,
+        "SwapTime": ["2024-07-03T11:41:42.719Z"],
+        "TotalFee": null,
+        "BotActivity": "Bot activity",
+        "details": "Dex Trader",
+        "totalnumPartiallyClosedData": 0,
+        "totalNumofFullyOpenedData": 37,
+        "totalTransactions": 1527,
+        "HotTokenHolders": [
+            {
+                "tokenName": "FINE",
+                "balanceType": "notClosedPositions",
+                "Buy Amount": "000.50000000000000000001.000000000000000000",
+                "Buy Amount (USD)": "001493.23803710937502978.828369140625",
+                "Sell Amount": 0,
+                "Sell Amount (USD)": 0,
+                "Profit": null,
+                "Entry Price": null,
+                "Exit Price": null,
+                "Buy Times": [
+                    {
+                        "time": "2024-08-03T09:46:59Z"
+                    },
+                    {
+                        "time": "2024-08-03T08:18:11Z"
+                    }
+                ],
+                "Sell Times": [],
+                "Num of Buy Times": 2,
+                "Num of Sell Times": 0,
+                "Sell Amount of FINE": 0,
+                "Buy Amount of FINE": "00606557.3527387235696723850877649.544237137391204440",
+                "Balance": null,
+                "Currency Address": "0x98de539486ea9bc06a28bef5fb089a7f149b7ff7",
+                "currentValue": 0,
+                "currentProfit": 0
+            }
+        ],
+        "firstTopTokenHolder": {
+            "tokenName": "FINE",
+            "balanceType": "notClosedPositions",
+            "Buy Amount": "000.50000000000000000001.000000000000000000",
+            "Buy Amount (USD)": "001493.23803710937502978.828369140625",
+            "Sell Amount": 0,
+            "Sell Amount (USD)": 0,
+            "Profit": null,
+            "Entry Price": null,
+            "Exit Price": null,
+            "Buy Times": [
+                {
+                    "time": "2024-08-03T09:46:59Z"
+                },
+                {
+                    "time": "2024-08-03T08:18:11Z"
+                }
+            ],
+            "Sell Times": [],
+            "Num of Buy Times": 2,
+            "Num of Sell Times": 0,
+            "Sell Amount of FINE": 0,
+            "Buy Amount of FINE": "00606557.3527387235696723850877649.544237137391204440",
+            "Balance": null,
+            "Currency Address": "0x98de539486ea9bc06a28bef5fb089a7f149b7ff7",
+            "currentValue": 0,
+            "currentProfit": 0
+        },
+        "rank": 7
+    }
+]

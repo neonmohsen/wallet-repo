@@ -1,0 +1,5620 @@
+{
+    "highestProfit": [
+        246454.78503686626,
+        "OMNI",
+        "0xd59623cfe3dbe4f63e02e6add0f25d3b532b21ce"
+    ],
+    "lowestProfit": [
+        1253.8236389160156,
+        "TRUF",
+        "0xefb888bc43e9bc7ca5312fbae0cd394cf1a27af6"
+    ],
+    "highestLoss": [
+        -1684.6950321533204,
+        "ZEND",
+        "0x9a58e231de6a0349cf7262400819c21a2267d09c"
+    ],
+    "lowestLoss": [
+        -9860.951912992183,
+        "TBA",
+        "0x0cb9cda489aae64fd4a31d2cd17f70dae5fe4b73"
+    ],
+    "totalProfit": 3240031.010395527,
+    "totalLoss": -18576.420537653466,
+    "netProfit": 3221454.5898578735,
+    "totalProfits": {
+        "month": {
+            "April 2024": 2225143.8994054007,
+            "March 2024": 996310.6904524727
+        },
+        "week": {
+            "April 2024 week 5": 93803.71161850845,
+            "April 2024 week 4": 608153.9153607808,
+            "April 2024 week 3": 177596.65299204737,
+            "April 2024 week 2": 617740.2764304441,
+            "April 2024 week 1": 727849.3430036197,
+            "March 2024 week 5": 81562.17611025384,
+            "March 2024 week 4": 492341.22905925795,
+            "March 2024 week 3": 325520.1214013976,
+            "March 2024 week 2": 96887.16388156325
+        },
+        "year": {
+            "2024": 3221454.5898578735
+        }
+    },
+    "totalBuySellTimes": {
+        "month": {
+            "April 2024": 64,
+            "March 2024": 42
+        },
+        "week": {
+            "April 2024 week 5": 4,
+            "April 2024 week 4": 19,
+            "April 2024 week 3": 5,
+            "April 2024 week 2": 16,
+            "April 2024 week 1": 20,
+            "March 2024 week 5": 3,
+            "March 2024 week 4": 20,
+            "March 2024 week 3": 12,
+            "March 2024 week 2": 7
+        },
+        "year": {
+            "2024": 106
+        }
+    },
+    "totalBuyAmounts": {
+        "month": {
+            "April 2024": 39956880.55485853,
+            "March 2024": 26221702.8641259
+        },
+        "week": {
+            "April 2024 week 5": 2497305.0346786585,
+            "April 2024 week 4": 11862198.914723633,
+            "April 2024 week 3": 3121631.293348323,
+            "April 2024 week 2": 9989220.138714638,
+            "April 2024 week 1": 12486525.173393298,
+            "March 2024 week 5": 1872978.7760089939,
+            "March 2024 week 4": 12486525.173393298,
+            "March 2024 week 3": 7491915.104035977,
+            "March 2024 week 2": 4370283.810687652
+        },
+        "year": {
+            "2024": 66178583.41898454
+        }
+    },
+    "totalSellAmounts": {
+        "month": {
+            "April 2024": 246129974.30576277,
+            "March 2024": 161522795.63815665
+        },
+        "week": {
+            "April 2024 week 5": 15383123.394110158,
+            "April 2024 week 4": 73069836.12202321,
+            "April 2024 week 3": 19228904.242637698,
+            "April 2024 week 2": 61532493.5764406,
+            "April 2024 week 1": 76915616.97055075,
+            "March 2024 week 5": 11537342.545582619,
+            "March 2024 week 4": 76915616.97055075,
+            "March 2024 week 3": 46149370.18233046,
+            "March 2024 week 2": 26920465.939692777
+        },
+        "year": {
+            "2024": 407652769.9439199
+        }
+    },
+    "totalBuyTimes": {
+        "month": {
+            "April 2024": 39956880.55485853,
+            "March 2024": 26221702.8641259
+        },
+        "week": {
+            "April 2024 week 5": 2497305.0346786585,
+            "April 2024 week 4": 11862198.914723633,
+            "April 2024 week 3": 3121631.293348323,
+            "April 2024 week 2": 9989220.138714638,
+            "April 2024 week 1": 12486525.173393298,
+            "March 2024 week 5": 1872978.7760089939,
+            "March 2024 week 4": 12486525.173393298,
+            "March 2024 week 3": 7491915.104035977,
+            "March 2024 week 2": 4370283.810687652
+        },
+        "year": {
+            "2024": 66178583.41898454
+        }
+    },
+    "totalSellTimes": {
+        "month": {
+            "April 2024": 246129974.30576277,
+            "March 2024": 161522795.63815665
+        },
+        "week": {
+            "April 2024 week 5": 15383123.394110158,
+            "April 2024 week 4": 73069836.12202321,
+            "April 2024 week 3": 19228904.242637698,
+            "April 2024 week 2": 61532493.5764406,
+            "April 2024 week 1": 76915616.97055075,
+            "March 2024 week 5": 11537342.545582619,
+            "March 2024 week 4": 76915616.97055075,
+            "March 2024 week 3": 46149370.18233046,
+            "March 2024 week 2": 26920465.939692777
+        },
+        "year": {
+            "2024": 407652769.9439199
+        }
+    },
+    "percentageWeek": {
+        "April 2024 week 5": 3.756197593642327,
+        "April 2024 week 4": 5.126822773186903,
+        "April 2024 week 3": 5.689225802242446,
+        "April 2024 week 2": 6.18406910501756,
+        "April 2024 week 1": 5.829078409696761,
+        "March 2024 week 5": 4.354677007288319,
+        "March 2024 week 4": 3.942980310553932,
+        "March 2024 week 3": 4.344952083427058,
+        "March 2024 week 2": 2.2169535910831
+    },
+    "percentageMonth": {
+        "April 2024": 5.56886290547733,
+        "March 2024": 3.799565175515479
+    },
+    "percentageYear": {
+        "2024": 4.867820408699985
+    },
+    "averageHoldingTimes": {
+        "EIGEN": {
+            "averageHoldingTime": "2.30 days",
+            "currencyAddress": "0xf5185dd0ff4ca01d98c03a86d2592dec4dd18fb2"
+        },
+        "RUNECOIN": {
+            "averageHoldingTime": "36.07 minutes",
+            "currencyAddress": "0x2e45211957ecdd650f0eaa42f6d58f03d58159e0"
+        },
+        "SVL": {
+            "averageHoldingTime": "38.40 minutes",
+            "currencyAddress": "0xff0c2af59eb9344b26fd3644b661a214c3f71d07"
+        },
+        "PQX": {
+            "averageHoldingTime": "41.20 minutes",
+            "currencyAddress": "0xaba2f5ccc85166d1ea594c8b0306447f3f3c7dd3"
+        },
+        "NEXG": {
+            "averageHoldingTime": "24.20 minutes",
+            "currencyAddress": "0xcbfae8c50f9e49d49409f4f543f8d363a014415b"
+        },
+        "MSN": {
+            "averageHoldingTime": "29.73 minutes",
+            "currencyAddress": "0x033be8705c262bb2a12da0274297790e9479cce1"
+        },
+        "TABI": {
+            "averageHoldingTime": "28.30 minutes",
+            "currencyAddress": "0x532b9b8cdde8fdf33e41bf2ae578fc83d9cf8ac9"
+        },
+        "NFTfi": {
+            "averageHoldingTime": "28.20 minutes",
+            "currencyAddress": "0x439b77e9a336fbcaffd024ce40801f4d8e32f343"
+        },
+        "AVAIL": {
+            "averageHoldingTime": "33.27 minutes",
+            "currencyAddress": "0x5b80d34d9b91f7e424d4fb73aba7cf5647ead8fa"
+        },
+        "LAVA": {
+            "averageHoldingTime": "36.20 minutes",
+            "currencyAddress": "0xa0272c11d569e445f8780f8f23f995680f4bcabf"
+        },
+        "L3": {
+            "averageHoldingTime": "1.96 hours",
+            "currencyAddress": "0x1a19759faf9e49557199557e3b4fbb2a596d1e13"
+        },
+        "BB": {
+            "averageHoldingTime": "33.73 minutes",
+            "currencyAddress": "0x508d2342902b5d12154dcc7485c1a80242d7aea9"
+        },
+        "ATH": {
+            "averageHoldingTime": "37.00 minutes",
+            "currencyAddress": "0x4770b6966f7aab5e2b24259b9f85f3f8fad11a0c"
+        },
+        "BLAZE": {
+            "averageHoldingTime": "44.60 minutes",
+            "currencyAddress": "0xde0c85748435e9413a95ad4ed9f1c1fce22685a9"
+        },
+        "PLENA": {
+            "averageHoldingTime": "26.70 minutes",
+            "currencyAddress": "0x2e28a09452b865b719676e3629fd002222d1111a"
+        },
+        "MOCA": {
+            "averageHoldingTime": "28.70 minutes",
+            "currencyAddress": "0x4115454c188acfb9cb67c6d795214055381b53b5"
+        },
+        "REZ": {
+            "averageHoldingTime": "40.73 minutes",
+            "currencyAddress": "0x766d176a78f7cd88ea86f9b18b72ff093b4e1dc9"
+        },
+        "IO": {
+            "averageHoldingTime": "37.60 minutes",
+            "currencyAddress": "0xc09fb61cd91439c2cb8f8554f701c33ceca47a25"
+        },
+        "KMNO": {
+            "averageHoldingTime": "1.04 hours",
+            "currencyAddress": "0x19f9165689d09f3562419fe8b429735284cc37c0"
+        },
+        "ORANGE": {
+            "averageHoldingTime": "25.80 minutes",
+            "currencyAddress": "0xec55d39a13f31b2674efd7662bb7debeb1b65948"
+        },
+        "SOLV": {
+            "averageHoldingTime": "30.20 minutes",
+            "currencyAddress": "0xd1d8c3f9a5609027a1c7cef070ab9c51b99dcff7"
+        },
+        "PBUX": {
+            "averageHoldingTime": "3.88 hours",
+            "currencyAddress": "0x3711a137d43779d8352624af0852948434b13ad7"
+        },
+        "PEAQ": {
+            "averageHoldingTime": "38.80 minutes",
+            "currencyAddress": "0xa8752c38caa247fc7724a2d8d4f04e2ed410d7ac"
+        },
+        "PUFI": {
+            "averageHoldingTime": "29.13 minutes",
+            "currencyAddress": "0xa71cbe77c505140cd10070401b82580e0fe94a1b"
+        },
+        "SAFE": {
+            "averageHoldingTime": "30.40 minutes",
+            "currencyAddress": "0xa5cafa147f5970dc380a90f8ebb5296bd9e4cd57"
+        },
+        "MOZ": {
+            "averageHoldingTime": "29.40 minutes",
+            "currencyAddress": "0x527b878e22db9747eea5d5d5e6a241bb42634c5e"
+        },
+        "MERL": {
+            "averageHoldingTime": "33.07 minutes",
+            "currencyAddress": "0x98dbba70df94bc4057a76e29067b5d5d5676f14c"
+        },
+        "ELX": {
+            "averageHoldingTime": "34.00 minutes",
+            "currencyAddress": "0xd2944fe55abb2e7635f040c57d5b7a656d1808a6"
+        },
+        "OMNI": {
+            "averageHoldingTime": "2.96 days",
+            "currencyAddress": "0xd59623cfe3dbe4f63e02e6add0f25d3b532b21ce"
+        },
+        "Eigen": {
+            "averageHoldingTime": "3.41 hours",
+            "currencyAddress": "0x8af00a1f259f6183e35a21f47a3087489eecbf86"
+        },
+        "MASA": {
+            "averageHoldingTime": "24.80 minutes",
+            "currencyAddress": "0x70d8b31f4eee0e9988d0b196531205a9d30ad104"
+        },
+        "DEB": {
+            "averageHoldingTime": "40.00 minutes",
+            "currencyAddress": "0x847d2f49e856550f93f7aadf444528a024256372"
+        },
+        "FOXY": {
+            "averageHoldingTime": "36.60 minutes",
+            "currencyAddress": "0x1b7b0b213fb6b96fcfb754881175bb4422e39b52"
+        },
+        "Mezo ": {
+            "averageHoldingTime": "34.20 minutes",
+            "currencyAddress": "0x3b06f6027a41bfced3d5e6855b69aea5e7426e90"
+        },
+        "MONAD": {
+            "averageHoldingTime": "22.33 minutes",
+            "currencyAddress": "0xeaec073d657b9969e9c0e39b25c38605caf7927d"
+        },
+        "BAB": {
+            "averageHoldingTime": "32.00 minutes",
+            "currencyAddress": "0x888ab493a44007445ebc70d5537eb29f95a2d3ec"
+        },
+        "BLOCK": {
+            "averageHoldingTime": "22.30 minutes",
+            "currencyAddress": "0xb6f2aa17a2ce2410a116205f13d7d031b69cafa6"
+        },
+        "SAGA": {
+            "averageHoldingTime": "30.80 minutes",
+            "currencyAddress": "0x0d33f227b588446f1bff2b07ae00ff69eb086876"
+        },
+        "TRIP": {
+            "averageHoldingTime": "28.40 minutes",
+            "currencyAddress": "0x42825e496a72b5e3278af637a45b712e49c061a0"
+        },
+        "NAI": {
+            "averageHoldingTime": "22.00 minutes",
+            "currencyAddress": "0x11067cc96f63b2b375fb740feee95aa2009a5249"
+        },
+        "Renzo": {
+            "averageHoldingTime": "26.10 minutes",
+            "currencyAddress": "0x3505c70dbf2cc4ecd84dd0bed04f8126c26ab909"
+        },
+        "TNSR": {
+            "averageHoldingTime": "24.20 minutes",
+            "currencyAddress": "0x4ee414df75ae814e60f0ba128189b1f07ab78210"
+        },
+        "OMNIA": {
+            "averageHoldingTime": "24.40 minutes",
+            "currencyAddress": "0x75780415fca0157e4814a1a2588f1ee9ff0f7e88"
+        },
+        "KOII": {
+            "averageHoldingTime": "57.80 minutes",
+            "currencyAddress": "0x019a98258bd5de47900a0be227087af81eaf4c69"
+        },
+        "Zora": {
+            "averageHoldingTime": "47.80 minutes",
+            "currencyAddress": "0x3769cd9532cce8550984aa8388a26beda0e69401"
+        },
+        "EigenLayer": {
+            "averageHoldingTime": "24.20 minutes",
+            "currencyAddress": "0x1a4f05bd24c95147608657c26cd931c7b246cd21"
+        },
+        "ZEUS": {
+            "averageHoldingTime": "25.90 minutes",
+            "currencyAddress": "0xaab2332d528d2c636a3c1f47df49472a9341149b"
+        },
+        "BWB": {
+            "averageHoldingTime": "23.30 minutes",
+            "currencyAddress": "0xb5c5017c98549049c1d1cf46e3d0ea7882a21b33"
+        },
+        "dappOS": {
+            "averageHoldingTime": "29.60 minutes",
+            "currencyAddress": "0xde77f59a385b50d78aeb7c646d9df1e4fd76f1a4"
+        },
+        "PAC": {
+            "averageHoldingTime": "28.80 minutes",
+            "currencyAddress": "0x98b84e0f85eca20c129095886bc9330cbe32c605"
+        },
+        "GRASS": {
+            "averageHoldingTime": "33.70 minutes",
+            "currencyAddress": "0xc898c687bdb580d7430277a9bcb503547a09e5ff"
+        },
+        "ULTC": {
+            "averageHoldingTime": "21.80 minutes",
+            "currencyAddress": "0x6277c6bc834f6a1cca9905696a5b6d4f459bc736"
+        },
+        "EVERY": {
+            "averageHoldingTime": "28.40 minutes",
+            "currencyAddress": "0xcae6d8f16193526b9973c93096f0b9b788af999f"
+        },
+        "BERA": {
+            "averageHoldingTime": "31.30 minutes",
+            "currencyAddress": "0x5764cf799caae5b5a7b55e6ed66649d4dcb5a09d"
+        },
+        "COIIN": {
+            "averageHoldingTime": "25.80 minutes",
+            "currencyAddress": "0xffc50b460871d6df13ca15f24c29cb646b6606f5"
+        },
+        "W": {
+            "averageHoldingTime": "29.30 minutes",
+            "currencyAddress": "0x7c947c432a8b47fed452dbe026cc6648ad6a2cc6"
+        },
+        "VELAR": {
+            "averageHoldingTime": "19.80 minutes",
+            "currencyAddress": "0xc4763759bda9657cfd06a1613fc828afd74b70fa"
+        },
+        "XAR": {
+            "averageHoldingTime": "28.00 minutes",
+            "currencyAddress": "0x7bb08a75ea1d11298c6a3ff2a638153c96792c93"
+        },
+        "DOP": {
+            "averageHoldingTime": "16.60 minutes",
+            "currencyAddress": "0x4d8c3df04ce9b909c9fbf4347a5a3ffadf190142"
+        },
+        "BONUS": {
+            "averageHoldingTime": "24.00 minutes",
+            "currencyAddress": "0xe57f93bc66faffdc06eabef8db45e1ff28bf67d3"
+        },
+        "ENA": {
+            "averageHoldingTime": "32.96 minutes",
+            "currencyAddress": "0xd6431990d48b3e463696fdc9860f866afeb1e370"
+        },
+        "ARC": {
+            "averageHoldingTime": "30.00 minutes",
+            "currencyAddress": "0x2e146811a317ba5eb77209c942b186f67a65e801"
+        },
+        "BLUE": {
+            "averageHoldingTime": "30.20 minutes",
+            "currencyAddress": "0xd0cd86ca2768c13980fe496ca78bc72ed8f2be8b"
+        },
+        "PARAM": {
+            "averageHoldingTime": "22.20 minutes",
+            "currencyAddress": "0x2f6935cc4a043c0bf69165c791ce6f4361278715"
+        },
+        "APFI": {
+            "averageHoldingTime": "46.40 minutes",
+            "currencyAddress": "0xb07f1e635fba15234b11a351ee03da67d11111b2"
+        },
+        "PRCL": {
+            "averageHoldingTime": "25.60 minutes",
+            "currencyAddress": "0xa0eeeaea46e92b35849f6f3afc9c63478a0967a0"
+        },
+        "BUBBLE": {
+            "averageHoldingTime": "23.20 minutes",
+            "currencyAddress": "0x7639f0fcd891a5c1d72a986258580bb28c12a94e"
+        },
+        "Layer3": {
+            "averageHoldingTime": "25.80 minutes",
+            "currencyAddress": "0xa33ced472a9b6dd99abc6bae53d4a905832e02cf"
+        },
+        "G3": {
+            "averageHoldingTime": "39.80 minutes",
+            "currencyAddress": "0x73095365cf296e26d912e095c38fac6b3ffad3af"
+        },
+        "BRAWL": {
+            "averageHoldingTime": "21.20 minutes",
+            "currencyAddress": "0x76bd48f622df028aed28cb121dda887f84ea805b"
+        },
+        "TRUF": {
+            "averageHoldingTime": "22.60 minutes",
+            "currencyAddress": "0xefb888bc43e9bc7ca5312fbae0cd394cf1a27af6"
+        },
+        "NYAN": {
+            "averageHoldingTime": "25.60 minutes",
+            "currencyAddress": "0x14cbb17f7b2adad6f00a468e7e1991969c6b3b8e"
+        },
+        "STONE": {
+            "averageHoldingTime": "26.00 minutes",
+            "currencyAddress": "0xb628b6198e2320437e8a9ff1e72a9ff3f1636cf9"
+        },
+        "GMRX": {
+            "averageHoldingTime": "23.47 minutes",
+            "currencyAddress": "0xfd1e0ec0d64d806d833b80b8cbd01dfdc9062c3d"
+        },
+        "APRS": {
+            "averageHoldingTime": "23.53 minutes",
+            "currencyAddress": "0xa3a40b96b100019f9b24c294a73c9e310e516124"
+        },
+        "VENOM": {
+            "averageHoldingTime": "25.00 minutes",
+            "currencyAddress": "0x398fa4bd97036eb7cf85e84fbde34959b4e4c396"
+        },
+        "BEFI": {
+            "averageHoldingTime": "34.40 minutes",
+            "currencyAddress": "0xcf60d61616a64371df34580ace2b13401d29c55c"
+        },
+        "Karak": {
+            "averageHoldingTime": "24.80 minutes",
+            "currencyAddress": "0xfb1eef96272c53d608d11de7a92b1e7a0abf7dfc"
+        },
+        "BNDX": {
+            "averageHoldingTime": "24.40 minutes",
+            "currencyAddress": "0x5fa90d86c0f1a01f1f4aab2c1a98e45adc5ee38f"
+        },
+        "ZKP": {
+            "averageHoldingTime": "26.00 minutes",
+            "currencyAddress": "0xc2df29a6ee0a3c12446e45ad1340a30fef33a6a9"
+        },
+        "MIND": {
+            "averageHoldingTime": "34.20 minutes",
+            "currencyAddress": "0xdd160949e087ef040bbfde43e454ba45df2e8b52"
+        },
+        "BGT": {
+            "averageHoldingTime": "21.40 minutes",
+            "currencyAddress": "0x73ff82219f9b9ba3febe8aed26c159378d4e00b2"
+        },
+        "NIM": {
+            "averageHoldingTime": "25.60 minutes",
+            "currencyAddress": "0x075d3f6acc15caf4f8699d72bc760a09f5842c3f"
+        },
+        "PUMP": {
+            "averageHoldingTime": "25.00 minutes",
+            "currencyAddress": "0x55d55083c478237062763c41cbd20209841a0459"
+        },
+        "SCROLL": {
+            "averageHoldingTime": "32.40 minutes",
+            "currencyAddress": "0x32ec423819a8c80cc7b609c20961371e75e54fa0"
+        },
+        "TBA": {
+            "averageHoldingTime": "13.20 minutes",
+            "currencyAddress": "0x0cb9cda489aae64fd4a31d2cd17f70dae5fe4b73"
+        },
+        "CELL": {
+            "averageHoldingTime": "22.20 minutes",
+            "currencyAddress": "0xdbe642963f5e8df51ccc6924b2befa8930149721"
+        },
+        "XTER": {
+            "averageHoldingTime": "20.00 minutes",
+            "currencyAddress": "0x681cc758d8f73aee9ca926845b46fac425a9f131"
+        },
+        "MON": {
+            "averageHoldingTime": "20.40 minutes",
+            "currencyAddress": "0xf35ad950b9a888ff9e9c25b9a71c19ddf57d61f4"
+        },
+        "FLT": {
+            "averageHoldingTime": "30.00 minutes",
+            "currencyAddress": "0x7fc773d80e0c788c7ed212d0e86f2cb6a61e9bb3"
+        },
+        "ZERO": {
+            "averageHoldingTime": "30.00 minutes",
+            "currencyAddress": "0x837c26f4d6be1e7466fe92fe138b8c4af8c59d0c"
+        },
+        "ZK": {
+            "averageHoldingTime": "24.65 minutes",
+            "currencyAddress": "0x4a11c9a7ca3d71cc39701f5fc30929b84756aba6"
+        },
+        "A8": {
+            "averageHoldingTime": "22.60 minutes",
+            "currencyAddress": "0x3bc0f912fcca2528801e55fca480f54f69a9c886"
+        },
+        "ETHFI": {
+            "averageHoldingTime": "19.60 minutes",
+            "currencyAddress": "0x7c86ccf95355cdae1cc5c435114d84e9bedb0841"
+        },
+        "UIBT": {
+            "averageHoldingTime": "36.20 minutes",
+            "currencyAddress": "0x4bc87fcdc4d85341976568ad86cb5de9c038bd4a"
+        },
+        "BRI": {
+            "averageHoldingTime": "28.60 minutes",
+            "currencyAddress": "0xb3f23b54930fa83b12a26ed228e431c4a6187590"
+        },
+        "GOMBLE": {
+            "averageHoldingTime": "14.20 minutes",
+            "currencyAddress": "0xede10ebf5d9d03b19823dd3729bec012a98da960"
+        },
+        "ESX": {
+            "averageHoldingTime": "19.60 minutes",
+            "currencyAddress": "0x86da59eb551425c7dfcc4e065febef574e3bf4ca"
+        },
+        "TAIKO": {
+            "averageHoldingTime": "26.30 minutes",
+            "currencyAddress": "0xb1a3bce0e6a2f292fb125bb6a593345eaf9ec20e"
+        },
+        "ZEND": {
+            "averageHoldingTime": "27.40 minutes",
+            "currencyAddress": "0x9a58e231de6a0349cf7262400819c21a2267d09c"
+        },
+        "AEVO": {
+            "averageHoldingTime": "21.40 minutes",
+            "currencyAddress": "0xcae199c7a4ad749a8694909a9a6ab0ef2b55a3e1"
+        },
+        "CTA": {
+            "averageHoldingTime": "18.00 minutes",
+            "currencyAddress": "0x17bb5909d3f294de0ca4fc19a991b9f75a915c31"
+        },
+        "NIBI": {
+            "averageHoldingTime": "20.80 minutes",
+            "currencyAddress": "0x4c9d4ddf611bad3dff2d84fb6e54a59870ebc997"
+        },
+        "PNDR": {
+            "averageHoldingTime": "18.20 minutes",
+            "currencyAddress": "0x2f13ba82da20a7ef616f0e01fd3a9555c322c677"
+        },
+        "NGL": {
+            "averageHoldingTime": "22.00 minutes",
+            "currencyAddress": "0x29a0c9978d79bc945a1aa56a42037812915d1759"
+        },
+        "PARA": {
+            "averageHoldingTime": "17.00 minutes",
+            "currencyAddress": "0x1696e9d958699b6327d8dd948e75e83f1a630fe7"
+        }
+    },
+    "totalProfitsPerToken": {
+        "EIGEN": {
+            "profit": 4956.444026411065,
+            "currencyAddress": "0xf5185dd0ff4ca01d98c03a86d2592dec4dd18fb2",
+            "buyAmount": 4772.3839111328125,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "RUNECOIN": {
+            "profit": 43965.36971779721,
+            "currencyAddress": "0x2e45211957ecdd650f0eaa42f6d58f03d58159e0",
+            "buyAmount": 7104.047143554688,
+            "buyTimes": 3,
+            "sellTimes": 3,
+            "totalTrades": 6
+        },
+        "SVL": {
+            "profit": 6886.6165116318725,
+            "currencyAddress": "0xff0c2af59eb9344b26fd3644b661a214c3f71d07",
+            "buyAmount": 959.7864257812499,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "PQX": {
+            "profit": 37995.2813626683,
+            "currencyAddress": "0xaba2f5ccc85166d1ea594c8b0306447f3f3c7dd3",
+            "buyAmount": 3207.750244140625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "NEXG": {
+            "profit": 3898.5348537145405,
+            "currencyAddress": "0xcbfae8c50f9e49d49409f4f543f8d363a014415b",
+            "buyAmount": 981.3634277343749,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "MSN": {
+            "profit": 48710.8982889835,
+            "currencyAddress": "0x033be8705c262bb2a12da0274297790e9479cce1",
+            "buyAmount": 5969.737222149822,
+            "buyTimes": 3,
+            "sellTimes": 3,
+            "totalTrades": 6
+        },
+        "TABI": {
+            "profit": 60673.98078666184,
+            "currencyAddress": "0x532b9b8cdde8fdf33e41bf2ae578fc83d9cf8ac9",
+            "buyAmount": 12005.635473632814,
+            "buyTimes": 5,
+            "sellTimes": 4,
+            "totalTrades": 9
+        },
+        "NFTfi": {
+            "profit": 18999.1923570638,
+            "currencyAddress": "0x439b77e9a336fbcaffd024ce40801f4d8e32f343",
+            "buyAmount": 3316.088623046875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "AVAIL": {
+            "profit": 57678.460021257604,
+            "currencyAddress": "0x5b80d34d9b91f7e424d4fb73aba7cf5647ead8fa",
+            "buyAmount": 8026.421173789804,
+            "buyTimes": 4,
+            "sellTimes": 3,
+            "totalTrades": 7
+        },
+        "LAVA": {
+            "profit": 20827.913841371206,
+            "currencyAddress": "0xa0272c11d569e445f8780f8f23f995680f4bcabf",
+            "buyAmount": 650.6884765625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "L3": {
+            "profit": 3652.1965612804397,
+            "currencyAddress": "0x1a19759faf9e49557199557e3b4fbb2a596d1e13",
+            "buyAmount": 3125.836669921875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "BB": {
+            "profit": 48675.77672961357,
+            "currencyAddress": "0x508d2342902b5d12154dcc7485c1a80242d7aea9",
+            "buyAmount": 7099.183325195312,
+            "buyTimes": 3,
+            "sellTimes": 3,
+            "totalTrades": 6
+        },
+        "ATH": {
+            "profit": 29075.232743742512,
+            "currencyAddress": "0x4770b6966f7aab5e2b24259b9f85f3f8fad11a0c",
+            "buyAmount": 8062.505029296875,
+            "buyTimes": 2,
+            "sellTimes": 2,
+            "totalTrades": 4
+        },
+        "BLAZE": {
+            "profit": 25248.285291087876,
+            "currencyAddress": "0xde0c85748435e9413a95ad4ed9f1c1fce22685a9",
+            "buyAmount": 2528.81689453125,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "PLENA": {
+            "profit": 40844.547466365264,
+            "currencyAddress": "0x2e28a09452b865b719676e3629fd002222d1111a",
+            "buyAmount": 4487.518757735416,
+            "buyTimes": 2,
+            "sellTimes": 2,
+            "totalTrades": 4
+        },
+        "MOCA": {
+            "profit": 34122.77955816071,
+            "currencyAddress": "0x4115454c188acfb9cb67c6d795214055381b53b5",
+            "buyAmount": 11019.358422851563,
+            "buyTimes": 4,
+            "sellTimes": 2,
+            "totalTrades": 6
+        },
+        "REZ": {
+            "profit": 77489.90064053703,
+            "currencyAddress": "0x766d176a78f7cd88ea86f9b18b72ff093b4e1dc9",
+            "buyAmount": 2887.8741210937496,
+            "buyTimes": 3,
+            "sellTimes": 3,
+            "totalTrades": 6
+        },
+        "IO": {
+            "profit": 37482.40164025502,
+            "currencyAddress": "0xc09fb61cd91439c2cb8f8554f701c33ceca47a25",
+            "buyAmount": 3138.9208984375,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "KMNO": {
+            "profit": 18030.078571725604,
+            "currencyAddress": "0x19f9165689d09f3562419fe8b429735284cc37c0",
+            "buyAmount": 3247.220947265625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "ORANGE": {
+            "profit": 9196.084381990691,
+            "currencyAddress": "0xec55d39a13f31b2674efd7662bb7debeb1b65948",
+            "buyAmount": 953.8736572265625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "SOLV": {
+            "profit": 20859.082891485177,
+            "currencyAddress": "0xd1d8c3f9a5609027a1c7cef070ab9c51b99dcff7",
+            "buyAmount": 6202.0634765625,
+            "buyTimes": 2,
+            "sellTimes": 2,
+            "totalTrades": 4
+        },
+        "PBUX": {
+            "profit": 40903.56219708167,
+            "currencyAddress": "0x3711a137d43779d8352624af0852948434b13ad7",
+            "buyAmount": 4414.100024414062,
+            "buyTimes": 3,
+            "sellTimes": 3,
+            "totalTrades": 6
+        },
+        "PEAQ": {
+            "profit": 11785.006538402788,
+            "currencyAddress": "0xa8752c38caa247fc7724a2d8d4f04e2ed410d7ac",
+            "buyAmount": 3145.73095703125,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "PUFI": {
+            "profit": 40522.79510681146,
+            "currencyAddress": "0xa71cbe77c505140cd10070401b82580e0fe94a1b",
+            "buyAmount": 17608.916015625,
+            "buyTimes": 4,
+            "sellTimes": 3,
+            "totalTrades": 7
+        },
+        "SAFE": {
+            "profit": 29538.849941122236,
+            "currencyAddress": "0xa5cafa147f5970dc380a90f8ebb5296bd9e4cd57",
+            "buyAmount": 922.89169921875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "MOZ": {
+            "profit": 21082.83941295118,
+            "currencyAddress": "0x527b878e22db9747eea5d5d5e6a241bb42634c5e",
+            "buyAmount": 3104.68310546875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "MERL": {
+            "profit": 81598.49338873052,
+            "currencyAddress": "0x98dbba70df94bc4057a76e29067b5d5d5676f14c",
+            "buyAmount": 5670.909326171875,
+            "buyTimes": 3,
+            "sellTimes": 3,
+            "totalTrades": 6
+        },
+        "ELX": {
+            "profit": 4853.675142431986,
+            "currencyAddress": "0xd2944fe55abb2e7635f040c57d5b7a656d1808a6",
+            "buyAmount": 2995.105224609375,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "OMNI": {
+            "profit": 246454.78503686626,
+            "currencyAddress": "0xd59623cfe3dbe4f63e02e6add0f25d3b532b21ce",
+            "buyAmount": 3523.71533203125,
+            "buyTimes": 1,
+            "sellTimes": 3,
+            "totalTrades": 4
+        },
+        "Eigen": {
+            "profit": 16001.954421351562,
+            "currencyAddress": "0x8af00a1f259f6183e35a21f47a3087489eecbf86",
+            "buyAmount": 3541.266845703125,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "MASA": {
+            "profit": 20225.499335791017,
+            "currencyAddress": "0x70d8b31f4eee0e9988d0b196531205a9d30ad104",
+            "buyAmount": 2112.8138671875,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "DEB": {
+            "profit": 35595.18621210937,
+            "currencyAddress": "0x847d2f49e856550f93f7aadf444528a024256372",
+            "buyAmount": 3521.916259765625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "FOXY": {
+            "profit": 37801.89329370117,
+            "currencyAddress": "0x1b7b0b213fb6b96fcfb754881175bb4422e39b52",
+            "buyAmount": 3522.3369140625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "Mezo ": {
+            "profit": 42937.17315146484,
+            "currencyAddress": "0x3b06f6027a41bfced3d5e6855b69aea5e7426e90",
+            "buyAmount": 3491.61279296875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "MONAD": {
+            "profit": 17577.105949710203,
+            "currencyAddress": "0xeaec073d657b9969e9c0e39b25c38605caf7927d",
+            "buyAmount": 16015.91380174976,
+            "buyTimes": 5,
+            "sellTimes": 3,
+            "totalTrades": 8
+        },
+        "BAB": {
+            "profit": 37681.9767056951,
+            "currencyAddress": "0x888ab493a44007445ebc70d5537eb29f95a2d3ec",
+            "buyAmount": 2994.4562239923957,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "BLOCK": {
+            "profit": 19450.98441896973,
+            "currencyAddress": "0xb6f2aa17a2ce2410a116205f13d7d031b69cafa6",
+            "buyAmount": 9683.382690429688,
+            "buyTimes": 2,
+            "sellTimes": 2,
+            "totalTrades": 4
+        },
+        "SAGA": {
+            "profit": 22181.149004296873,
+            "currencyAddress": "0x0d33f227b588446f1bff2b07ae00ff69eb086876",
+            "buyAmount": 10717.30947265625,
+            "buyTimes": 4,
+            "sellTimes": 2,
+            "totalTrades": 6
+        },
+        "TRIP": {
+            "profit": 29131.436816430665,
+            "currencyAddress": "0x42825e496a72b5e3278af637a45b712e49c061a0",
+            "buyAmount": 7416.92041015625,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "NAI": {
+            "profit": 13414.547898286939,
+            "currencyAddress": "0x11067cc96f63b2b375fb740feee95aa2009a5249",
+            "buyAmount": 2447.3650558390364,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "Renzo": {
+            "profit": 29342.656088916017,
+            "currencyAddress": "0x3505c70dbf2cc4ecd84dd0bed04f8126c26ab909",
+            "buyAmount": 7413.451171875,
+            "buyTimes": 2,
+            "sellTimes": 2,
+            "totalTrades": 4
+        },
+        "TNSR": {
+            "profit": 23989.86982331752,
+            "currencyAddress": "0x4ee414df75ae814e60f0ba128189b1f07ab78210",
+            "buyAmount": 7768.457817551618,
+            "buyTimes": 3,
+            "sellTimes": 2,
+            "totalTrades": 5
+        },
+        "OMNIA": {
+            "profit": 4366.9207745134145,
+            "currencyAddress": "0x75780415fca0157e4814a1a2588f1ee9ff0f7e88",
+            "buyAmount": 3183.3357623518204,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "KOII": {
+            "profit": 21587.137499023436,
+            "currencyAddress": "0x019a98258bd5de47900a0be227087af81eaf4c69",
+            "buyAmount": 3447.82421875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "Zora": {
+            "profit": 21672.300236083986,
+            "currencyAddress": "0x3769cd9532cce8550984aa8388a26beda0e69401",
+            "buyAmount": 3395.682373046875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "EigenLayer": {
+            "profit": -7030.773592507965,
+            "currencyAddress": "0x1a4f05bd24c95147608657c26cd931c7b246cd21",
+            "buyAmount": 26360.503211355623,
+            "buyTimes": 8,
+            "sellTimes": 2,
+            "totalTrades": 10
+        },
+        "ZEUS": {
+            "profit": 20612.818317382815,
+            "currencyAddress": "0xaab2332d528d2c636a3c1f47df49472a9341149b",
+            "buyAmount": 11779.875390625,
+            "buyTimes": 3,
+            "sellTimes": 2,
+            "totalTrades": 5
+        },
+        "BWB": {
+            "profit": 57681.863079821516,
+            "currencyAddress": "0xb5c5017c98549049c1d1cf46e3d0ea7882a21b33",
+            "buyAmount": 5640.060138952907,
+            "buyTimes": 2,
+            "sellTimes": 2,
+            "totalTrades": 4
+        },
+        "dappOS": {
+            "profit": 7179.468750610351,
+            "currencyAddress": "0xde77f59a385b50d78aeb7c646d9df1e4fd76f1a4",
+            "buyAmount": 6676.521728515625,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "PAC": {
+            "profit": 26745.070589470815,
+            "currencyAddress": "0x98b84e0f85eca20c129095886bc9330cbe32c605",
+            "buyAmount": 1438.5066239080895,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "GRASS": {
+            "profit": 70533.504025,
+            "currencyAddress": "0xc898c687bdb580d7430277a9bcb503547a09e5ff",
+            "buyAmount": 3325.55224609375,
+            "buyTimes": 1,
+            "sellTimes": 2,
+            "totalTrades": 3
+        },
+        "ULTC": {
+            "profit": 14504.697606933594,
+            "currencyAddress": "0x6277c6bc834f6a1cca9905696a5b6d4f459bc736",
+            "buyAmount": 3326.06201171875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "EVERY": {
+            "profit": 25765.430693457034,
+            "currencyAddress": "0xcae6d8f16193526b9973c93096f0b9b788af999f",
+            "buyAmount": 3285.8203125,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "BERA": {
+            "profit": 74992.78961870118,
+            "currencyAddress": "0x5764cf799caae5b5a7b55e6ed66649d4dcb5a09d",
+            "buyAmount": 4390.265869140625,
+            "buyTimes": 2,
+            "sellTimes": 2,
+            "totalTrades": 4
+        },
+        "COIIN": {
+            "profit": 55208.098356121875,
+            "currencyAddress": "0xffc50b460871d6df13ca15f24c29cb646b6606f5",
+            "buyAmount": 2203.3759948546885,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "W": {
+            "profit": 32603.520570924127,
+            "currencyAddress": "0x7c947c432a8b47fed452dbe026cc6648ad6a2cc6",
+            "buyAmount": 14752.788929417671,
+            "buyTimes": 3,
+            "sellTimes": 2,
+            "totalTrades": 5
+        },
+        "VELAR": {
+            "profit": 40888.80150510254,
+            "currencyAddress": "0xc4763759bda9657cfd06a1613fc828afd74b70fa",
+            "buyAmount": 8016.15849609375,
+            "buyTimes": 3,
+            "sellTimes": 2,
+            "totalTrades": 5
+        },
+        "XAR": {
+            "profit": 23480.651212031007,
+            "currencyAddress": "0x7bb08a75ea1d11298c6a3ff2a638153c96792c93",
+            "buyAmount": 2179.7808131398933,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "DOP": {
+            "profit": 15978.367688638951,
+            "currencyAddress": "0x4d8c3df04ce9b909c9fbf4347a5a3ffadf190142",
+            "buyAmount": 2242.042888802459,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "BONUS": {
+            "profit": 18429.67309111328,
+            "currencyAddress": "0xe57f93bc66faffdc06eabef8db45e1ff28bf67d3",
+            "buyAmount": 6676.7880859375,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "ENA": {
+            "profit": 113525.59455481263,
+            "currencyAddress": "0xd6431990d48b3e463696fdc9860f866afeb1e370",
+            "buyAmount": 11138.481320944207,
+            "buyTimes": 6,
+            "sellTimes": 5,
+            "totalTrades": 11
+        },
+        "ARC": {
+            "profit": 37848.67561210937,
+            "currencyAddress": "0x2e146811a317ba5eb77209c942b186f67a65e801",
+            "buyAmount": 7093.91845703125,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "BLUE": {
+            "profit": 36631.33434179688,
+            "currencyAddress": "0xd0cd86ca2768c13980fe496ca78bc72ed8f2be8b",
+            "buyAmount": 7229.30712890625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "PARAM": {
+            "profit": 40597.45674601569,
+            "currencyAddress": "0x2f6935cc4a043c0bf69165c791ce6f4361278715",
+            "buyAmount": 3330.7558770311803,
+            "buyTimes": 2,
+            "sellTimes": 2,
+            "totalTrades": 4
+        },
+        "APFI": {
+            "profit": 37358.92811699213,
+            "currencyAddress": "0xb07f1e635fba15234b11a351ee03da67d11111b2",
+            "buyAmount": 2356.406393237361,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "PRCL": {
+            "profit": 5978.174429492186,
+            "currencyAddress": "0xa0eeeaea46e92b35849f6f3afc9c63478a0967a0",
+            "buyAmount": 15358.286645507813,
+            "buyTimes": 3,
+            "sellTimes": 2,
+            "totalTrades": 5
+        },
+        "BUBBLE": {
+            "profit": 38225.07356376953,
+            "currencyAddress": "0x7639f0fcd891a5c1d72a986258580bb28c12a94e",
+            "buyAmount": 3502.29150390625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "Layer3": {
+            "profit": 10088.808527148438,
+            "currencyAddress": "0xa33ced472a9b6dd99abc6bae53d4a905832e02cf",
+            "buyAmount": 3572.236328125,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "G3": {
+            "profit": 20422.169952392578,
+            "currencyAddress": "0x73095365cf296e26d912e095c38fac6b3ffad3af",
+            "buyAmount": 1074.3176513671874,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "BRAWL": {
+            "profit": 15258.765056757811,
+            "currencyAddress": "0x76bd48f622df028aed28cb121dda887f84ea805b",
+            "buyAmount": 1076.0696044921874,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "TRUF": {
+            "profit": 1253.8236389160156,
+            "currencyAddress": "0xefb888bc43e9bc7ca5312fbae0cd394cf1a27af6",
+            "buyAmount": 14032.1689453125,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "NYAN": {
+            "profit": 22607.10517861328,
+            "currencyAddress": "0x14cbb17f7b2adad6f00a468e7e1991969c6b3b8e",
+            "buyAmount": 1080.8873291015625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "STONE": {
+            "profit": 38328.336546386716,
+            "currencyAddress": "0xb628b6198e2320437e8a9ff1e72a9ff3f1636cf9",
+            "buyAmount": 7298.0537109375,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "GMRX": {
+            "profit": 86642.84474170969,
+            "currencyAddress": "0xfd1e0ec0d64d806d833b80b8cbd01dfdc9062c3d",
+            "buyAmount": 9234.222170886651,
+            "buyTimes": 4,
+            "sellTimes": 3,
+            "totalTrades": 7
+        },
+        "APRS": {
+            "profit": 43132.778638803706,
+            "currencyAddress": "0xa3a40b96b100019f9b24c294a73c9e310e516124",
+            "buyAmount": 23031.477905273438,
+            "buyTimes": 4,
+            "sellTimes": 3,
+            "totalTrades": 7
+        },
+        "VENOM": {
+            "profit": 5965.515225757876,
+            "currencyAddress": "0x398fa4bd97036eb7cf85e84fbde34959b4e4c396",
+            "buyAmount": 12649.210213622004,
+            "buyTimes": 4,
+            "sellTimes": 2,
+            "totalTrades": 6
+        },
+        "BEFI": {
+            "profit": 89942.79853839599,
+            "currencyAddress": "0xcf60d61616a64371df34580ace2b13401d29c55c",
+            "buyAmount": 11768.367919921875,
+            "buyTimes": 6,
+            "sellTimes": 4,
+            "totalTrades": 10
+        },
+        "Karak": {
+            "profit": 24264.575769042967,
+            "currencyAddress": "0xfb1eef96272c53d608d11de7a92b1e7a0abf7dfc",
+            "buyAmount": 679.09814453125,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "BNDX": {
+            "profit": 16440.35402746582,
+            "currencyAddress": "0x5fa90d86c0f1a01f1f4aab2c1a98e45adc5ee38f",
+            "buyAmount": 3389.209228515625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "ZKP": {
+            "profit": 9994.179283251953,
+            "currencyAddress": "0xc2df29a6ee0a3c12446e45ad1340a30fef33a6a9",
+            "buyAmount": 6744.35791015625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "MIND": {
+            "profit": 45634.649384765624,
+            "currencyAddress": "0xdd160949e087ef040bbfde43e454ba45df2e8b52",
+            "buyAmount": 670.6668457031251,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "BGT": {
+            "profit": 6572.465489501952,
+            "currencyAddress": "0x73ff82219f9b9ba3febe8aed26c159378d4e00b2",
+            "buyAmount": 5009.6971435546875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "NIM": {
+            "profit": 4936.46065185547,
+            "currencyAddress": "0x075d3f6acc15caf4f8699d72bc760a09f5842c3f",
+            "buyAmount": 6727.77197265625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "PUMP": {
+            "profit": 26340.15587475586,
+            "currencyAddress": "0x55d55083c478237062763c41cbd20209841a0459",
+            "buyAmount": 999.7220947265624,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "SCROLL": {
+            "profit": 21758.92309724121,
+            "currencyAddress": "0x32ec423819a8c80cc7b609c20961371e75e54fa0",
+            "buyAmount": 1033.35,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "TBA": {
+            "profit": -9860.951912992183,
+            "currencyAddress": "0x0cb9cda489aae64fd4a31d2cd17f70dae5fe4b73",
+            "buyAmount": 15135.65665420312,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "CELL": {
+            "profit": 12617.471349487305,
+            "currencyAddress": "0xdbe642963f5e8df51ccc6924b2befa8930149721",
+            "buyAmount": 1053.0174316406249,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "XTER": {
+            "profit": 19139.52331855469,
+            "currencyAddress": "0x681cc758d8f73aee9ca926845b46fac425a9f131",
+            "buyAmount": 3545.3369140625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "MON": {
+            "profit": 13836.352638964843,
+            "currencyAddress": "0xf35ad950b9a888ff9e9c25b9a71c19ddf57d61f4",
+            "buyAmount": 7029.73291015625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "FLT": {
+            "profit": 51797.56008965617,
+            "currencyAddress": "0x7fc773d80e0c788c7ed212d0e86f2cb6a61e9bb3",
+            "buyAmount": 3886.156237492275,
+            "buyTimes": 2,
+            "sellTimes": 2,
+            "totalTrades": 4
+        },
+        "ZERO": {
+            "profit": 15176.841879762058,
+            "currencyAddress": "0x837c26f4d6be1e7466fe92fe138b8c4af8c59d0c",
+            "buyAmount": 1436.227077391265,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "ZK": {
+            "profit": 62271.1743110713,
+            "currencyAddress": "0x4a11c9a7ca3d71cc39701f5fc30929b84756aba6",
+            "buyAmount": 29983.19036981249,
+            "buyTimes": 7,
+            "sellTimes": 4,
+            "totalTrades": 11
+        },
+        "A8": {
+            "profit": 7375.036735546875,
+            "currencyAddress": "0x3bc0f912fcca2528801e55fca480f54f69a9c886",
+            "buyAmount": 3437.39697265625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "ETHFI": {
+            "profit": 21642.84350518554,
+            "currencyAddress": "0x7c86ccf95355cdae1cc5c435114d84e9bedb0841",
+            "buyAmount": 15084.003295898438,
+            "buyTimes": 5,
+            "sellTimes": 3,
+            "totalTrades": 8
+        },
+        "UIBT": {
+            "profit": 16070.657076171876,
+            "currencyAddress": "0x4bc87fcdc4d85341976568ad86cb5de9c038bd4a",
+            "buyAmount": 3610.703369140625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "BRI": {
+            "profit": 29350.202117187502,
+            "currencyAddress": "0xb3f23b54930fa83b12a26ed228e431c4a6187590",
+            "buyAmount": 3537.614013671875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "GOMBLE": {
+            "profit": 18611.926965966795,
+            "currencyAddress": "0xede10ebf5d9d03b19823dd3729bec012a98da960",
+            "buyAmount": 10728.230712890625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "ESX": {
+            "profit": 9394.502870410155,
+            "currencyAddress": "0x86da59eb551425c7dfcc4e065febef574e3bf4ca",
+            "buyAmount": 3654.65185546875,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "TAIKO": {
+            "profit": 60853.49989291992,
+            "currencyAddress": "0xb1a3bce0e6a2f292fb125bb6a593345eaf9ec20e",
+            "buyAmount": 5596.025390625,
+            "buyTimes": 1,
+            "sellTimes": 2,
+            "totalTrades": 3
+        },
+        "ZEND": {
+            "profit": -1684.6950321533204,
+            "currencyAddress": "0x9a58e231de6a0349cf7262400819c21a2267d09c",
+            "buyAmount": 5990.9033203125,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "AEVO": {
+            "profit": 1647.3877538476554,
+            "currencyAddress": "0xcae199c7a4ad749a8694909a9a6ab0ef2b55a3e1",
+            "buyAmount": 9315.183032226563,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "CTA": {
+            "profit": 15666.066908203124,
+            "currencyAddress": "0x17bb5909d3f294de0ca4fc19a991b9f75a915c31",
+            "buyAmount": 1196.31181640625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "NIBI": {
+            "profit": 3451.7682946533196,
+            "currencyAddress": "0x4c9d4ddf611bad3dff2d84fb6e54a59870ebc997",
+            "buyAmount": 1221.3296630859375,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "PNDR": {
+            "profit": 10260.52057864746,
+            "currencyAddress": "0x2f13ba82da20a7ef616f0e01fd3a9555c322c677",
+            "buyAmount": 2316.7591552734375,
+            "buyTimes": 2,
+            "sellTimes": 1,
+            "totalTrades": 3
+        },
+        "NGL": {
+            "profit": 57491.98213886683,
+            "currencyAddress": "0x29a0c9978d79bc945a1aa56a42037812915d1759",
+            "buyAmount": 1211.291015625,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        },
+        "PARA": {
+            "profit": 10054.13323949817,
+            "currencyAddress": "0x1696e9d958699b6327d8dd948e75e83f1a630fe7",
+            "buyAmount": 1174.9305908203125,
+            "buyTimes": 1,
+            "sellTimes": 1,
+            "totalTrades": 2
+        }
+    },
+    "most5TradedTokens": {
+        "ENA": {
+            "profit": 113525.59455481263,
+            "currencyAddress": "0xd6431990d48b3e463696fdc9860f866afeb1e370",
+            "buyAmount": 11138.481320944207,
+            "buyTimes": 6,
+            "sellTimes": 5,
+            "totalTrades": 11
+        },
+        "ZK": {
+            "profit": 62271.1743110713,
+            "currencyAddress": "0x4a11c9a7ca3d71cc39701f5fc30929b84756aba6",
+            "buyAmount": 29983.19036981249,
+            "buyTimes": 7,
+            "sellTimes": 4,
+            "totalTrades": 11
+        },
+        "EigenLayer": {
+            "profit": -7030.773592507965,
+            "currencyAddress": "0x1a4f05bd24c95147608657c26cd931c7b246cd21",
+            "buyAmount": 26360.503211355623,
+            "buyTimes": 8,
+            "sellTimes": 2,
+            "totalTrades": 10
+        },
+        "BEFI": {
+            "profit": 89942.79853839599,
+            "currencyAddress": "0xcf60d61616a64371df34580ace2b13401d29c55c",
+            "buyAmount": 11768.367919921875,
+            "buyTimes": 6,
+            "sellTimes": 4,
+            "totalTrades": 10
+        },
+        "TABI": {
+            "profit": 60673.98078666184,
+            "currencyAddress": "0x532b9b8cdde8fdf33e41bf2ae578fc83d9cf8ac9",
+            "buyAmount": 12005.635473632814,
+            "buyTimes": 5,
+            "sellTimes": 4,
+            "totalTrades": 9
+        }
+    },
+    "top5ProfitableTokens": {
+        "OMNI": {
+            "profit": 246454.78503686626,
+            "currencyAddress": "0xd59623cfe3dbe4f63e02e6add0f25d3b532b21ce",
+            "buyAmount": 3523.71533203125,
+            "buyTimes": 1,
+            "sellTimes": 3,
+            "totalTrades": 4
+        },
+        "ENA": {
+            "profit": 113525.59455481263,
+            "currencyAddress": "0xd6431990d48b3e463696fdc9860f866afeb1e370",
+            "buyAmount": 11138.481320944207,
+            "buyTimes": 6,
+            "sellTimes": 5,
+            "totalTrades": 11
+        },
+        "BEFI": {
+            "profit": 89942.79853839599,
+            "currencyAddress": "0xcf60d61616a64371df34580ace2b13401d29c55c",
+            "buyAmount": 11768.367919921875,
+            "buyTimes": 6,
+            "sellTimes": 4,
+            "totalTrades": 10
+        },
+        "GMRX": {
+            "profit": 86642.84474170969,
+            "currencyAddress": "0xfd1e0ec0d64d806d833b80b8cbd01dfdc9062c3d",
+            "buyAmount": 9234.222170886651,
+            "buyTimes": 4,
+            "sellTimes": 3,
+            "totalTrades": 7
+        },
+        "MERL": {
+            "profit": 81598.49338873052,
+            "currencyAddress": "0x98dbba70df94bc4057a76e29067b5d5d5676f14c",
+            "buyAmount": 5670.909326171875,
+            "buyTimes": 3,
+            "sellTimes": 3,
+            "totalTrades": 6
+        }
+    },
+    "overallAverageHoldingTimeAndProfit": {
+        "HoldingTime": "1.30 hours",
+        "Profit": 30391.081036395033,
+        "BuyAmount": 5889.870364808156
+    },
+    "mostProfitableTokenWithShortestOpeningTime": {
+        "tokenName": "GMRX",
+        "profit": 86642.84474170969,
+        "averageHoldingTime": "23.47 minutes",
+        "currencyAddress": "0xfd1e0ec0d64d806d833b80b8cbd01dfdc9062c3d"
+    },
+    "swapTimeResults": {
+        "longestTime": "2.96 days",
+        "shortestTime": "0.22 minutes",
+        "longestTokenInfo": {
+            "tokenName": "OMNI",
+            "averageHoldingTime": "2.96 days",
+            "currencyAddress": "0xd59623cfe3dbe4f63e02e6add0f25d3b532b21ce",
+            "profit": 246454.78503686626
+        },
+        "shortestTokenInfo": {
+            "tokenName": "TBA",
+            "averageHoldingTime": "13.20 minutes",
+            "currencyAddress": "0x0cb9cda489aae64fd4a31d2cd17f70dae5fe4b73",
+            "profit": -9860.951912992183
+        }
+    },
+    "avgHoldingTime": "1.30 hours",
+    "avgProfit": 30391.081036395033,
+    "avgBuyAmount": 5889.870364808156,
+    "holdingTimeLabel": "Scalper",
+    "profitLabel": "High Profit",
+    "buyAmountLabel": "Large Size",
+    "holdingTimeScore": 400,
+    "profitScore": 400,
+    "sizeScore": 200,
+    "totalScore": 1050,
+    "winRate": "97.17",
+    "totalProfitableSwaps": 103,
+    "totalNegativeSwaps": 3,
+    "totalPositions": 106,
+    "newestBoughtToken": {
+        "tokenName": "Securitize",
+        "currencyAddress": "0xae962d11e0a74ce271f7a111a0c3f538ed3dede6",
+        "buyTime": "2024-05-03T05:34:59.000Z",
+        "profit": -900.3188232421875
+    },
+    "newestSoldToken": {
+        "tokenName": "EIGEN",
+        "currencyAddress": "0x28cb7a00e1b921b020ab87ef4ead49e5a5af8740",
+        "sellTime": "2024-05-02T11:54:47.000Z"
+    },
+    "formattedNewestBoughtToken": {
+        "tokenName": "Securitize",
+        "currencyAddress": "0xae962d11e0a74ce271f7a111a0c3f538ed3dede6",
+        "buyTime": "2024-05-03T05:34:59.000Z",
+        "profit": -900.3188232421875
+    },
+    "formattedNewestSoldToken": {
+        "tokenName": "EIGEN",
+        "currencyAddress": "0x28cb7a00e1b921b020ab87ef4ead49e5a5af8740",
+        "sellTime": "2024-05-02T11:54:47.000Z"
+    },
+    "transactionMetrics": {
+        "totalTransactions": 994,
+        "latestTransaction": {
+            "time": "2024-05-03T11:55:35Z",
+            "details": {
+                "type": "send",
+                "sender": {
+                    "address": "0x67ac54c5de335898fc57529388345b26e496497d"
+                },
+                "receiver": {
+                    "address": "0xd312f058a241398ec6459e5fbe97741b2dcacf8f"
+                },
+                "amount": 1.0290856011744591,
+                "amount_usd": 3062.803207173789,
+                "currency": {
+                    "symbol": "ETH",
+                    "address": "0x"
+                },
+                "transaction": {
+                    "hash": "0x777f7e6faf240b101b2d6b265675ef9d3c2a4c6fdecbf15cfa4b5d7336e99f48",
+                    "gasValue": 1.0290856011744591,
+                    "gasPrice": 8.624853243e-9
+                },
+                "block": {
+                    "timestamp": {
+                        "time": "2024-05-03T11:55:35Z"
+                    }
+                }
+            }
+        },
+        "firstTransaction": {
+            "time": "2024-03-09T08:15:47.000Z",
+            "details": {
+                "type": "receive",
+                "sender": {
+                    "address": "0xcfc53fa707a4fd6237971babb058609887afed04"
+                },
+                "receiver": {
+                    "address": "0x67ac54c5de335898fc57529388345b26e496497d"
+                },
+                "amount": 0.32,
+                "amount_usd": 1260.61578125,
+                "currency": {
+                    "symbol": "ETH",
+                    "address": "0x"
+                },
+                "transaction": {
+                    "hash": "0x62b39db7d05ff61d3fc4af2b9feac98024a5fb7182dad3332c3d883718ec0789",
+                    "gasValue": 0.32,
+                    "gasPrice": 7.1466034079e-8
+                },
+                "block": {
+                    "timestamp": {
+                        "time": "2024-03-09T08:15:47Z"
+                    }
+                }
+            }
+        },
+        "uniqueDaysActive": 53,
+        "walletAge": 157
+    },
+    "percentageProfitsPerToken": {
+        "EIGEN": {
+            "profit": 103.85677511922052,
+            "currencyAddress": "0xf5185dd0ff4ca01d98c03a86d2592dec4dd18fb2"
+        },
+        "RUNECOIN": {
+            "profit": 618.8777865541872,
+            "currencyAddress": "0x2e45211957ecdd650f0eaa42f6d58f03d58159e0"
+        },
+        "SVL": {
+            "profit": 717.5155145610945,
+            "currencyAddress": "0xff0c2af59eb9344b26fd3644b661a214c3f71d07"
+        },
+        "PQX": {
+            "profit": 1184.4837805584036,
+            "currencyAddress": "0xaba2f5ccc85166d1ea594c8b0306447f3f3c7dd3"
+        },
+        "NEXG": {
+            "profit": 397.2569940490746,
+            "currencyAddress": "0xcbfae8c50f9e49d49409f4f543f8d363a014415b"
+        },
+        "MSN": {
+            "profit": 815.9638603228457,
+            "currencyAddress": "0x033be8705c262bb2a12da0274297790e9479cce1"
+        },
+        "TABI": {
+            "profit": 505.37916897373833,
+            "currencyAddress": "0x532b9b8cdde8fdf33e41bf2ae578fc83d9cf8ac9"
+        },
+        "NFTfi": {
+            "profit": 572.9398251005439,
+            "currencyAddress": "0x439b77e9a336fbcaffd024ce40801f4d8e32f343"
+        },
+        "AVAIL": {
+            "profit": 718.6074437459876,
+            "currencyAddress": "0x5b80d34d9b91f7e424d4fb73aba7cf5647ead8fa"
+        },
+        "LAVA": {
+            "profit": 3200.9040564852603,
+            "currencyAddress": "0xa0272c11d569e445f8780f8f23f995680f4bcabf"
+        },
+        "L3": {
+            "profit": 116.83900814215352,
+            "currencyAddress": "0x1a19759faf9e49557199557e3b4fbb2a596d1e13"
+        },
+        "BB": {
+            "profit": 685.6531871329637,
+            "currencyAddress": "0x508d2342902b5d12154dcc7485c1a80242d7aea9"
+        },
+        "ATH": {
+            "profit": 360.6228168303932,
+            "currencyAddress": "0x4770b6966f7aab5e2b24259b9f85f3f8fad11a0c"
+        },
+        "BLAZE": {
+            "profit": 998.4228334478912,
+            "currencyAddress": "0xde0c85748435e9413a95ad4ed9f1c1fce22685a9"
+        },
+        "PLENA": {
+            "profit": 910.1810972034148,
+            "currencyAddress": "0x2e28a09452b865b719676e3629fd002222d1111a"
+        },
+        "MOCA": {
+            "profit": 309.6621259491667,
+            "currencyAddress": "0x4115454c188acfb9cb67c6d795214055381b53b5"
+        },
+        "REZ": {
+            "profit": 2683.2852607574396,
+            "currencyAddress": "0x766d176a78f7cd88ea86f9b18b72ff093b4e1dc9"
+        },
+        "IO": {
+            "profit": 1194.1174324881238,
+            "currencyAddress": "0xc09fb61cd91439c2cb8f8554f701c33ceca47a25"
+        },
+        "KMNO": {
+            "profit": 555.2464357840548,
+            "currencyAddress": "0x19f9165689d09f3562419fe8b429735284cc37c0"
+        },
+        "ORANGE": {
+            "profit": 964.0778222903007,
+            "currencyAddress": "0xec55d39a13f31b2674efd7662bb7debeb1b65948"
+        },
+        "SOLV": {
+            "profit": 336.3248855854398,
+            "currencyAddress": "0xd1d8c3f9a5609027a1c7cef070ab9c51b99dcff7"
+        },
+        "PBUX": {
+            "profit": 926.656894289823,
+            "currencyAddress": "0x3711a137d43779d8352624af0852948434b13ad7"
+        },
+        "PEAQ": {
+            "profit": 374.6349163160718,
+            "currencyAddress": "0xa8752c38caa247fc7724a2d8d4f04e2ed410d7ac"
+        },
+        "PUFI": {
+            "profit": 230.1265737814536,
+            "currencyAddress": "0xa71cbe77c505140cd10070401b82580e0fe94a1b"
+        },
+        "SAFE": {
+            "profit": 3200.6843236457307,
+            "currencyAddress": "0xa5cafa147f5970dc380a90f8ebb5296bd9e4cd57"
+        },
+        "MOZ": {
+            "profit": 679.0657434832808,
+            "currencyAddress": "0x527b878e22db9747eea5d5d5e6a241bb42634c5e"
+        },
+        "MERL": {
+            "profit": 1438.896104583165,
+            "currencyAddress": "0x98dbba70df94bc4057a76e29067b5d5d5676f14c"
+        },
+        "ELX": {
+            "profit": 162.05357670079883,
+            "currencyAddress": "0xd2944fe55abb2e7635f040c57d5b7a656d1808a6"
+        },
+        "OMNI": {
+            "profit": 6994.174097905835,
+            "currencyAddress": "0xd59623cfe3dbe4f63e02e6add0f25d3b532b21ce"
+        },
+        "Eigen": {
+            "profit": 451.8709015325374,
+            "currencyAddress": "0x8af00a1f259f6183e35a21f47a3087489eecbf86"
+        },
+        "MASA": {
+            "profit": 957.2778582106931,
+            "currencyAddress": "0x70d8b31f4eee0e9988d0b196531205a9d30ad104"
+        },
+        "DEB": {
+            "profit": 1010.6766767497801,
+            "currencyAddress": "0x847d2f49e856550f93f7aadf444528a024256372"
+        },
+        "FOXY": {
+            "profit": 1073.204926615104,
+            "currencyAddress": "0x1b7b0b213fb6b96fcfb754881175bb4422e39b52"
+        },
+        "Mezo ": {
+            "profit": 1229.7232166731017,
+            "currencyAddress": "0x3b06f6027a41bfced3d5e6855b69aea5e7426e90"
+        },
+        "MONAD": {
+            "profit": 109.74775568403645,
+            "currencyAddress": "0xeaec073d657b9969e9c0e39b25c38605caf7927d"
+        },
+        "BAB": {
+            "profit": 1258.391303361755,
+            "currencyAddress": "0x888ab493a44007445ebc70d5537eb29f95a2d3ec"
+        },
+        "BLOCK": {
+            "profit": 200.8697274578809,
+            "currencyAddress": "0xb6f2aa17a2ce2410a116205f13d7d031b69cafa6"
+        },
+        "SAGA": {
+            "profit": 206.96564805643658,
+            "currencyAddress": "0x0d33f227b588446f1bff2b07ae00ff69eb086876"
+        },
+        "TRIP": {
+            "profit": 392.76998006531073,
+            "currencyAddress": "0x42825e496a72b5e3278af637a45b712e49c061a0"
+        },
+        "NAI": {
+            "profit": 548.1220656592237,
+            "currencyAddress": "0x11067cc96f63b2b375fb740feee95aa2009a5249"
+        },
+        "Renzo": {
+            "profit": 395.8029183524617,
+            "currencyAddress": "0x3505c70dbf2cc4ecd84dd0bed04f8126c26ab909"
+        },
+        "TNSR": {
+            "profit": 308.811225943921,
+            "currencyAddress": "0x4ee414df75ae814e60f0ba128189b1f07ab78210"
+        },
+        "OMNIA": {
+            "profit": 137.18065263989533,
+            "currencyAddress": "0x75780415fca0157e4814a1a2588f1ee9ff0f7e88"
+        },
+        "KOII": {
+            "profit": 626.108993075343,
+            "currencyAddress": "0x019a98258bd5de47900a0be227087af81eaf4c69"
+        },
+        "Zora": {
+            "profit": 638.2310786222882,
+            "currencyAddress": "0x3769cd9532cce8550984aa8388a26beda0e69401"
+        },
+        "EigenLayer": {
+            "profit": -26.67162131214262,
+            "currencyAddress": "0x1a4f05bd24c95147608657c26cd931c7b246cd21"
+        },
+        "ZEUS": {
+            "profit": 174.98333075566742,
+            "currencyAddress": "0xaab2332d528d2c636a3c1f47df49472a9341149b"
+        },
+        "BWB": {
+            "profit": 1022.7171636246119,
+            "currencyAddress": "0xb5c5017c98549049c1d1cf46e3d0ea7882a21b33"
+        },
+        "dappOS": {
+            "profit": 107.53306950154335,
+            "currencyAddress": "0xde77f59a385b50d78aeb7c646d9df1e4fd76f1a4"
+        },
+        "PAC": {
+            "profit": 1859.2247088032623,
+            "currencyAddress": "0x98b84e0f85eca20c129095886bc9330cbe32c605"
+        },
+        "GRASS": {
+            "profit": 2120.956124139979,
+            "currencyAddress": "0xc898c687bdb580d7430277a9bcb503547a09e5ff"
+        },
+        "ULTC": {
+            "profit": 436.0922182397393,
+            "currencyAddress": "0x6277c6bc834f6a1cca9905696a5b6d4f459bc736"
+        },
+        "EVERY": {
+            "profit": 784.1399785447651,
+            "currencyAddress": "0xcae6d8f16193526b9973c93096f0b9b788af999f"
+        },
+        "BERA": {
+            "profit": 1708.1605500438786,
+            "currencyAddress": "0x5764cf799caae5b5a7b55e6ed66649d4dcb5a09d"
+        },
+        "COIIN": {
+            "profit": 2505.614043406278,
+            "currencyAddress": "0xffc50b460871d6df13ca15f24c29cb646b6606f5"
+        },
+        "W": {
+            "profit": 220.9990309419486,
+            "currencyAddress": "0x7c947c432a8b47fed452dbe026cc6648ad6a2cc6"
+        },
+        "VELAR": {
+            "profit": 510.0797536005249,
+            "currencyAddress": "0xc4763759bda9657cfd06a1613fc828afd74b70fa"
+        },
+        "XAR": {
+            "profit": 1077.2023989975396,
+            "currencyAddress": "0x7bb08a75ea1d11298c6a3ff2a638153c96792c93"
+        },
+        "DOP": {
+            "profit": 712.6700282336467,
+            "currencyAddress": "0x4d8c3df04ce9b909c9fbf4347a5a3ffadf190142"
+        },
+        "BONUS": {
+            "profit": 276.02603008966906,
+            "currencyAddress": "0xe57f93bc66faffdc06eabef8db45e1ff28bf67d3"
+        },
+        "ENA": {
+            "profit": 1019.2196878881967,
+            "currencyAddress": "0xd6431990d48b3e463696fdc9860f866afeb1e370"
+        },
+        "ARC": {
+            "profit": 533.5369421196976,
+            "currencyAddress": "0x2e146811a317ba5eb77209c942b186f67a65e801"
+        },
+        "BLUE": {
+            "profit": 506.7060188289299,
+            "currencyAddress": "0xd0cd86ca2768c13980fe496ca78bc72ed8f2be8b"
+        },
+        "PARAM": {
+            "profit": 1218.866174671487,
+            "currencyAddress": "0x2f6935cc4a043c0bf69165c791ce6f4361278715"
+        },
+        "APFI": {
+            "profit": 1585.4195704191065,
+            "currencyAddress": "0xb07f1e635fba15234b11a351ee03da67d11111b2"
+        },
+        "PRCL": {
+            "profit": 38.92474836208868,
+            "currencyAddress": "0xa0eeeaea46e92b35849f6f3afc9c63478a0967a0"
+        },
+        "BUBBLE": {
+            "profit": 1091.4303826833243,
+            "currencyAddress": "0x7639f0fcd891a5c1d72a986258580bb28c12a94e"
+        },
+        "Layer3": {
+            "profit": 282.4227626743795,
+            "currencyAddress": "0xa33ced472a9b6dd99abc6bae53d4a905832e02cf"
+        },
+        "G3": {
+            "profit": 1900.9433500792916,
+            "currencyAddress": "0x73095365cf296e26d912e095c38fac6b3ffad3af"
+        },
+        "BRAWL": {
+            "profit": 1418.0091132635087,
+            "currencyAddress": "0x76bd48f622df028aed28cb121dda887f84ea805b"
+        },
+        "TRUF": {
+            "profit": 8.935351646652318,
+            "currencyAddress": "0xefb888bc43e9bc7ca5312fbae0cd394cf1a27af6"
+        },
+        "NYAN": {
+            "profit": 2091.5320746154357,
+            "currencyAddress": "0x14cbb17f7b2adad6f00a468e7e1991969c6b3b8e"
+        },
+        "STONE": {
+            "profit": 525.185728476409,
+            "currencyAddress": "0xb628b6198e2320437e8a9ff1e72a9ff3f1636cf9"
+        },
+        "GMRX": {
+            "profit": 938.2798370920117,
+            "currencyAddress": "0xfd1e0ec0d64d806d833b80b8cbd01dfdc9062c3d"
+        },
+        "APRS": {
+            "profit": 187.2775113095445,
+            "currencyAddress": "0xa3a40b96b100019f9b24c294a73c9e310e516124"
+        },
+        "VENOM": {
+            "profit": 47.16116757498092,
+            "currencyAddress": "0x398fa4bd97036eb7cf85e84fbde34959b4e4c396"
+        },
+        "BEFI": {
+            "profit": 764.2758889797956,
+            "currencyAddress": "0xcf60d61616a64371df34580ace2b13401d29c55c"
+        },
+        "Karak": {
+            "profit": 3573.058763956966,
+            "currencyAddress": "0xfb1eef96272c53d608d11de7a92b1e7a0abf7dfc"
+        },
+        "BNDX": {
+            "profit": 485.0793479830756,
+            "currencyAddress": "0x5fa90d86c0f1a01f1f4aab2c1a98e45adc5ee38f"
+        },
+        "ZKP": {
+            "profit": 148.1857786373086,
+            "currencyAddress": "0xc2df29a6ee0a3c12446e45ad1340a30fef33a6a9"
+        },
+        "MIND": {
+            "profit": 6804.3693641844475,
+            "currencyAddress": "0xdd160949e087ef040bbfde43e454ba45df2e8b52"
+        },
+        "BGT": {
+            "profit": 131.1948666988357,
+            "currencyAddress": "0x73ff82219f9b9ba3febe8aed26c159378d4e00b2"
+        },
+        "NIM": {
+            "profit": 73.3743752302958,
+            "currencyAddress": "0x075d3f6acc15caf4f8699d72bc760a09f5842c3f"
+        },
+        "PUMP": {
+            "profit": 2634.7477977827675,
+            "currencyAddress": "0x55d55083c478237062763c41cbd20209841a0459"
+        },
+        "SCROLL": {
+            "profit": 2105.668272825394,
+            "currencyAddress": "0x32ec423819a8c80cc7b609c20961371e75e54fa0"
+        },
+        "TBA": {
+            "profit": -65.1504730734879,
+            "currencyAddress": "0x0cb9cda489aae64fd4a31d2cd17f70dae5fe4b73"
+        },
+        "CELL": {
+            "profit": 1198.2205584031976,
+            "currencyAddress": "0xdbe642963f5e8df51ccc6924b2befa8930149721"
+        },
+        "XTER": {
+            "profit": 539.8506201946054,
+            "currencyAddress": "0x681cc758d8f73aee9ca926845b46fac425a9f131"
+        },
+        "MON": {
+            "profit": 196.82614995193754,
+            "currencyAddress": "0xf35ad950b9a888ff9e9c25b9a71c19ddf57d61f4"
+        },
+        "FLT": {
+            "profit": 1332.8738456249246,
+            "currencyAddress": "0x7fc773d80e0c788c7ed212d0e86f2cb6a61e9bb3"
+        },
+        "ZERO": {
+            "profit": 1056.7160387568363,
+            "currencyAddress": "0x837c26f4d6be1e7466fe92fe138b8c4af8c59d0c"
+        },
+        "ZK": {
+            "profit": 207.68695239905762,
+            "currencyAddress": "0x4a11c9a7ca3d71cc39701f5fc30929b84756aba6"
+        },
+        "A8": {
+            "profit": 214.55295370926598,
+            "currencyAddress": "0x3bc0f912fcca2528801e55fca480f54f69a9c886"
+        },
+        "ETHFI": {
+            "profit": 143.48209212517574,
+            "currencyAddress": "0x7c86ccf95355cdae1cc5c435114d84e9bedb0841"
+        },
+        "UIBT": {
+            "profit": 445.0838363938164,
+            "currencyAddress": "0x4bc87fcdc4d85341976568ad86cb5de9c038bd4a"
+        },
+        "BRI": {
+            "profit": 829.6609523751686,
+            "currencyAddress": "0xb3f23b54930fa83b12a26ed228e431c4a6187590"
+        },
+        "GOMBLE": {
+            "profit": 173.4855211829424,
+            "currencyAddress": "0xede10ebf5d9d03b19823dd3729bec012a98da960"
+        },
+        "ESX": {
+            "profit": 257.0560272752767,
+            "currencyAddress": "0x86da59eb551425c7dfcc4e065febef574e3bf4ca"
+        },
+        "TAIKO": {
+            "profit": 1087.4414543377084,
+            "currencyAddress": "0xb1a3bce0e6a2f292fb125bb6a593345eaf9ec20e"
+        },
+        "ZEND": {
+            "profit": -28.120884983092044,
+            "currencyAddress": "0x9a58e231de6a0349cf7262400819c21a2267d09c"
+        },
+        "AEVO": {
+            "profit": 17.68497460703022,
+            "currencyAddress": "0xcae199c7a4ad749a8694909a9a6ab0ef2b55a3e1"
+        },
+        "CTA": {
+            "profit": 1309.5303994626058,
+            "currencyAddress": "0x17bb5909d3f294de0ca4fc19a991b9f75a915c31"
+        },
+        "NIBI": {
+            "profit": 282.62379920681906,
+            "currencyAddress": "0x4c9d4ddf611bad3dff2d84fb6e54a59870ebc997"
+        },
+        "PNDR": {
+            "profit": 442.8824876030954,
+            "currencyAddress": "0x2f13ba82da20a7ef616f0e01fd3a9555c322c677"
+        },
+        "NGL": {
+            "profit": 4746.339351753732,
+            "currencyAddress": "0x29a0c9978d79bc945a1aa56a42037812915d1759"
+        },
+        "PARA": {
+            "profit": 855.7214628719966,
+            "currencyAddress": "0x1696e9d958699b6327d8dd948e75e83f1a630fe7"
+        }
+    },
+    "totalWithdraw": 3859151.0457620206,
+    "totalDeposit": 625206.8362032318,
+    "sendTokens": {
+        "totalSendTransactions": 372
+    },
+    "sentHistory": [
+        {
+            "amount": 1.0290856011744591,
+            "amount_usd": 3062.803207173789,
+            "time": "5/3/2024, 11:55:35 AM"
+        },
+        {
+            "amount": 3.2592827132427513,
+            "amount_usd": 9751.39431799931,
+            "time": "5/2/2024, 11:55:35 AM",
+            "interval": "1.00 days"
+        },
+        {
+            "amount": 0.31573987902811135,
+            "amount_usd": 926.065142274382,
+            "time": "5/2/2024, 4:23:35 AM",
+            "interval": "0.31 days"
+        },
+        {
+            "amount": 6.71255049,
+            "amount_usd": 21598.509601736776,
+            "time": "4/30/2024, 12:40:11 AM",
+            "interval": "2.16 days"
+        },
+        {
+            "amount": 2,
+            "amount_usd": 0,
+            "time": "4/30/2024, 12:35:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2,
+            "amount_usd": 6436.9580078125,
+            "time": "4/30/2024, 12:33:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.3,
+            "amount_usd": 965.0403076171874,
+            "time": "4/29/2024, 11:54:35 PM",
+            "interval": "0.03 days"
+        },
+        {
+            "amount": 2.4669443,
+            "amount_usd": 7868.976536054981,
+            "time": "4/29/2024, 6:30:23 AM",
+            "interval": "0.73 days"
+        },
+        {
+            "amount": 8.19882751,
+            "amount_usd": 26167.634894942435,
+            "time": "4/29/2024, 4:24:59 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 1.737,
+            "amount_usd": 5541.702578613282,
+            "time": "4/29/2024, 4:14:11 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 3,
+            "amount_usd": 0,
+            "time": "4/29/2024, 4:11:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3,
+            "amount_usd": 9561.451904296875,
+            "time": "4/29/2024, 4:09:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.50468431,
+            "amount_usd": 4906.867740906536,
+            "time": "4/28/2024, 11:57:47 PM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 3.4,
+            "amount_usd": 11286.568115234375,
+            "time": "4/28/2024, 3:14:23 PM",
+            "interval": "0.36 days"
+        },
+        {
+            "amount": 0.58,
+            "amount_usd": 1924.3342236328124,
+            "time": "4/28/2024, 3:08:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.70252794,
+            "amount_usd": 8892.124513957071,
+            "time": "4/28/2024, 11:24:59 AM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 0.85,
+            "amount_usd": 2799.380578613281,
+            "time": "4/28/2024, 11:18:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 9913.10063720703,
+            "time": "4/28/2024, 11:17:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.65,
+            "amount_usd": 5434.091711425781,
+            "time": "4/28/2024, 11:15:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.36036812,
+            "amount_usd": 14477.040657881867,
+            "time": "4/28/2024, 8:31:23 AM",
+            "interval": "0.11 days"
+        },
+        {
+            "amount": 0.36,
+            "amount_usd": 1195.2510644531249,
+            "time": "4/28/2024, 8:30:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6672.080170898437,
+            "time": "4/28/2024, 8:28:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.58137831,
+            "amount_usd": 11875.6126500566,
+            "time": "4/28/2024, 7:47:59 AM",
+            "interval": "0.03 days"
+        },
+        {
+            "amount": 0.8598,
+            "amount_usd": 2849.2168271484375,
+            "time": "4/28/2024, 6:26:11 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 2.43,
+            "amount_usd": 8052.566748046876,
+            "time": "4/28/2024, 6:25:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1,
+            "amount_usd": 0,
+            "time": "4/27/2024, 11:57:35 PM",
+            "interval": "0.27 days"
+        },
+        {
+            "amount": 1.61221186,
+            "amount_usd": 5247.646479420283,
+            "time": "4/27/2024, 11:54:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4,
+            "amount_usd": 13019.744140625,
+            "time": "4/27/2024, 11:52:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1,
+            "amount_usd": 3252.343994140625,
+            "time": "4/27/2024, 11:50:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.19108635,
+            "amount_usd": 6843.986598190821,
+            "time": "4/27/2024, 11:38:11 AM",
+            "interval": "0.51 days"
+        },
+        {
+            "amount": 0.69892904,
+            "amount_usd": 2187.990875515039,
+            "time": "4/26/2024, 11:44:23 PM",
+            "interval": "0.50 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6292.286352539062,
+            "time": "4/26/2024, 11:42:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.58159756,
+            "amount_usd": 11213.856919234247,
+            "time": "4/26/2024, 11:22:47 AM",
+            "interval": "0.51 days"
+        },
+        {
+            "amount": 0.76,
+            "amount_usd": 2377.566484375,
+            "time": "4/26/2024, 11:20:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3157.9832250976565,
+            "time": "4/26/2024, 11:12:59 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 0.76,
+            "amount_usd": 0,
+            "time": "4/26/2024, 10:58:35 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 0,
+            "time": "4/26/2024, 10:54:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.50079864,
+            "amount_usd": 20434.13843874662,
+            "time": "4/26/2024, 8:23:59 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 0.76,
+            "amount_usd": 2385.838349609375,
+            "time": "4/26/2024, 8:11:11 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 9440.095598144531,
+            "time": "4/26/2024, 8:09:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.3,
+            "amount_usd": 941.8010009765625,
+            "time": "4/26/2024, 7:26:59 AM",
+            "interval": "0.03 days"
+        },
+        {
+            "amount": 1.76307971,
+            "amount_usd": 5532.6130002811715,
+            "time": "4/26/2024, 4:46:35 AM",
+            "interval": "0.11 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3169.435234375,
+            "time": "4/26/2024, 4:43:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.62051512,
+            "amount_usd": 11435.197241769727,
+            "time": "4/26/2024, 12:00:47 AM",
+            "interval": "0.20 days"
+        },
+        {
+            "amount": 3.67,
+            "amount_usd": 0,
+            "time": "4/25/2024, 11:58:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.67,
+            "amount_usd": 11591.492504882812,
+            "time": "4/25/2024, 11:58:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 0,
+            "time": "4/25/2024, 11:57:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3190.0292724609376,
+            "time": "4/25/2024, 11:57:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.3,
+            "amount_usd": 949.594482421875,
+            "time": "4/25/2024, 11:11:35 PM",
+            "interval": "0.03 days"
+        },
+        {
+            "amount": 6.40511672,
+            "amount_usd": 20102.782521804238,
+            "time": "4/25/2024, 2:33:11 PM",
+            "interval": "0.36 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 4735.92919921875,
+            "time": "4/25/2024, 2:29:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.42276863,
+            "amount_usd": 10627.01053827763,
+            "time": "4/25/2024, 10:22:23 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6241.3439428710935,
+            "time": "4/25/2024, 10:19:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.65534111,
+            "amount_usd": 8311.744074930206,
+            "time": "4/25/2024, 8:48:47 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 1.76,
+            "amount_usd": 5510.511015625,
+            "time": "4/25/2024, 8:45:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.3,
+            "amount_usd": 942.21650390625,
+            "time": "4/25/2024, 8:09:23 AM",
+            "interval": "0.03 days"
+        },
+        {
+            "amount": 2.6841053,
+            "amount_usd": 0,
+            "time": "4/25/2024, 5:42:11 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 2.6841053,
+            "amount_usd": 0,
+            "time": "4/25/2024, 5:41:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.97988682,
+            "amount_usd": 22035.15165151028,
+            "time": "4/25/2024, 5:40:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.6841053,
+            "amount_usd": 8466.29261628567,
+            "time": "4/25/2024, 5:39:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 8.67,
+            "amount_usd": 0,
+            "time": "4/25/2024, 12:44:11 AM",
+            "interval": "0.20 days"
+        },
+        {
+            "amount": 8.67,
+            "amount_usd": 0,
+            "time": "4/25/2024, 12:43:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.7024629,
+            "amount_usd": 11676.722819897974,
+            "time": "4/25/2024, 12:41:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 8.67,
+            "amount_usd": 27353.854233398437,
+            "time": "4/25/2024, 12:40:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.51,
+            "amount_usd": 1609.0502490234376,
+            "time": "4/25/2024, 12:38:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 0,
+            "time": "4/24/2024, 12:04:59 PM",
+            "interval": "0.52 days"
+        },
+        {
+            "amount": 4.6253,
+            "amount_usd": 0,
+            "time": "4/24/2024, 12:04:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.6253,
+            "amount_usd": 0,
+            "time": "4/24/2024, 9:27:35 AM",
+            "interval": "0.11 days"
+        },
+        {
+            "amount": 1.70524133,
+            "amount_usd": 5545.7299834585965,
+            "time": "4/24/2024, 9:26:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 0,
+            "time": "4/24/2024, 9:24:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.6253,
+            "amount_usd": 15022.762105957032,
+            "time": "4/24/2024, 9:24:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3280.433642578125,
+            "time": "4/24/2024, 9:22:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.52591286,
+            "amount_usd": 14748.596435726939,
+            "time": "4/24/2024, 6:04:35 AM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 0,
+            "time": "4/24/2024, 5:55:35 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 0,
+            "time": "4/24/2024, 5:54:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6549.639960937499,
+            "time": "4/24/2024, 5:54:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.10536527,
+            "amount_usd": 6788.979045425828,
+            "time": "4/24/2024, 12:42:47 AM",
+            "interval": "0.22 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 0,
+            "time": "4/24/2024, 12:39:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 16129.175163574218,
+            "time": "4/24/2024, 12:37:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3251.590202636719,
+            "time": "4/24/2024, 12:37:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.3,
+            "amount_usd": 966.0919921875,
+            "time": "4/23/2024, 11:55:11 PM",
+            "interval": "0.03 days"
+        },
+        {
+            "amount": 1.32,
+            "amount_usd": 0,
+            "time": "4/23/2024, 1:55:47 PM",
+            "interval": "0.42 days"
+        },
+        {
+            "amount": 1.85855161,
+            "amount_usd": 5942.014556154023,
+            "time": "4/23/2024, 1:55:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.32,
+            "amount_usd": 0,
+            "time": "4/23/2024, 1:55:11 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.32,
+            "amount_usd": 4220.44669921875,
+            "time": "4/23/2024, 1:51:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.3165544,
+            "amount_usd": 10533.563816408398,
+            "time": "4/23/2024, 11:55:47 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 5.56368702,
+            "amount_usd": 17752.112952574702,
+            "time": "4/23/2024, 3:40:35 AM",
+            "interval": "0.34 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6413.327512207031,
+            "time": "4/23/2024, 3:39:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.52695852,
+            "amount_usd": 11361.399402355488,
+            "time": "4/22/2024, 11:03:11 PM",
+            "interval": "0.19 days"
+        },
+        {
+            "amount": 2.71160518,
+            "amount_usd": 8617.394538339175,
+            "time": "4/22/2024, 3:41:59 AM",
+            "interval": "0.81 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6387.71571533203,
+            "time": "4/22/2024, 3:41:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.20811864,
+            "amount_usd": 13281.035093991974,
+            "time": "4/22/2024, 12:14:47 AM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6343.661579589843,
+            "time": "4/22/2024, 12:14:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.77986014,
+            "amount_usd": 2474.501174504092,
+            "time": "4/21/2024, 10:56:59 AM",
+            "interval": "0.55 days"
+        },
+        {
+            "amount": 3.76293065,
+            "amount_usd": 11939.319610329638,
+            "time": "4/21/2024, 10:55:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.02,
+            "amount_usd": 63.4374267578125,
+            "time": "4/21/2024, 10:50:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.61142184,
+            "amount_usd": 4942.699338800371,
+            "time": "4/20/2024, 7:15:59 AM",
+            "interval": "1.15 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 15374.260144042968,
+            "time": "4/20/2024, 7:14:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6168.116345214843,
+            "time": "4/20/2024, 7:12:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.00968979,
+            "amount_usd": 9288.366342881769,
+            "time": "4/19/2024, 3:11:47 PM",
+            "interval": "0.67 days"
+        },
+        {
+            "amount": 5.86729187,
+            "amount_usd": 18084.493312526498,
+            "time": "4/19/2024, 3:10:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3113.0781713867186,
+            "time": "4/19/2024, 3:09:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.72187428,
+            "amount_usd": 11553.869028778916,
+            "time": "4/19/2024, 1:54:11 PM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6233.692104492186,
+            "time": "4/19/2024, 1:48:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.82006945,
+            "amount_usd": 21099.101999524206,
+            "time": "4/19/2024, 10:51:35 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3124.615251464844,
+            "time": "4/19/2024, 10:50:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.54226498,
+            "amount_usd": 4625.674764630005,
+            "time": "4/19/2024, 4:25:11 AM",
+            "interval": "0.27 days"
+        },
+        {
+            "amount": 3.74,
+            "amount_usd": 11217.283569335938,
+            "time": "4/19/2024, 4:24:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3029.2664184570312,
+            "time": "4/19/2024, 4:23:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1,
+            "amount_usd": 3065.448974609375,
+            "time": "4/18/2024, 10:18:59 PM",
+            "interval": "0.25 days"
+        },
+        {
+            "amount": 0.90338431,
+            "amount_usd": 2770.451186058779,
+            "time": "4/18/2024, 10:14:11 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.61519818,
+            "amount_usd": 10940.913617794746,
+            "time": "4/18/2024, 1:23:35 PM",
+            "interval": "0.37 days"
+        },
+        {
+            "amount": 1.86,
+            "amount_usd": 5629.041152343751,
+            "time": "4/18/2024, 1:22:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 5.82550403,
+            "amount_usd": 17515.616639146694,
+            "time": "4/18/2024, 10:06:35 AM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6043.492419433593,
+            "time": "4/18/2024, 10:05:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.90709776,
+            "amount_usd": 8649.485978054141,
+            "time": "4/18/2024, 7:13:59 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 1,
+            "amount_usd": 2975.81982421875,
+            "time": "4/18/2024, 6:29:35 AM",
+            "interval": "0.03 days"
+        },
+        {
+            "amount": 2.62510885,
+            "amount_usd": 7876.351342248817,
+            "time": "4/18/2024, 2:34:35 AM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 2.54962792,
+            "amount_usd": 7654.56626812541,
+            "time": "4/17/2024, 10:42:59 PM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 5.09734778,
+            "amount_usd": 15208.118794202235,
+            "time": "4/17/2024, 9:10:23 PM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 5996.906645507812,
+            "time": "4/17/2024, 9:09:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 74.46607439,
+            "amount_usd": 0,
+            "time": "4/17/2024, 7:57:35 PM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 74.46607439,
+            "amount_usd": 223798.223797131,
+            "time": "4/17/2024, 7:56:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.61006448,
+            "amount_usd": 14222.064677856328,
+            "time": "4/16/2024, 12:31:11 AM",
+            "interval": "1.81 days"
+        },
+        {
+            "amount": 2.73584475,
+            "amount_usd": 9637.759210631286,
+            "time": "4/12/2024, 9:28:47 AM",
+            "interval": "3.63 days"
+        },
+        {
+            "amount": 5.570874993,
+            "amount_usd": 19618.24159076647,
+            "time": "4/12/2024, 8:17:23 AM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 1,
+            "amount_usd": 3541.266845703125,
+            "time": "4/12/2024, 4:36:23 AM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 1,
+            "amount_usd": 3534.755126953125,
+            "time": "4/11/2024, 12:42:47 AM",
+            "interval": "1.16 days"
+        },
+        {
+            "amount": 1.33896516,
+            "amount_usd": 4710.939048362168,
+            "time": "4/10/2024, 8:48:35 PM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 17626.89974121094,
+            "time": "4/10/2024, 8:47:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.10919873,
+            "amount_usd": 21466.125445364883,
+            "time": "4/10/2024, 12:17:11 PM",
+            "interval": "0.35 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 17631.41314453125,
+            "time": "4/10/2024, 12:12:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.353777685,
+            "amount_usd": 15354.14866890116,
+            "time": "4/10/2024, 10:11:35 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 5.34,
+            "amount_usd": 18865.63984863281,
+            "time": "4/10/2024, 10:09:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7101.111628417968,
+            "time": "4/10/2024, 10:09:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.21674013,
+            "amount_usd": 21874.708111344185,
+            "time": "4/10/2024, 4:14:11 AM",
+            "interval": "0.25 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 17589.321071777344,
+            "time": "4/10/2024, 4:13:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7056.793483886718,
+            "time": "4/10/2024, 4:12:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7021.054643554687,
+            "time": "4/10/2024, 1:12:59 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 10.60932528,
+            "amount_usd": 37287.129008888085,
+            "time": "4/10/2024, 12:17:11 AM",
+            "interval": "0.04 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3536.7766235351564,
+            "time": "4/10/2024, 12:11:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.62119128,
+            "amount_usd": 9504.260398282344,
+            "time": "4/9/2024, 10:17:23 AM",
+            "interval": "0.58 days"
+        },
+        {
+            "amount": 4.68816129,
+            "amount_usd": 17298.311371659733,
+            "time": "4/9/2024, 6:06:11 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 4.41279815,
+            "amount_usd": 16342.914301601222,
+            "time": "4/9/2024, 3:43:47 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 3.43,
+            "amount_usd": 12717.042375488281,
+            "time": "4/9/2024, 3:41:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7455.290705566405,
+            "time": "4/9/2024, 3:33:11 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 2.28574552,
+            "amount_usd": 8443.675091064862,
+            "time": "4/9/2024, 12:34:35 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7425.055319824218,
+            "time": "4/9/2024, 12:33:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.498686359,
+            "amount_usd": 16718.023519213875,
+            "time": "4/8/2024, 11:35:23 PM",
+            "interval": "0.04 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 11185.765527343749,
+            "time": "4/8/2024, 11:34:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.86350205,
+            "amount_usd": 6927.696713667004,
+            "time": "4/8/2024, 11:28:11 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.51,
+            "amount_usd": 1895.9599877929688,
+            "time": "4/8/2024, 11:27:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.67923595,
+            "amount_usd": 12734.317085466893,
+            "time": "4/8/2024, 7:44:11 AM",
+            "interval": "0.66 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6956.8730273437495,
+            "time": "4/8/2024, 7:43:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 5.30386469,
+            "amount_usd": 18169.41016289002,
+            "time": "4/8/2024, 1:14:23 AM",
+            "interval": "0.27 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6885.642180175781,
+            "time": "4/8/2024, 1:13:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.34577713,
+            "amount_usd": 7988.025150472867,
+            "time": "4/7/2024, 4:53:11 PM",
+            "interval": "0.35 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 17060.446831054687,
+            "time": "4/7/2024, 4:52:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.3669739,
+            "amount_usd": 8042.205271884961,
+            "time": "4/7/2024, 6:18:11 AM",
+            "interval": "0.44 days"
+        },
+        {
+            "amount": 4.42091568,
+            "amount_usd": 14851.810426907228,
+            "time": "4/7/2024, 12:22:47 AM",
+            "interval": "0.25 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3393.0365600585938,
+            "time": "4/7/2024, 12:21:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.16742887,
+            "amount_usd": 10579.106483965237,
+            "time": "4/6/2024, 3:49:35 PM",
+            "interval": "0.36 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5043.3494946289065,
+            "time": "4/6/2024, 3:48:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.21684521,
+            "amount_usd": 7396.157661100937,
+            "time": "4/6/2024, 12:00:59 PM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3369.7071875,
+            "time": "4/6/2024, 12:00:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.14103012,
+            "amount_usd": 3811.083779430029,
+            "time": "4/6/2024, 10:29:11 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 10053.513903808593,
+            "time": "4/6/2024, 10:27:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.4439872,
+            "amount_usd": 21496.66932748125,
+            "time": "4/6/2024, 6:14:23 AM",
+            "interval": "0.18 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6705.212783203125,
+            "time": "4/6/2024, 6:11:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 11.8133323,
+            "amount_usd": 39376.82449834698,
+            "time": "4/6/2024, 3:47:11 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6710.295197753905,
+            "time": "4/6/2024, 3:39:35 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 5.98188549,
+            "amount_usd": 19942.754798064132,
+            "time": "4/6/2024, 3:22:59 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 2.34,
+            "amount_usd": 7801.226938476562,
+            "time": "4/6/2024, 3:21:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.36867761,
+            "amount_usd": 7855.408173312515,
+            "time": "4/6/2024, 12:17:35 AM",
+            "interval": "0.13 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 9982.269643554686,
+            "time": "4/6/2024, 12:16:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.4074095,
+            "amount_usd": 7992.247479870483,
+            "time": "4/5/2024, 4:22:35 PM",
+            "interval": "0.33 days"
+        },
+        {
+            "amount": 1.29848851,
+            "amount_usd": 4253.32813912013,
+            "time": "4/5/2024, 10:02:59 AM",
+            "interval": "0.26 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3308.355358886719,
+            "time": "4/5/2024, 10:01:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.81722842,
+            "amount_usd": 22447.169239419472,
+            "time": "4/5/2024, 8:23:59 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6618.42210205078,
+            "time": "4/5/2024, 8:20:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.2796996,
+            "amount_usd": 10759.225088584863,
+            "time": "4/5/2024, 6:21:35 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 3.41754363,
+            "amount_usd": 11213.19176809287,
+            "time": "4/5/2024, 6:17:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6590.475446777343,
+            "time": "4/5/2024, 6:13:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.034925981,
+            "amount_usd": 6782.698430603886,
+            "time": "4/4/2024, 8:25:35 AM",
+            "interval": "0.91 days"
+        },
+        {
+            "amount": 1.63,
+            "amount_usd": 5430.487863769531,
+            "time": "4/4/2024, 8:18:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.5480351,
+            "amount_usd": 11730.12973913457,
+            "time": "4/4/2024, 6:39:59 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 5.46,
+            "amount_usd": 18051.2612109375,
+            "time": "4/4/2024, 6:36:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.36,
+            "amount_usd": 0,
+            "time": "4/4/2024, 6:31:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.36,
+            "amount_usd": 21014.835908203127,
+            "time": "4/4/2024, 6:30:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6641.481159667968,
+            "time": "4/4/2024, 6:30:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.75955923,
+            "amount_usd": 9149.040380492248,
+            "time": "4/3/2024, 10:48:35 PM",
+            "interval": "0.32 days"
+        },
+        {
+            "amount": 4.67,
+            "amount_usd": 15482.914123535156,
+            "time": "4/3/2024, 10:48:11 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6663.952331542968,
+            "time": "4/3/2024, 10:46:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.0639695,
+            "amount_usd": 13475.030471760863,
+            "time": "4/3/2024, 1:16:47 PM",
+            "interval": "0.40 days"
+        },
+        {
+            "amount": 2.35,
+            "amount_usd": 7796.468664550782,
+            "time": "4/3/2024, 1:14:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.5,
+            "amount_usd": 8253.670654296875,
+            "time": "4/3/2024, 11:16:47 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 4.67,
+            "amount_usd": 15463.628710937499,
+            "time": "4/3/2024, 11:09:11 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5000.0169921875,
+            "time": "4/3/2024, 11:08:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.8548856,
+            "amount_usd": 9565.91592105078,
+            "time": "4/3/2024, 8:50:47 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 2.68,
+            "amount_usd": 8979.9236328125,
+            "time": "4/3/2024, 8:50:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3383.189306640625,
+            "time": "4/3/2024, 8:48:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2248.7993457031253,
+            "time": "4/3/2024, 8:28:23 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 3.57873021,
+            "amount_usd": 11790.608966658456,
+            "time": "4/2/2024, 11:32:59 PM",
+            "interval": "0.37 days"
+        },
+        {
+            "amount": 2.68,
+            "amount_usd": 8851.955595703126,
+            "time": "4/2/2024, 11:29:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 4987.482443847656,
+            "time": "4/2/2024, 11:28:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.84099167,
+            "amount_usd": 6116.159965155249,
+            "time": "4/2/2024, 10:50:47 AM",
+            "interval": "0.53 days"
+        },
+        {
+            "amount": 2.87,
+            "amount_usd": 9555.693728027343,
+            "time": "4/2/2024, 10:47:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.76,
+            "amount_usd": 2530.427607421875,
+            "time": "4/2/2024, 10:46:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.7121385,
+            "amount_usd": 15782.012527832276,
+            "time": "4/2/2024, 9:31:11 AM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 0.78,
+            "amount_usd": 2612.3955761718753,
+            "time": "4/2/2024, 9:28:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6731.942446289062,
+            "time": "4/2/2024, 9:27:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3,
+            "amount_usd": 10537.3330078125,
+            "time": "4/1/2024, 11:53:11 PM",
+            "interval": "0.40 days"
+        },
+        {
+            "amount": 5.26076749,
+            "amount_usd": 18708.82015997908,
+            "time": "4/1/2024, 12:35:23 PM",
+            "interval": "0.47 days"
+        },
+        {
+            "amount": 9.67516088,
+            "amount_usd": 34288.88353951156,
+            "time": "4/1/2024, 10:11:35 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 10665.857839355467,
+            "time": "4/1/2024, 10:09:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 10.14899022,
+            "amount_usd": 36636.628192696364,
+            "time": "4/1/2024, 4:42:23 AM",
+            "interval": "0.23 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7255.857092285156,
+            "time": "4/1/2024, 4:41:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.47536981,
+            "amount_usd": 12549.709716206524,
+            "time": "4/1/2024, 2:37:59 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5452.894230957031,
+            "time": "4/1/2024, 2:33:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.24609178,
+            "amount_usd": 15398.2362183218,
+            "time": "3/31/2024, 1:30:35 PM",
+            "interval": "0.54 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3664.5189379882813,
+            "time": "3/31/2024, 1:21:11 PM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 3.88431098,
+            "amount_usd": 14047.36694141564,
+            "time": "3/31/2024, 7:36:35 AM",
+            "interval": "0.24 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3654.81322265625,
+            "time": "3/31/2024, 7:30:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 8.46385865,
+            "amount_usd": 29908.631513271877,
+            "time": "3/31/2024, 3:28:23 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 0.77,
+            "amount_usd": 2718.987116699219,
+            "time": "3/31/2024, 3:19:11 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7101.298103027343,
+            "time": "3/31/2024, 3:14:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.3117982,
+            "amount_usd": 11725.964060447706,
+            "time": "3/30/2024, 1:40:59 PM",
+            "interval": "0.56 days"
+        },
+        {
+            "amount": 1.34,
+            "amount_usd": 4745.473579101563,
+            "time": "3/30/2024, 1:38:11 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 7.68,
+            "amount_usd": 27226.160625,
+            "time": "3/30/2024, 1:34:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7125.596726074218,
+            "time": "3/30/2024, 1:34:11 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.09101259,
+            "amount_usd": 7378.869982421948,
+            "time": "3/30/2024, 11:06:59 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 1.36,
+            "amount_usd": 4797.995,
+            "time": "3/30/2024, 11:00:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.00957883,
+            "amount_usd": 21083.03157123092,
+            "time": "3/30/2024, 9:20:11 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 3.88468594,
+            "amount_usd": 13628.402028522332,
+            "time": "3/30/2024, 9:19:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7047.356887207031,
+            "time": "3/30/2024, 9:14:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.32621434,
+            "amount_usd": 8155.120243220771,
+            "time": "3/30/2024, 7:18:11 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 4.365,
+            "amount_usd": 15293.017276611328,
+            "time": "3/30/2024, 7:14:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3538.590480957031,
+            "time": "3/30/2024, 7:13:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.19006002,
+            "amount_usd": 11377.665263568311,
+            "time": "3/28/2024, 11:45:47 PM",
+            "interval": "1.31 days"
+        },
+        {
+            "amount": 2.47739687,
+            "amount_usd": 8844.822748636843,
+            "time": "3/28/2024, 9:45:59 PM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 1.34,
+            "amount_usd": 4784.079057617188,
+            "time": "3/28/2024, 9:45:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6,
+            "amount_usd": 21451.89697265625,
+            "time": "3/28/2024, 11:50:59 AM",
+            "interval": "0.41 days"
+        },
+        {
+            "amount": 1.35136646,
+            "amount_usd": 4840.526035641953,
+            "time": "3/28/2024, 9:40:35 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 3.21,
+            "amount_usd": 11498.0569921875,
+            "time": "3/28/2024, 9:39:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.68907271,
+            "amount_usd": 9477.387291876006,
+            "time": "3/28/2024, 5:37:59 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 4.61,
+            "amount_usd": 16247.517314453125,
+            "time": "3/28/2024, 5:35:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7084.058525390624,
+            "time": "3/28/2024, 5:34:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.4970516,
+            "amount_usd": 5226.27840636709,
+            "time": "3/27/2024, 11:48:23 PM",
+            "interval": "0.24 days"
+        },
+        {
+            "amount": 0.86,
+            "amount_usd": 3002.3009423828125,
+            "time": "3/27/2024, 11:44:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7017.005690917968,
+            "time": "3/27/2024, 11:44:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.20511952,
+            "amount_usd": 4310.061417205586,
+            "time": "3/27/2024, 11:40:35 AM",
+            "interval": "0.50 days"
+        },
+        {
+            "amount": 1.35,
+            "amount_usd": 4828.346850585938,
+            "time": "3/27/2024, 11:33:11 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 4.59146203,
+            "amount_usd": 16475.67457904341,
+            "time": "3/26/2024, 11:57:23 PM",
+            "interval": "0.48 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7212.540512695312,
+            "time": "3/26/2024, 11:56:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.4788607,
+            "amount_usd": 1746.3979583389648,
+            "time": "3/26/2024, 11:14:47 AM",
+            "interval": "0.53 days"
+        },
+        {
+            "amount": 10.01,
+            "amount_usd": 36506.32336914063,
+            "time": "3/26/2024, 11:13:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7336.077978515625,
+            "time": "3/26/2024, 11:08:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 7.2700965,
+            "amount_usd": 26635.588861359374,
+            "time": "3/26/2024, 9:53:11 AM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 1.34,
+            "amount_usd": 4905.8237500000005,
+            "time": "3/26/2024, 9:50:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 5.52977718,
+            "amount_usd": 20153.711696568473,
+            "time": "3/26/2024, 8:39:11 AM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 0.83,
+            "amount_usd": 3025.0008569335937,
+            "time": "3/26/2024, 8:37:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7325.60448486328,
+            "time": "3/26/2024, 8:37:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.32,
+            "amount_usd": 15628.279218750002,
+            "time": "3/26/2024, 3:01:35 AM",
+            "interval": "0.23 days"
+        },
+        {
+            "amount": 3.4311503,
+            "amount_usd": 12389.65588347539,
+            "time": "3/26/2024, 2:56:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.1,
+            "amount_usd": 14786.021386718749,
+            "time": "3/25/2024, 11:37:59 PM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2454.927666015625,
+            "time": "3/25/2024, 11:33:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3646.2896215820315,
+            "time": "3/25/2024, 11:30:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.88170789,
+            "amount_usd": 6528.208355854587,
+            "time": "3/25/2024, 7:33:11 AM",
+            "interval": "0.67 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3503.9925561523437,
+            "time": "3/25/2024, 7:31:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 5.95101454,
+            "amount_usd": 20412.895189377785,
+            "time": "3/25/2024, 1:01:35 AM",
+            "interval": "0.27 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 17190.12094482422,
+            "time": "3/25/2024, 12:53:47 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3465.473483886719,
+            "time": "3/25/2024, 12:53:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 5.32667682,
+            "amount_usd": 18114.0953839229,
+            "time": "3/24/2024, 3:56:23 PM",
+            "interval": "0.37 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6835.280786132812,
+            "time": "3/24/2024, 3:54:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 5.83808319,
+            "amount_usd": 19880.80267998854,
+            "time": "3/24/2024, 2:22:59 PM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 4.95163374,
+            "amount_usd": 16747.254610619853,
+            "time": "3/24/2024, 10:49:59 AM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 9.1,
+            "amount_usd": 30697.394799804686,
+            "time": "3/24/2024, 9:09:59 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 3.64,
+            "amount_usd": 12284.879140625,
+            "time": "3/24/2024, 9:07:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3408.71646484375,
+            "time": "3/24/2024, 9:05:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.53268718,
+            "amount_usd": 8601.976444254755,
+            "time": "3/23/2024, 3:54:23 PM",
+            "interval": "0.72 days"
+        },
+        {
+            "amount": 3.46889199,
+            "amount_usd": 11651.104554821784,
+            "time": "3/23/2024, 10:19:23 AM",
+            "interval": "0.23 days"
+        },
+        {
+            "amount": 3.4757441,
+            "amount_usd": 11641.560212093456,
+            "time": "3/23/2024, 8:44:47 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 2.15925409,
+            "amount_usd": 7222.200964519229,
+            "time": "3/23/2024, 6:56:23 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 6.01,
+            "amount_usd": 20102.047275390625,
+            "time": "3/23/2024, 6:55:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3,
+            "amount_usd": 9985.619384765625,
+            "time": "3/23/2024, 5:11:23 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 0.51,
+            "amount_usd": 1700.7069360351563,
+            "time": "3/23/2024, 5:09:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.43048039,
+            "amount_usd": 11333.832334931794,
+            "time": "3/22/2024, 2:47:11 PM",
+            "interval": "0.60 days"
+        },
+        {
+            "amount": 0.84,
+            "amount_usd": 2781.53654296875,
+            "time": "3/22/2024, 2:43:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.62274651,
+            "amount_usd": 22749.761611861202,
+            "time": "3/22/2024, 11:31:47 AM",
+            "interval": "0.13 days"
+        },
+        {
+            "amount": 4.44615616,
+            "amount_usd": 15504.680049035625,
+            "time": "3/22/2024, 9:36:11 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 2.3593308,
+            "amount_usd": 8227.48186690664,
+            "time": "3/22/2024, 9:34:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.36,
+            "amount_usd": 4743.650117187501,
+            "time": "3/22/2024, 9:31:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.537478851,
+            "amount_usd": 5367.229814137194,
+            "time": "3/22/2024, 3:23:59 AM",
+            "interval": "0.26 days"
+        },
+        {
+            "amount": 3.89818964,
+            "amount_usd": 13589.648688435585,
+            "time": "3/22/2024, 12:43:23 AM",
+            "interval": "0.11 days"
+        },
+        {
+            "amount": 5.29712098,
+            "amount_usd": 18586.008123877513,
+            "time": "3/21/2024, 4:43:11 PM",
+            "interval": "0.33 days"
+        },
+        {
+            "amount": 4.67,
+            "amount_usd": 16426.58704345703,
+            "time": "3/21/2024, 4:35:35 PM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 17648.59343261719,
+            "time": "3/21/2024, 4:31:11 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.38928499,
+            "amount_usd": 15558.8343832856,
+            "time": "3/21/2024, 12:47:47 PM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7124.9092236328115,
+            "time": "3/21/2024, 12:45:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.62439534,
+            "amount_usd": 16385.84264756796,
+            "time": "3/21/2024, 10:28:23 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 4.87816347,
+            "amount_usd": 17204.366712081493,
+            "time": "3/21/2024, 6:21:35 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 7.68,
+            "amount_usd": 27085.918125,
+            "time": "3/21/2024, 6:20:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 10.09,
+            "amount_usd": 35424.940600585935,
+            "time": "3/21/2024, 4:08:11 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7066.968618164062,
+            "time": "3/21/2024, 4:05:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.71764251,
+            "amount_usd": 9610.311760534187,
+            "time": "3/21/2024, 2:16:35 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3574.942590332031,
+            "time": "3/21/2024, 2:13:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.63,
+            "amount_usd": 12791.1983203125,
+            "time": "3/21/2024, 1:58:59 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 4.91171463,
+            "amount_usd": 17292.051099638877,
+            "time": "3/20/2024, 11:32:59 PM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3555.778974609375,
+            "time": "3/20/2024, 11:30:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.94782444,
+            "amount_usd": 9546.029268767687,
+            "time": "3/20/2024, 10:37:59 AM",
+            "interval": "0.54 days"
+        },
+        {
+            "amount": 2.4054733,
+            "amount_usd": 7588.6404658560305,
+            "time": "3/20/2024, 7:08:35 AM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 0.86,
+            "amount_usd": 2703.4076904296876,
+            "time": "3/20/2024, 7:05:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6318.429602050781,
+            "time": "3/20/2024, 7:05:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.60708159,
+            "amount_usd": 8010.393758609636,
+            "time": "3/20/2024, 5:33:11 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 6.31,
+            "amount_usd": 19414.602145996094,
+            "time": "3/20/2024, 5:27:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.85,
+            "amount_usd": 2633.357275390625,
+            "time": "3/20/2024, 5:26:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.48292691,
+            "amount_usd": 4692.979981099277,
+            "time": "3/20/2024, 12:20:35 AM",
+            "interval": "0.21 days"
+        },
+        {
+            "amount": 4.83440522,
+            "amount_usd": 16409.77831726394,
+            "time": "3/19/2024, 4:50:47 AM",
+            "interval": "0.81 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3434.2973779296876,
+            "time": "3/19/2024, 4:46:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.1695126,
+            "amount_usd": 10830.21681613213,
+            "time": "3/19/2024, 3:14:59 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 3.63630659,
+            "amount_usd": 12835.207909774157,
+            "time": "3/19/2024, 12:15:47 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 2.53744529,
+            "amount_usd": 8988.180088402398,
+            "time": "3/18/2024, 11:31:59 PM",
+            "interval": "0.03 days"
+        },
+        {
+            "amount": 3.546,
+            "amount_usd": 12524.540392089842,
+            "time": "3/18/2024, 11:21:59 PM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 6.35,
+            "amount_usd": 0,
+            "time": "3/18/2024, 11:19:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.642,
+            "amount_usd": 2267.5563823242187,
+            "time": "3/18/2024, 11:19:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.35,
+            "amount_usd": 22422.925903320312,
+            "time": "3/18/2024, 11:17:59 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 5.821715,
+            "amount_usd": 21119.293089522707,
+            "time": "3/18/2024, 6:32:35 AM",
+            "interval": "0.70 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7296.334350585937,
+            "time": "3/18/2024, 6:30:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 5.47572038,
+            "amount_usd": 19637.405149901286,
+            "time": "3/18/2024, 4:11:47 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 6.36354798,
+            "amount_usd": 22995.632982886185,
+            "time": "3/18/2024, 12:19:35 AM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 18104.384787597657,
+            "time": "3/18/2024, 12:18:59 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.38700933,
+            "amount_usd": 5098.766847695595,
+            "time": "3/17/2024, 10:47:23 PM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 18387.21005126953,
+            "time": "3/17/2024, 10:40:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 8.042582462,
+            "amount_usd": 28647.94184147259,
+            "time": "3/17/2024, 1:34:23 PM",
+            "interval": "0.38 days"
+        },
+        {
+            "amount": 1.2,
+            "amount_usd": 4278.83203125,
+            "time": "3/17/2024, 1:32:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.66755238,
+            "amount_usd": 23943.678709624015,
+            "time": "3/17/2024, 11:04:11 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5422.522807617188,
+            "time": "3/17/2024, 11:03:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.12,
+            "amount_usd": 3941.9220312500006,
+            "time": "3/16/2024, 11:28:59 PM",
+            "interval": "0.48 days"
+        },
+        {
+            "amount": 6.01,
+            "amount_usd": 20985.570097656248,
+            "time": "3/16/2024, 11:25:35 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3526.6931445312503,
+            "time": "3/16/2024, 11:25:11 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.57227254,
+            "amount_usd": 13079.821832725263,
+            "time": "3/16/2024, 3:29:59 PM",
+            "interval": "0.33 days"
+        },
+        {
+            "amount": 0.75,
+            "amount_usd": 2792.8487548828125,
+            "time": "3/15/2024, 11:22:35 PM",
+            "interval": "0.67 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7484.834663085937,
+            "time": "3/15/2024, 11:21:23 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.23073498,
+            "amount_usd": 23074.743593030904,
+            "time": "3/15/2024, 3:27:35 PM",
+            "interval": "0.33 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3749.2839770507812,
+            "time": "3/15/2024, 3:21:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 6.558665265,
+            "amount_usd": 24546.988068137212,
+            "time": "3/15/2024, 7:20:23 AM",
+            "interval": "0.33 days"
+        },
+        {
+            "amount": 5.01,
+            "amount_usd": 18750.828903808593,
+            "time": "3/15/2024, 7:18:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7522.787644042968,
+            "time": "3/15/2024, 7:17:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 8.08,
+            "amount_usd": 29679.157734375,
+            "time": "3/15/2024, 4:46:35 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 4.01,
+            "amount_usd": 14879.656179199217,
+            "time": "3/15/2024, 4:31:59 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 0.51,
+            "amount_usd": 1892.4251000976562,
+            "time": "3/15/2024, 4:31:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 3.77897556,
+            "amount_usd": 14034.189860580556,
+            "time": "3/15/2024, 4:28:35 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5607.770241699219,
+            "time": "3/15/2024, 4:27:11 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.89214818,
+            "amount_usd": 7351.723250926831,
+            "time": "3/14/2024, 11:40:47 PM",
+            "interval": "0.20 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3922.625227050781,
+            "time": "3/14/2024, 11:33:47 PM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.06860035,
+            "amount_usd": 4271.024195036438,
+            "time": "3/14/2024, 3:49:23 AM",
+            "interval": "0.82 days"
+        },
+        {
+            "amount": 0.75598602,
+            "amount_usd": 3031.135175534971,
+            "time": "3/13/2024, 11:15:35 PM",
+            "interval": "0.19 days"
+        },
+        {
+            "amount": 4.01,
+            "amount_usd": 16217.437604980469,
+            "time": "3/13/2024, 6:29:35 AM",
+            "interval": "0.70 days"
+        },
+        {
+            "amount": 10.01,
+            "amount_usd": 40419.29248779297,
+            "time": "3/13/2024, 6:09:59 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 0.51,
+            "amount_usd": 2059.324592285156,
+            "time": "3/13/2024, 6:09:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 4.84927262,
+            "amount_usd": 19613.634890914633,
+            "time": "3/13/2024, 5:04:11 AM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 2.62827915,
+            "amount_usd": 10602.12324774796,
+            "time": "3/12/2024, 11:41:35 AM",
+            "interval": "0.72 days"
+        },
+        {
+            "amount": 4.22556078,
+            "amount_usd": 16868.476804108843,
+            "time": "3/12/2024, 9:06:35 AM",
+            "interval": "0.11 days"
+        },
+        {
+            "amount": 1.13346095,
+            "amount_usd": 4624.687540490441,
+            "time": "3/12/2024, 12:35:11 AM",
+            "interval": "0.36 days"
+        },
+        {
+            "amount": 1.24100234,
+            "amount_usd": 4785.714347786421,
+            "time": "3/11/2024, 5:59:11 AM",
+            "interval": "0.78 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7751.222966308593,
+            "time": "3/11/2024, 5:58:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 1.44526124,
+            "amount_usd": 5578.764841917187,
+            "time": "3/11/2024, 12:44:11 AM",
+            "interval": "0.22 days"
+        },
+        {
+            "amount": 0.41,
+            "amount_usd": 1592.4386987304686,
+            "time": "3/11/2024, 12:12:23 AM",
+            "interval": "0.02 days"
+        },
+        {
+            "amount": 1.76,
+            "amount_usd": 6956.8000390625,
+            "time": "3/10/2024, 8:12:35 AM",
+            "interval": "0.67 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3989.8000903320312,
+            "time": "3/10/2024, 7:37:59 AM",
+            "interval": "0.02 days"
+        },
+        {
+            "amount": 1.34,
+            "amount_usd": 5255.921323242188,
+            "time": "3/9/2024, 11:34:11 AM",
+            "interval": "0.84 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5917.1602465820315,
+            "time": "3/9/2024, 11:17:11 AM",
+            "interval": "0.01 days"
+        }
+    ],
+    "WithdrawDuration": "3.55 hours",
+    "receiveTokens": {
+        "totalReceiveTransactions": 211
+    },
+    "receiveHistory": [
+        {
+            "amount": 1,
+            "amount_usd": 2981.927490234375,
+            "time": "5/3/2024, 10:36:47 AM"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 930.4679516601562,
+            "time": "5/3/2024, 5:22:59 AM",
+            "interval": "0.22 days"
+        },
+        {
+            "amount": 0.3,
+            "amount_usd": 879.3539794921875,
+            "time": "5/2/2024, 4:10:23 AM",
+            "interval": "1.05 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 2997.352292480469,
+            "time": "5/1/2024, 11:29:47 PM",
+            "interval": "0.19 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 896.4884399414062,
+            "time": "5/1/2024, 1:57:23 PM",
+            "interval": "0.40 days"
+        },
+        {
+            "amount": 0.51,
+            "amount_usd": 1620.2985131835937,
+            "time": "4/30/2024, 4:26:59 AM",
+            "interval": "1.40 days"
+        },
+        {
+            "amount": 1,
+            "amount_usd": 3185.400634765625,
+            "time": "4/30/2024, 3:17:23 AM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 998.2746240234375,
+            "time": "4/29/2024, 11:46:59 PM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 990.409130859375,
+            "time": "4/29/2024, 5:43:11 AM",
+            "interval": "0.75 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3238.7390869140627,
+            "time": "4/29/2024, 3:18:59 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1013.9653466796875,
+            "time": "4/28/2024, 11:25:47 PM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3347.104738769531,
+            "time": "4/28/2024, 2:19:47 PM",
+            "interval": "0.38 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1020.471865234375,
+            "time": "4/28/2024, 10:26:35 AM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3349.249509277344,
+            "time": "4/28/2024, 7:56:47 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1025.1105126953125,
+            "time": "4/28/2024, 5:43:11 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 0.21,
+            "amount_usd": 682.0462133789063,
+            "time": "4/27/2024, 11:06:59 PM",
+            "interval": "0.28 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3158.2310400390625,
+            "time": "4/27/2024, 7:28:47 AM",
+            "interval": "0.65 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6278.463676757812,
+            "time": "4/27/2024, 3:47:59 AM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 9423.271638183593,
+            "time": "4/26/2024, 11:29:59 PM",
+            "interval": "0.18 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 973.508076171875,
+            "time": "4/26/2024, 10:38:35 AM",
+            "interval": "0.54 days"
+        },
+        {
+            "amount": 0.248762955585725,
+            "amount_usd": 781.2024074680281,
+            "time": "4/26/2024, 10:36:23 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 971.5135107421875,
+            "time": "4/26/2024, 7:17:23 AM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 975.7362768554688,
+            "time": "4/26/2024, 3:40:35 AM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 979.6107470703125,
+            "time": "4/25/2024, 11:04:59 PM",
+            "interval": "0.19 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 966.5678149414063,
+            "time": "4/25/2024, 1:53:59 PM",
+            "interval": "0.38 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 971.6015307617188,
+            "time": "4/25/2024, 9:54:11 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 972.2503662109375,
+            "time": "4/25/2024, 7:54:59 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 973.2090502929688,
+            "time": "4/25/2024, 4:34:35 AM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3169.7451879882815,
+            "time": "4/24/2024, 11:53:35 PM",
+            "interval": "0.20 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1009.7542358398438,
+            "time": "4/24/2024, 8:45:11 AM",
+            "interval": "0.63 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1008.4431689453124,
+            "time": "4/24/2024, 6:21:35 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3273.395944824219,
+            "time": "4/24/2024, 3:17:59 AM",
+            "interval": "0.13 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 998.2494970703125,
+            "time": "4/23/2024, 11:46:11 PM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 986.47388671875,
+            "time": "4/23/2024, 1:18:59 PM",
+            "interval": "0.44 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3213.123405761719,
+            "time": "4/23/2024, 11:16:35 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 995.4656274414062,
+            "time": "4/23/2024, 2:43:35 AM",
+            "interval": "0.36 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3250.1716162109374,
+            "time": "4/22/2024, 11:05:59 PM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3227.62662109375,
+            "time": "4/22/2024, 11:47:11 AM",
+            "interval": "0.47 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3248.91158203125,
+            "time": "4/22/2024, 9:44:35 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3243.3038134765625,
+            "time": "4/22/2024, 5:39:47 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3176.4344653320313,
+            "time": "4/22/2024, 2:52:47 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3182.1078247070313,
+            "time": "4/21/2024, 11:23:35 PM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3203.475390625,
+            "time": "4/21/2024, 10:08:59 AM",
+            "interval": "0.55 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3219.388562011719,
+            "time": "4/21/2024, 8:14:11 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 948.7633251953125,
+            "time": "4/20/2024, 6:24:59 AM",
+            "interval": "1.08 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3086.2803759765625,
+            "time": "4/20/2024, 2:41:23 AM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 957.146796875,
+            "time": "4/19/2024, 2:27:23 PM",
+            "interval": "0.51 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3135.2017578125,
+            "time": "4/19/2024, 1:01:11 PM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3142.1785498046875,
+            "time": "4/19/2024, 10:13:23 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3007.2222314453124,
+            "time": "4/19/2024, 3:52:11 AM",
+            "interval": "0.26 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 950.879892578125,
+            "time": "4/18/2024, 11:46:59 PM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3098.2218505859373,
+            "time": "4/18/2024, 9:33:35 PM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3034.017067871094,
+            "time": "4/18/2024, 12:43:59 PM",
+            "interval": "0.37 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 929.9891015625,
+            "time": "4/18/2024, 9:31:47 AM",
+            "interval": "0.13 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3009.636022949219,
+            "time": "4/18/2024, 6:17:35 AM",
+            "interval": "0.13 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3023.8273120117187,
+            "time": "4/18/2024, 1:48:11 AM",
+            "interval": "0.19 days"
+        },
+        {
+            "amount": 0.11,
+            "amount_usd": 329.45451171875,
+            "time": "4/17/2024, 9:46:47 PM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3036.3820361328126,
+            "time": "4/17/2024, 7:59:59 PM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3236.2417041015624,
+            "time": "4/15/2024, 2:00:11 PM",
+            "interval": "2.25 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3556.3831005859374,
+            "time": "4/12/2024, 8:36:23 AM",
+            "interval": "3.22 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3571.8763427734375,
+            "time": "4/12/2024, 4:21:11 AM",
+            "interval": "0.18 days"
+        },
+        {
+            "amount": 11338357.75482491,
+            "amount_usd": 0,
+            "time": "4/11/2024, 8:38:35 AM",
+            "interval": "0.82 days"
+        },
+        {
+            "amount": 8270636.77322402,
+            "amount_usd": 0,
+            "time": "4/11/2024, 8:24:59 AM",
+            "interval": "0.01 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3601.2163989257815,
+            "time": "4/11/2024, 4:15:23 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3573.6680078125,
+            "time": "4/11/2024, 1:50:11 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3567.64154296875,
+            "time": "4/11/2024, 12:32:59 AM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1089.95697265625,
+            "time": "4/10/2024, 8:11:59 PM",
+            "interval": "0.18 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3555.5735717773437,
+            "time": "4/10/2024, 11:24:23 AM",
+            "interval": "0.37 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3559.8374682617186,
+            "time": "4/10/2024, 9:25:47 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3562.3602490234375,
+            "time": "4/10/2024, 5:23:47 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3520.104226074219,
+            "time": "4/10/2024, 3:30:11 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3541.965202636719,
+            "time": "4/10/2024, 12:37:11 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 0.44,
+            "amount_usd": 1539.58513671875,
+            "time": "4/9/2024, 11:29:35 PM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3677.5466064453126,
+            "time": "4/9/2024, 9:35:11 AM",
+            "interval": "0.58 days"
+        },
+        {
+            "amount": 0.21,
+            "amount_usd": 775.499853515625,
+            "time": "4/9/2024, 5:18:11 AM",
+            "interval": "0.18 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3745.349267578125,
+            "time": "4/9/2024, 2:56:47 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 0.67,
+            "amount_usd": 2476.1078442382814,
+            "time": "4/9/2024, 12:03:23 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3736.3689965820313,
+            "time": "4/8/2024, 10:54:47 PM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 0.51,
+            "amount_usd": 1751.9621850585938,
+            "time": "4/8/2024, 7:07:47 AM",
+            "interval": "0.66 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1062.5337036132812,
+            "time": "4/8/2024, 6:34:23 AM",
+            "interval": "0.02 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3489.4269555664064,
+            "time": "4/8/2024, 12:02:23 AM",
+            "interval": "0.27 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3426.611416015625,
+            "time": "4/7/2024, 3:44:11 PM",
+            "interval": "0.35 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3429.5893872070315,
+            "time": "4/7/2024, 5:32:23 AM",
+            "interval": "0.42 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3418.9429614257815,
+            "time": "4/7/2024, 3:16:59 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3416.0710205078126,
+            "time": "4/6/2024, 11:33:23 PM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3374.588771972656,
+            "time": "4/6/2024, 3:11:47 PM",
+            "interval": "0.35 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3366.865576171875,
+            "time": "4/6/2024, 11:39:35 AM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3371.9937426757815,
+            "time": "4/6/2024, 9:46:59 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.44,
+            "amount_usd": 1473.65625,
+            "time": "4/6/2024, 5:35:47 AM",
+            "interval": "0.17 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3356.360935058594,
+            "time": "4/6/2024, 2:46:47 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3360.044130859375,
+            "time": "4/5/2024, 11:47:23 PM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3352.8010302734374,
+            "time": "4/5/2024, 3:54:35 PM",
+            "interval": "0.33 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3304.5298852539063,
+            "time": "4/5/2024, 11:25:47 AM",
+            "interval": "0.19 days"
+        },
+        {
+            "amount": 0.67,
+            "amount_usd": 2194.627202148438,
+            "time": "4/5/2024, 9:20:35 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3322.5000439453124,
+            "time": "4/5/2024, 7:45:23 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3400.0066943359375,
+            "time": "4/4/2024, 4:05:59 PM",
+            "interval": "0.65 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3378.9488354492187,
+            "time": "4/4/2024, 11:02:47 AM",
+            "interval": "0.21 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 10048.532265625,
+            "time": "4/4/2024, 9:14:35 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3361.4755395507814,
+            "time": "4/4/2024, 7:46:47 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 0.67,
+            "amount_usd": 2206.5555249023437,
+            "time": "4/4/2024, 5:54:11 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3315.925427246094,
+            "time": "4/4/2024, 4:44:47 AM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3353.8753881835937,
+            "time": "4/3/2024, 10:08:23 PM",
+            "interval": "0.28 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3355.1406005859376,
+            "time": "4/3/2024, 12:29:47 PM",
+            "interval": "0.40 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 10052.780510253906,
+            "time": "4/3/2024, 10:29:59 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2241.966142578125,
+            "time": "4/3/2024, 8:20:59 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3329.9791235351563,
+            "time": "4/3/2024, 8:20:47 AM",
+            "interval": "0.00 days"
+        },
+        {
+            "amount": 0.67,
+            "amount_usd": 2207.1239453125,
+            "time": "4/2/2024, 10:52:59 PM",
+            "interval": "0.39 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2269.61587890625,
+            "time": "4/2/2024, 10:21:11 AM",
+            "interval": "0.52 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6728.771396484374,
+            "time": "4/2/2024, 8:55:35 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1088.6425,
+            "time": "4/1/2024, 11:12:47 PM",
+            "interval": "0.40 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2416.7249804687503,
+            "time": "4/1/2024, 11:15:47 AM",
+            "interval": "0.50 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7135.9014111328115,
+            "time": "4/1/2024, 9:32:35 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7262.592260742187,
+            "time": "4/1/2024, 4:04:47 AM",
+            "interval": "0.23 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2456.389599609375,
+            "time": "4/1/2024, 2:05:47 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.43,
+            "amount_usd": 1565.6474267578126,
+            "time": "3/31/2024, 11:22:47 PM",
+            "interval": "0.11 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2459.642509765625,
+            "time": "3/31/2024, 12:43:59 PM",
+            "interval": "0.44 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3658.727219238281,
+            "time": "3/31/2024, 6:46:35 AM",
+            "interval": "0.25 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3570.871767578125,
+            "time": "3/31/2024, 4:09:23 AM",
+            "interval": "0.11 days"
+        },
+        {
+            "amount": 0.67,
+            "amount_usd": 2369.991687011719,
+            "time": "3/31/2024, 2:20:47 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7127.954157714843,
+            "time": "3/30/2024, 4:59:47 PM",
+            "interval": "0.39 days"
+        },
+        {
+            "amount": 0.67,
+            "amount_usd": 2382.782700195313,
+            "time": "3/30/2024, 12:47:23 PM",
+            "interval": "0.18 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1090.2499438476561,
+            "time": "3/30/2024, 10:28:35 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3540.1375366210937,
+            "time": "3/30/2024, 8:42:23 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 0.41,
+            "amount_usd": 1437.0938427734375,
+            "time": "3/30/2024, 6:52:23 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.41,
+            "amount_usd": 1462.7855078124999,
+            "time": "3/28/2024, 11:03:23 PM",
+            "interval": "1.33 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3602.552626953125,
+            "time": "3/28/2024, 9:08:59 PM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1109.154267578125,
+            "time": "3/28/2024, 10:48:35 AM",
+            "interval": "0.43 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1109.1029541015625,
+            "time": "3/28/2024, 9:07:59 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2386.43708984375,
+            "time": "3/28/2024, 4:46:35 AM",
+            "interval": "0.18 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7062.147268066406,
+            "time": "3/27/2024, 11:03:59 PM",
+            "interval": "0.24 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7187.989167480468,
+            "time": "3/27/2024, 10:51:11 AM",
+            "interval": "0.51 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1118.356484375,
+            "time": "3/26/2024, 11:19:59 PM",
+            "interval": "0.48 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3688.1153588867187,
+            "time": "3/26/2024, 10:31:11 AM",
+            "interval": "0.53 days"
+        },
+        {
+            "amount": 0.32,
+            "amount_usd": 1169.091640625,
+            "time": "3/26/2024, 9:23:59 AM",
+            "interval": "0.05 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7337.266508789062,
+            "time": "3/26/2024, 8:02:23 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1119.3867651367189,
+            "time": "3/26/2024, 2:27:35 AM",
+            "interval": "0.23 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7256.434182128905,
+            "time": "3/25/2024, 11:02:47 PM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1066.9976733398437,
+            "time": "3/25/2024, 11:33:59 AM",
+            "interval": "0.48 days"
+        },
+        {
+            "amount": 0.41,
+            "amount_usd": 1422.239150390625,
+            "time": "3/25/2024, 7:00:59 AM",
+            "interval": "0.19 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1083.2414916992188,
+            "time": "3/25/2024, 5:37:47 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 0.11,
+            "amount_usd": 380.05002685546873,
+            "time": "3/25/2024, 12:07:23 AM",
+            "interval": "0.23 days"
+        },
+        {
+            "amount": 0.21,
+            "amount_usd": 712.7043676757812,
+            "time": "3/24/2024, 3:20:59 PM",
+            "interval": "0.37 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3424.768955078125,
+            "time": "3/24/2024, 1:56:11 PM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6770.394982910156,
+            "time": "3/24/2024, 10:07:23 AM",
+            "interval": "0.16 days"
+        },
+        {
+            "amount": 0.21,
+            "amount_usd": 704.4641748046874,
+            "time": "3/24/2024, 8:19:11 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1029.8800170898437,
+            "time": "3/24/2024, 5:02:35 AM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5160.023168945312,
+            "time": "3/23/2024, 3:02:11 PM",
+            "interval": "0.58 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5036.220126953125,
+            "time": "3/23/2024, 9:23:11 AM",
+            "interval": "0.24 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6765.4342675781245,
+            "time": "3/23/2024, 7:56:23 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1032.3528271484374,
+            "time": "3/23/2024, 6:16:11 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3304.4603491210937,
+            "time": "3/22/2024, 9:49:47 PM",
+            "interval": "0.35 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1023.096875,
+            "time": "3/22/2024, 9:25:47 PM",
+            "interval": "0.02 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5052.557692871093,
+            "time": "3/22/2024, 2:12:47 PM",
+            "interval": "0.30 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1066.8609887695313,
+            "time": "3/22/2024, 10:46:35 AM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3531.2716796875,
+            "time": "3/22/2024, 8:49:11 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1088.1630444335938,
+            "time": "3/22/2024, 4:32:35 AM",
+            "interval": "0.18 days"
+        },
+        {
+            "amount": 4.1537464,
+            "amount_usd": 14545.985858752345,
+            "time": "3/22/2024, 3:34:11 AM",
+            "interval": "0.04 days"
+        },
+        {
+            "amount": 0.21,
+            "amount_usd": 728.5240942382812,
+            "time": "3/22/2024, 2:55:23 AM",
+            "interval": "0.03 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1083.0163330078126,
+            "time": "3/22/2024, 12:04:59 AM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 0.67,
+            "amount_usd": 2336.640703125,
+            "time": "3/21/2024, 3:55:35 PM",
+            "interval": "0.34 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3582.636689453125,
+            "time": "3/21/2024, 12:18:23 PM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1095.920234375,
+            "time": "3/21/2024, 9:52:11 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3495.958420410156,
+            "time": "3/21/2024, 5:28:11 AM",
+            "interval": "0.18 days"
+        },
+        {
+            "amount": 0.51,
+            "amount_usd": 1803.9523022460937,
+            "time": "3/21/2024, 3:33:59 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.26,
+            "amount_usd": 916.7906591796875,
+            "time": "3/21/2024, 1:27:11 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7044.639265136718,
+            "time": "3/20/2024, 11:02:23 PM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3396.7340576171873,
+            "time": "3/20/2024, 2:40:59 PM",
+            "interval": "0.35 days"
+        },
+        {
+            "amount": 0.11,
+            "amount_usd": 356.2825073242187,
+            "time": "3/20/2024, 9:42:59 AM",
+            "interval": "0.21 days"
+        },
+        {
+            "amount": 0.46,
+            "amount_usd": 1438.1575439453125,
+            "time": "3/20/2024, 6:26:11 AM",
+            "interval": "0.14 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 971.25421875,
+            "time": "3/20/2024, 4:40:59 AM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 981.8373583984375,
+            "time": "3/19/2024, 11:36:11 PM",
+            "interval": "0.21 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 6621.844401855468,
+            "time": "3/19/2024, 8:36:59 AM",
+            "interval": "0.62 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2326.1239453125004,
+            "time": "3/19/2024, 4:08:23 AM",
+            "interval": "0.19 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3475.8716015625,
+            "time": "3/19/2024, 2:37:59 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7109.485810546874,
+            "time": "3/18/2024, 11:41:23 PM",
+            "interval": "0.12 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3549.296826171875,
+            "time": "3/18/2024, 10:46:11 PM",
+            "interval": "0.04 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7217.120427246093,
+            "time": "3/18/2024, 8:55:47 AM",
+            "interval": "0.58 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1116.6147021484376,
+            "time": "3/18/2024, 8:24:35 AM",
+            "interval": "0.02 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7303.429709472655,
+            "time": "3/18/2024, 6:05:35 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3647.823115234375,
+            "time": "3/18/2024, 3:22:47 AM",
+            "interval": "0.11 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7314.342890624999,
+            "time": "3/17/2024, 11:44:47 PM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1130.6328930664063,
+            "time": "3/17/2024, 10:19:11 PM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 2,
+            "amount_usd": 7165.96630859375,
+            "time": "3/17/2024, 2:52:11 PM",
+            "interval": "0.31 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3582.5974829101565,
+            "time": "3/17/2024, 12:53:23 PM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 3.01,
+            "amount_usd": 10781.483432617188,
+            "time": "3/17/2024, 10:41:35 AM",
+            "interval": "0.09 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 7181.485620117187,
+            "time": "3/16/2024, 10:48:35 PM",
+            "interval": "0.50 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3692.7984448242187,
+            "time": "3/16/2024, 2:45:23 PM",
+            "interval": "0.34 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3748.5789990234375,
+            "time": "3/15/2024, 10:54:47 PM",
+            "interval": "0.66 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1148.811259765625,
+            "time": "3/15/2024, 2:52:47 PM",
+            "interval": "0.33 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1158.0229370117188,
+            "time": "3/15/2024, 6:36:59 AM",
+            "interval": "0.34 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 5633.3322265625,
+            "time": "3/15/2024, 4:01:23 AM",
+            "interval": "0.11 days"
+        },
+        {
+            "amount": 0.27,
+            "amount_usd": 1047.3446337890625,
+            "time": "3/15/2024, 2:09:23 AM",
+            "interval": "0.08 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2637.074697265625,
+            "time": "3/14/2024, 11:06:47 PM",
+            "interval": "0.13 days"
+        },
+        {
+            "amount": 1.01,
+            "amount_usd": 3893.4407641601565,
+            "time": "3/14/2024, 9:22:35 PM",
+            "interval": "0.07 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 6021.684614257812,
+            "time": "3/14/2024, 3:01:59 AM",
+            "interval": "0.76 days"
+        },
+        {
+            "amount": 0.51,
+            "amount_usd": 2039.2830615234375,
+            "time": "3/13/2024, 10:28:35 PM",
+            "interval": "0.19 days"
+        },
+        {
+            "amount": 0.68,
+            "amount_usd": 2752.4640234375,
+            "time": "3/13/2024, 12:25:35 PM",
+            "interval": "0.42 days"
+        },
+        {
+            "amount": 2.01,
+            "amount_usd": 8171.946979980468,
+            "time": "3/13/2024, 8:53:47 AM",
+            "interval": "0.15 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1251.8092895507812,
+            "time": "3/13/2024, 5:40:35 AM",
+            "interval": "0.13 days"
+        },
+        {
+            "amount": 1.51,
+            "amount_usd": 6101.144677734375,
+            "time": "3/13/2024, 4:14:23 AM",
+            "interval": "0.06 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1222.7107641601563,
+            "time": "3/12/2024, 9:45:11 PM",
+            "interval": "0.27 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1242.3845629882812,
+            "time": "3/12/2024, 11:01:11 AM",
+            "interval": "0.45 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1236.188876953125,
+            "time": "3/12/2024, 8:41:11 AM",
+            "interval": "0.10 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1263.4611572265626,
+            "time": "3/11/2024, 11:45:11 PM",
+            "interval": "0.37 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1195.4743579101562,
+            "time": "3/11/2024, 4:59:11 AM",
+            "interval": "0.78 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1198.0269384765625,
+            "time": "3/10/2024, 11:38:35 PM",
+            "interval": "0.22 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1221.976103515625,
+            "time": "3/10/2024, 12:10:47 PM",
+            "interval": "0.48 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1224.858134765625,
+            "time": "3/10/2024, 6:59:47 AM",
+            "interval": "0.22 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1211.5385034179687,
+            "time": "3/9/2024, 8:51:47 PM",
+            "interval": "0.42 days"
+        },
+        {
+            "amount": 0.31,
+            "amount_usd": 1213.88068359375,
+            "time": "3/9/2024, 10:43:59 AM",
+            "interval": "0.42 days"
+        },
+        {
+            "amount": 0.32,
+            "amount_usd": 1260.61578125,
+            "time": "3/9/2024, 8:15:47 AM",
+            "interval": "0.10 days"
+        }
+    ],
+    "DepositDuration": "6.30 hours",
+    "totalNotClosedBalance": 0,
+    "totalPartiallyClosed": 0,
+    "CurrentBalance": 0,
+    "totalNumofPartiallyClosed": {
+        "totalnumPartiallyClosedData": 104
+    },
+    "totalNumofFullyOpenedData": {
+        "totalnumPartiallyClosedData": 27
+    },
+    "totalNumTransactionsData": {
+        "totalTransactions": 994
+    },
+    "Interaction": {
+        "mostRepeatedSendAddress": {
+            "address": "0x29223643092569cbf0aedee12528238c50f79d49",
+            "count": 50
+        },
+        "mostRepeatedReceiveAddress": {
+            "address": "0xb6c8ac04273793ffa479d3ea27a41b7af2bc1ded",
+            "count": 3
+        },
+        "mostIncludedAddress": {
+            "address": "0x08ab169b06a3a42c2888c53899303088c16c49f0",
+            "count": 3
+        }
+    },
+    "SwapTime": ["2024-04-05T07:07:17.792Z"],
+    "BotActivity": "Bot activity",
+    "details": "Dex Trader",
+    "HotTokenHolders": [],
+    "Top20HotTokenHolders": [],
+    "TopMultiChain": [],
+    "TotalFee": 1531.8939276596423,
+    "DextraderScore": 50,
+    "averagePercentageyearly": 4.867820408699985,
+    "labelTrader": "Day Trader",
+    "timestamp": 1723552447175
+}
